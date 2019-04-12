@@ -1,0 +1,501 @@
+location,playlist_id,id
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Uzielito Mix,Suena Perreo,DizCtWxvshIngUI3SqQ86
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Alu Mix,Le Encanta,cX3Om7xlCQxKRYo1ofvOM
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Michael G,Tibiri Tabara - feat. Uzielito Mix,Ulyr7Y5DFPnH7Qo3qxvFL
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Cheo Andujar,Dia Tras Dia,EJadbufi05YD8vQb98Poq
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Sir Speedy,Como Mi Nena No Hay (feat. Master Joe y O.G. Black),33FRL9y0I7Pm1QZBeMm6X
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Stiv,Fin de Semana,DLw8XuzlhReXiM2ZUI7m7
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Pablito Mix,Ay Pablito Qué Rico! (feat. Mawe),v7445IeNm2rwJIeEoIGz1
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,DJ Antena,De Tin Marin,S4pezCIx9zIz1xRVcdOOP
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Byakko,Pena De Amor (feat. Sonyc, Robbie, & & Jirvis),4Z1kXHqFMUlllVnGOM9I7
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Grupo Polo Montañes,Un Sueño Y Nada Mas,bVisOYbfWI29XxWEdTKSX
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Grupo Controversia,Almas Gemelas,QMhGGf1lgvq6ZdO19yEnZ
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Jamsha,En 20 Uñas (feat. Don Chezina),J8u0TbIYsn2Ezm6AMc4r6
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,RD Maravilla,El Goloso,8QtlyBrzD98s4phcL1fx2
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Los Estramboticos,La Herida,vQfzyjQFHQ208JCNjcE5H
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Big Metra,Desnudate,BXXTruUHBXHQoSbvTDQR4
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Septeto Acarey,Eres Mi Sueño,ZA9ItQp7DyG6pPkSsq3Bn
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Mafu Crew,Slow Bow,WjFV9P2MAebV1c2Inp6tK
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,La Castañeda,Cenit,hLo5Dg74PGHjSbcP6tNOr
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Maskatesta,Tu Que Pediras,84Ztj2XGMvoWKILVJGasd
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Salon Victoria,Si Tu Boquito Fuera,62E0RMa6XGHqctB0F4SpW
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Panteon Rococo,Arréglame el Alma - En Vivo,wL7mQUpStsapIkNuy0d2Z
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,DLD,Por Siempre,FLSb8CJwrcfXfzfD4ySji
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Los De Abajo,Skapate,mGNPivC5BpTowR3NF45bD
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,La Tremenda Korte,Tanto amor me marea,jGSfblxObklndcGJprEoa
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,El Predicador,Lola,ZQEvvPjwHeASV8reFI1At
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Liran' Roll,Yo Quiero Ser,dU383l2TLND7OfsFzSbrE
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Reggaeton bachata Hit,Tu Pones La Hora Y Yo Te Caigo,FWWmPvWEEBrNHN1pG6zcO
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Los Caligaris,Kilómetros,Jr2cHZaIe1rmdVlc5efIy
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Liquits,Desde Que,QLfVqOrpBOJra53EhlEX0
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Triciclo Circus Band,Adiós adiós,ykwpOJjcAa6qKkK8P9TLF
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,La Gusana Ciega,Yes Sir, I Can Boogie,IwpFZxC7TlYBwVpXqks8n
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,She's A Tease,Why?,QyPYtnOVwmprWCjVgPo1Q
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Eloy,Dembowholic,5WjBIcNE1IhzbQ07WyU8l
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Tex Tex,Te Vas A Acordar De Mi,kaLpH5uG4l7RbLKYU7bF5
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Maria Daniela Y Su Sonido Lasser,Pobre Estúpida,Vu0aOYDeVPLe4dcVrvRvx
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Diablos Locos,Si No La Tengo,BSYu3CEg0L9sDBNXOwKTk
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,$6 Million Dollar Weirdo,Horror Amor,UjcMFyEhvunXzblOdWh85
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Tijuana No!,Pobre De Ti,j14D2Jp4i9zg9KKm9aSBk
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Enjambre,Manía Cardiaca,rhKh1Ool2Yel5JXmiemZB
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Maldita Vecindad Y Los Hijos Del 5to. Patio,Solín,OnOwfpbZCwHnFNDqgjOuS
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,El Haragán y Compañía,El No Lo Mato,hntX3w48OucbEqoLoDnPZ
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Danny Daniel,Vete Ya - Vuelvo a Empezar,l8EHAhOP5vlEvQRDbYVUt
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,J-King y Maximan,Bambua,c0JTabkOhxiIrl9J3Xuy6
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Camilo Séptimo,Eres,ETsxjbYJaA7rPisIou2CI
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Hansel,¿Qué Pasó?,rU0PHummLWtI4Y1IhP7WQ
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Kenny y los Eléctricos,No Huyas De Mi,UBl1NDlUjc4vU3tXr3oQz
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Tino El Pingüino,Fractúbela,BNZcuyCkcBNIhF2DmQlWf
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,La Banda Baston,No Me Porto Bien,xygm1WDRIBDVjHFOYSygg
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,La Lupita,Paquita Disco,CJaBuM4AhPM7jJNnKZqc3
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Cumbias Poblanas,Las Amo a Las Dos,jhtqu6qU7UU4qEfQuv634
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Simpson Ahuevo,Mextasis,TphPWmHsAPXhqz5xqVSfI
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Inspector,No Piensa En Ti,zc3skkzxwCJXVywiv7JvM
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Galy Galiano,Quien Entiende Este Amor,MVbhLRhOLCifhbjwVyZPX
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Heavy Nopal,No Tengo Tiempo,xOW6mtZzHEtnLfekkg5fO
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Luciano DJ,Intro Teléfono Perreo Rkt - feat. Mister Remix,wGH5DubI46XGN7JoSUOZ6
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Café Tacvba,Las batallas,HTQcxErjqv1Up3ZOoJ1di
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Cumbia Sonidera,El Baile De San Juan - G. La Chomba,hK2rfRJloj1iOeUriA9Yn
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Eddie Santiago,Cada Vez Otra Vez,j3KTmge5VaTBQyHOV4gDw
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Cumbias Epcm,Amor a Primera Vista (Cumbia Ecuatoriana),bAKqVOcR0VmoGaQwPnzCa
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Charlie Monttana,Vaquero Rockanrolero,imxKxbwy0GI2nU5tfIs27
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Hello Seahorse!,Bestia,cKV87i0a26fITE8Ku1Zwi
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Quiero Club,Let Da Music,pfDPQjEnsaaNxfMd4Kn3X
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Odisseo,Días De Fuego,llXG2KrSGVjW3fVJrrmcE
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Alnz G,Todo El Fin,a5elpJpYrugFlVgbpNHUs
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Los Daniels,Quisiera Saber,ETuZtnJJ1brMNiPpd2LFg
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Zona Rika,Voy Pa' Allá,K7tsUqnU0oevgHszISemt
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Ronald El Killa,Bandida,4x3n7BvCwcKw6ANKHP3dd
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Timbiriche,Amor Primero,SPr50YRsnKPrb5UnJ9VTA
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Rostros Ocultos,El Final,9ELDQVDsgBmo5gbTuru9U
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Mœnia,Dejame Entrar,c1JleEU920IOWJCdqRW0n
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Fobia,El Diablo,1PKgx0ep9pIKJxJvTBnqx
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,DJ Pedro Fuentes,Sucia,8dh5S5WL7U7haWDtFG6Mu
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,The Guadaloops,Nunca es Tarde,H3qGQ4XzVRm8xlRPDnM3I
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Mandy,Que Paso Ayer,uw8IYZgMOYjmcPjtEwCrI
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Monocordio,Siempre Te Busqué,a75CWRq82AGSHdL5Qw515
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Mr. Grillo,Bajo la Luna - Hagamos el Amor,ZmcmyNb0C7q6FnKfk4MgN
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Comisario Pantera,No Es Por Ti,6PUtHbbVfcRnoGmnWxVTy
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Ultrasonicas,Que Grosero,bNA2LQPTzZoye58HtZjsp
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Grupo Cañaveral De Humberto Pabón,Vuelvo A Sentir,mjrsSbmQfubagRLXUTVWR
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Sekta Core,Fantasma de la Rana,k8A9pwl4R562JnNnRSjnL
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Victimas Del Doctor Cerebro,El Esqueleto,Z05BEFLTKxdp9xSjUnPGX
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Barrio Pobre,Toda la Noche,AdH7YPhpK5zUz5Buz08zF
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Karatula,Al Final Lloré,U8O8ZjjM4b7ROyOPQonDj
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Liran' Roll,Quien Te Cantara,h4YWETL6DAEKpeSr0CaGu
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Cuca,La Balada,uGfA3nwqg6bd7IzE7K0Rp
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Los Victorios,Psicótico,7ZS9Pe4ksHq1M21aBFBBR
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Nortec Collective Presents: Bostich+Fussible,Tijuana Sound Machine,QD7y440mt5uvoDeMPHQai
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Zoé,Soñé,oMaBqivBDg7ID3EHtydeX
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Lng Sht,Romcom,Jgo5cDlZaz2JlZgHEgbgN
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Kinky,¿A Dónde Van Los Muertos?,Kqu2qzklldYONlvrojo0t
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Macka B,Step Up,cbqh8woSu03Vj8s1PCK9C
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Hildemaro,Desde El Fondo De Mi Corazon,IM5EJb4UVzLu552ZtgEry
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,The Latin Brothers,Dime Qué Paso,mt78Kqk6pkb4K4vD0kioS
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Super Yei,Me Llama Todavia (feat. Towy),JhoIpQU13WQnC9VlHvlba
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Neón,Juegos de Amor,K0iKwKRqZcfT492oLOvSl
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Various Artists,El me mintió / Mentiras / Mentiras,vH5XEjmmUMUeTSvAUoxwO
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Onda Vaselina,Un Pie Tras Otro Pie,uqxzjz5ehO69HMD7YUWMV
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Ely Guerra,Quiéreme Mucho,1tX8W9SSVju5DqlGcoAxy
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Orquesta Canela,Embrujo de Amor,YlP6iqZAFdfvULiSyo88I
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,Nfasis,Como Shakira,kYvE2fb9OXZ5f7I9ShUwr
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,La Combo Tortuga,La Tortuga Vacilona,rYLvRRb8dmf9R7jXihxyg
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Santaferia,Tomando Alcohol,MYP3aoAnQboUrNQ12dcFR
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,La Gran Magia Tropical,Furia Loca,qQ5S7epEa2ExyE0nSmXWt
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Sonora 5 Estrellas,Supermandoneao,NdwQ9WlP2fOTc2etE0YDK
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Guachupé,Todo va lento,nPwgG62uGq8fPMc5OmptN
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Forest,Andamos De Pana - Remix,wwnBngbXBTeMlauFJ3dAF
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Luis Lambis,Ya Te Olvidé,Q1xQLuG7ztqA0FdojOCPj
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Villa Cariño,Para dormir contigo otra vez,MarqoT4wE5uNITGuEZams
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Noche de Brujas,Oyeme,zsbeQtP0KZ9hXabeCHqo2
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Los Charros De Lumaco,Charros para Rato,zVkQBc220Acc5Ie41uR40
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Garras de Amor,Báilalo,kXjQNAuP4dBb8gb1xO39E
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Grupo Alegria,Mujeres y Cerveza,Lfp553u5K9VDEpdIgGtpJ
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Luis Jara,La Última Tentación,L0jz4UDyzqkxVFHZ8rVyt
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Joe Vasconcellos,Las Seis,6Q1u9KJUMcun4UWv0b7ik
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Dash Y Cangri,Un Chance,kp5CzGjsCI2Vcalfcn6CG
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Shamanes Crew,Amor De Luto,BUtlHw09bzZXdEyjobaI0
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,La Rosa,Si Yo Fuera El,yMBR5y3KIYNIprrlc0jT8
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Fran C,Jarabe,Y1mZWh75YeCRwWT6lKgTD
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Amar Azul,No Quiero Dormir,p34HFPU10LkEekwkUKMzS
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Los Vasquez,Miénteme una Vez,ZyKs32GmHqUgEMB4phZtF
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Juanafé,Tengo Luquita,EYGVS7euI1GTiYkKBOSfk
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Moral Distraida,Hacerlo de Día,nApFXPoSanA4n7j563Ind
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Maria Jose Quintanilla,Fue Dificil,ntuD3ofO39wHlPqu27p0M
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Denise Rosenthal,Lucha En Equilibrio,XXRbcWjc6jQhAS6MxyYmu
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Glup!,Freebola,Qp77m1Ai0jnuD7ojdYzr9
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Tiro De Gracia,Melaza - Remaster 2004,gSofvTtSnqskFhBQIzaU9
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Tomo Como Rey,Los Que Toman Como Rey,7BCrNIUKHgywCuYAIdNtz
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,El Bloque 8,Te Veo en Línea,FddoqOIEVpCSWinKYNjlP
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Chancho En Piedra,Locura Espacial,FauDhvAuanceOTIGQZAl4
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Sol y Lluvia,En un Largo Tour,tAsEaXdXgCiwUdBZ77Dwq
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Los Jaivas,Sube a Nacer Conmigo Hermano,fvBHLNI8Ssmzll6uXdaOr
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Gianluca,Amor Platonico,v5yVTLOkqoI5lAwI5FZms
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Yiordano Ignacio,Mambo Para Los Presos,4yYVlxDi7orbwheBXqIPt
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Chico Trujillo,Y Si No Fuera - Live,xpzjqb00GNVfCsgfP3igG
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Jordan,Y Qué Pasó...?,yVGDR9w1srAuQAuUjEShj
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,La Pozze Latina,Chica Eléctrica,rHdsAq6qtSTdwJW4luqyW
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Sonora Malecón,Melosa,Pss9knIWhZDWlGXmnDI0S
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Makiza,La Rosa De Los Vientos,ItEUMz1CKL5CJxmnBAADO
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Los Rancheros de Río Maule,De Paisano a Paisano,Efl38yKPpMdl5mxFTrvpE
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Megapuesta,Quédate Aquí,4pZISz60vXLxF8qndud8b
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,La Banda Tropikal de Vallenar,Las Dos Camisas,pfD9cp1evigTGungCt8wP
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,La Rue Morgue,Blues A Dos Mujeres,W7c7B526zf3zAF3tptnyG
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Movimiento Original,Originala,4pk5J0ZXg3UmNnYKotnwn
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Cami,Abrázame,I8LCDxPanFo2hfv0oObPK
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Chystemc,I Love You a Lo Vío (feat. Movimiento Original),bdkF0rHjyjnIeqBjQAdR0
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,La Transa,Mi estúpida canción de amor,lk4t6kIBMpMQRidOkrAEs
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Amerikan Sound,Haciendo el Amor,MW7ZOIkzWaELXisBAmeGD
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Alegrìa,El Teléfono,fAYTdGHbIZWQHFv4IcBkJ
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Chorizo Salvaje,Bailemos cumbia,YWd4Zgrx3bUvgJ8MxihBV
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,area3,Mala Fama,hszztxn5tSeOQ8hyDiYOE
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Sondelvalle,Maracuyá con Mango,9VAHjQ5hhomyillTA4luR
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Sonora Barón,Cumbia Ideal,zGOBy6o8TxiPPlXfCN7qP
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Illapu,Sobreviviendo,S0wnGan4owAWCcdRu4FzM
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Los Tres,He Barrido el Sol,fbP8sQu1rEgT6RakeidoS
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Los Vikings 5,Boquita De Caramelo - Edit / 2005 Digital Remaster,gIqMEGT1Ov7q47H5MDF7n
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Jorge González,Mi Casa En El Árbol,SeRpWDWkDDbqNWAFCS5Ng
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Los Miserables,El Crack,UUtewTLgASbX6afOBHAeQ
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Vian Yovi,No Te Creas Tan Importante,GbarrXJOH93GRwgpY6CeX
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Los Tetas,Corazón De Sandía,ip3MFKPt3q8ct6tjxU9XC
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Los Prisioneros,Corazones Rojos,44nCwfi32MNrkALQi2qga
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Ceaese,Te Quiero Ver,cBKhNt5d0f6KxJxziKr1N
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Nicole,Dame Luz,dSWYkGqX9hv9xLdKYR2vk
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Hordatoj,Ayer,9Pi0IvElYFWiqvRcxMomS
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Kevin Martes 13,Su Corte,BscZ2HLq6kgQwBmRmO8mq
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Apache,God Level 3,kE4g5dHVUeLdzPukt1VTF
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Cidtronyck,Nuevo Comienzo (feat. Portavoz),drA4it4HPdsCBY0zYQDkz
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Javiera Parra,Humedad,1JlWe6b281dzhGZVZS0Tc
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,La Noche,Quiero ser libre,29BK1xnXw5yiHf027MYOe
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Pablo Chill-E,ShiShi Gang,JByBLr2rARkPItvumXiJP
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Princesa Alba,Summer Love,yoKcUTNl4fdpQs0m1U376
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Portavoz,Desde,ZmsMLLzdWDsEM5PPjvtw9
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Zalo Reyes,Mi Prisionera,Nd9BaGDYeTmrYlWzlKJVT
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Power Peralta,Pegate,tuI94vyEirC0j1TWwUVRS
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,De Saloon,Te mueres,YqBGtBmj9jhTGFgf2rF7a
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Sexual Democracia,Macondo,2OuR1BddFnEBRQlH9hfLl
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Francisca Valenzuela,Afortunada,oGcLhbdlhz7EOwIqcLTcJ
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Utopiko,M.O (feat. Movimiento Original),Auy0hP2poMVxU4Pf86ibq
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Macha Y El Bloque Depresivo,Continentales,ukiijvsJuB58dFxW1tVDT
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Los Charros de Luchito y Rafael,Cumbia Ranchera Nº 2 - Megamix,SB1rK0QCyjaNyk5Cmq6TN
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Combo Ginebra,Pasto seco,1dLj7DdLxfX2zzNYGJmc9
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Jonas Sanche,Días Grises (feat. Ceaese & Yaero),Tt9GtDZ4uj7ufPAbzt2xq
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Lucybell,Cuando Respiro En Tu Boca,EhButiJbrrRbO3qguSKkg
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Saiko,Limito Con El Sol - Remaster 2003,UistPN3U0Y7RUSqjyEHdw
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Peregrinos del Amor,Cuando Se Acaba el Amor,ShzW7auYJrvDDDhV96EOJ
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,La Floripondio,Bailando Como Mono,GOBsKucPG5Bh8qzStmrQ6
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Jordan,Dos Hombres y un Destino,hdjTCVHIJDOPnkjRAKjtX
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Stailok,Justice,bVmmafdRNsgoEUTIzTK3h
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Upa!,Cuando Vuelvas - Remaster 2002,GzijvxUMVSpsu6RPML33K
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Gervasio,Con una Pala y un Sombrero,nfJhA7Ug7Tj5NTCq2mJId
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Grupo Red,Amor de Adolescentes,ksna7ji7FVlKDpq6FUHSE
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Duran The Coach,Bebe y Fuma (feat. Ele A El Dominio, Jon Z),HTo8Qn6K6xgmMoy3Ls0uu
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Supernova,Tu y Yo,1s5A5DeCRdF2ENhGHBi9b
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Organización X,Mozo,61r7cKe9jxaImXinA02p1
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Américo,Traicionera,zoP4qnuk0npMUMAG3D1HA
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Liricistas,Estilo Libre,05l6Owh3UzgxhP7J3k2fg
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Bascur,Mentirita Piadosa (feat. Chystemc),wcfQivzF9I2hlIRHGvqXE
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Potencia,Cuando Estamos Juntos,i1qRsvRcqpCmv9ZTLmU0d
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Adickta Sinfonía,Así Me la Vivo,JM7RGzwRkNRq9fpAj4TLU
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Inti-Illimani,Samba Lando,ra9LRRW3Sk6rEgaV0GbAm
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,Elixir de Beat,Ingrediente X (feat. Chyste MC),Mh7H1Y5dmxv9sOSIPd6tK
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Nando e MC Luanzinho,Vraa Vraa - Vai Tchuca,KFCzlHEGjm6lW9y03xnQx
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Dj Guuga,É Tchau Pra Quem Namora,fRsPr9XlNZL72AQfGWpuJ
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Liga Independente das Escolas de Samba,Grêmio Gaviões da Fiel Torcida - a Saliva do Santo e o Veneno da Serpente - Ao vivo,rI7qEH92z98eUfOB3z4Pq
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Leschea,Fulton St.,xIHePHJbOEtnzlwAOoCtz
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc PP da VS,Areia Branquinha,VfNRhmIPJaVhUhwy8F6G6
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Trilha Sonora do Gueto,Um Pião de Vida Loka,12C6IYOKvgi2G9a1mAPd2
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Kapela,Um Brinde Pra Nós,FoXApsKhnIF9EbMxrB4zr
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Dj Henrique de ferraz,Leitada,JvscDmxWMgM8rRk24Ov2D
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,RZO,O Trem,FpVLn9ne4NDGo83yRTAIi
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc Brisola,Ta Duro Dorme,QhJBRJ2LmfVTCJNwRziLL
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,509-E,Saudades Mil,9zU8jvVMf5GEvpFqBF1Ya
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Neguinho do Kaxeta,Dona da Razão,EioiSB2XTk2oQepKx6W6s
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Vou pro Sereno,Alguém Me Avisou / Saco Cheio / Bebeto Loteria - Ao Vivo,Hmg9uA2YvrRSxH5WBD5WU
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc IG,7 Dias,6pfQEQ4TOvfsFsx5FuE4D
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Rodolfinho,Um Velho Ditado,jzzCGx1RcoOde4FXYUPt6
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Hariel,Tira de Giro,kBXnEn4GnZkRw47ELSbLP
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Circulando De Fulo,Aguas Mansas,MlfBvAGNla4vwMIlu9M13
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc 7 Belo,12 Não É Mais Baile Agora É Rave,pddiZ7R9gTyqJNRBlyEbA
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Consciência Humana,Lembranças,yViudNjrI9luiW3BVmb7z
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Somos Nós A Justiça,Se Tu Lutas Tu Conquistas,PB7UDGE3Gsap2XTRlLept
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc Talibã,011 É o Ddd,XxCrC4JUUy9RNVfjDW9MG
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Racionais MC's,Fim de Semana no Parque,hkLnjLwFQtSa1I0IZ7mzZ
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Ndee Naldinho,O 5° Vigia,ZhYU1cx9sSF8pO0pNZVb7
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc Kitinho,Medley dos Fluxos,IHMMG6snRBmonpoVfTUTD
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Filosofia Reggae,Sentimento Bom,vyKzl0o1lem1sHg5wXgSD
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Alê,Enrola o Cabo,mjzAkVYEp7RRWRKUfhA7y
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,DJ Naldinho,O Golpe,yU39gdcTgWqhQ3hk1fsLP
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc Davi,Bailão,nQQzwQCWr9tveX49I71Ml
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Perera DJ,Quarteto Fodástico,pU1CpdWAAfMQgOljmb1MW
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Dexter,Eu Sô Função,G9bkmb5SZTsLJ6vj0JLII
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Dynho Alves,Tapa No Vento,QDm2f94FyAboDQW6O5Iss
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Sabotage,Um Bom Lugar,sQPek0zBGZUTK4Eh2opvH
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Turma do Pagode,Você em Mim / Ôa Ôa - Ao Vivo,MYSxFLcUIqB9E438JLxHU
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc Kelvinho,Avisa Lá 2,B2S6tvhnlOKQOdC5yOmfF
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Thaíde,Sr. Tempo Bom,QHmlQiT4VUz0w5jjMQwGy
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc Kevin,Cavalinho,40qyRZz87d7go4Xuzfzrd
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc Nando,Estrala Sorrisinho,v2iyJNLp8oacAGK3OUd2r
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Maneirinho,É Tudo Puta,x82ck25gCbMhOjzPriTO3
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Magal,Pretinha,5fke2viI2w76dWJ4v959t
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Arraia,Suave Suavão,aDY2fuWs42aKgaMcUAbcf
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Grupo Fundo De Quintal,A Amizade,wPYSsMTy44fcY8eFXFBhE
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Art Popular,Sem Abuso - Ao Vivo,yDjFcO9qsgnSKD5Cpo6jg
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Menor Mr,Sonho de um Favelado,NHxhlfg2ueydSqWahv1by
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Dede,Partiu Guarujá,vIQ4HWviBtBvSb5nxf1lC
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,AO Cubo,Naquela Sala,XJ6XyjRCW4XiWL9YmOwi8
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Nego da Marcone,Taco Taco o Saco: Na Simplicidade,YmywfAfh8sYs0nbZZAoun
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Zapi,Brincar de Hit,gWsrPmBfYwOAzy9bPHkKF
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc Don Juan,Nois Tá Bolando um Plano,FHmZoyY94SR0sMnW1elze
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Murilo MT,De Copão na Mão Sarrando a Sua Filha,2TcLlWdm2NQLRgDCWQQwR
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc Jhojhow,Foguetão,zmXrVvVhmsbdYbpVCQpEp
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Reinaldo,Problema Emocional - Ao Vivo,Hy5lPOTjFLWUh3LLupyw6
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Planta E Raiz,Aquele Lugar,sz15cgzZTl6lhgx8KUXNH
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Marcelo D2,FEBRE DO RATO},MsmBnJyNTNTD85wbXRf5X
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Criolo,Grajauex,D5sRscjhPXgpphwIdrDEP
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Rafa Original,Vai Maldita vs Toma Tapa Na Cara,6FT0PccFMgpopHQoaVf2b
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Edi Rock,That's My Way,M7bbRsVNB8iWQaX8Sbfln
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Maneva,Seja Para Mim - Ao Vivo Em São Paulo,RuScevud12uKYhhJkYTJ7
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Pixote,Franqueza / Tão Inocente / Tudo por Você,JHmOcoeEFfCNMyQ5tfZAS
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Emicida,A Cada Vento (feat. Rael) - Ao Vivo,PfR5Cm2WcxZMCEej8Muo8
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Grupo Sensação,Pout Pourri: Pedaços / Sentimento Nú,C41Es5Gulg9vm4bPb0fpn
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC V7,Abandonei a Gabriela,hBJItQ4UzU7daLNHefFdd
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Charlie Brown Jr.,Vícios E Virtudes - Ao Vivo,oBXDZlUkqX8BU88YXhzfy
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Zeca Pagodinho,Ogum - Ao Vivo,korsnkzzZfWGbKxuVO1tI
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC MM,Mandelinha,3LzbNqN9FsjTMzaNhnumt
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc Denny,Eu Vi Essa Mina Crescer,3qW16dpBaH1hRzEHYGGlg
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc Ruzika,Chaveando as Quebradas,9BLjeSYcGtHKIbkz8gw3q
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,DJ Bruninho Beat,BEAT DO MEGAZORD,8IenImVNcKEM1K83FkXxg
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Arlindo Cruz,Meu Lugar,0ejYprsOG1G7RwuOcRyxo
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Samprazer,Dominó - Ao Vivo,ggkHZbFGmofl9743xx6JO
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Big Up,Xangô,8uvCEgl63qsQIokBgOarp
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Rincon Sapiência,Ponta de Lança (Verso Livre),Y8dSlRPhYGN96MoPCFj8c
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mr Bim,Vou Te Fazer Só uma Pergunta,JqfxHoQljxXEu7Hu7xQq5
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Vitinho Avassalador,Medley das Favela,uuJ7Furyg3cBga9t0V240
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Sem Compromisso,Nascente,srqAeqDREIpII6xAjZTFh
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mato Seco,Navegantes da Ilusão,o4Ge3i62AkGiRQaTZ2ZWw
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Inimigos Da HP,Brilho De Cristal / Vergonha Na Cara,Mk2oRfRIbt0SetSvDZSmi
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Gomes,Toma na Tcheka Vara,NhURyuIRBR9mjL9mEq19l
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Grupo Clareou,Só Penso no Lar - Ao Vivo,YZRxL0l3XDFEF5R2tINJ8
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Hollywood,Tipo Rave Balança o Popô,IlDjZbhFO0ZjLf5HHR5m7
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Theuzyn,Ela Tira o Pau da Tcheca Pra Botar Na Boca,tWel5tN28HtZR3Uqzo5W6
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc Neguinho do ITR,Beibe do Biruleibe Leibe,ytfGVGhNy7snMYELejMuh
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Sampa Crew,Eterno Amor,nxRHGSdTr6lwc2QCrRAEv
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Péricles,Se Eu Largar O Freio,KEEy2crzoJGOVRnUYf9bL
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Rael,Rouxinol,Trpe6kyfSj3LEpJY0X690
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mv Bill,Soldado do Morro,DcxN9jzax8WgSl39XtTfx
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,CPM 22,Regina Let's Go!,zn5OFYwx705WTvYejsRxl
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Exaltasamba,Tchau e Bença - Live From Brazil / 2007,oXFfHuBuasMQ9lnPSRvGU
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc Leléto,Bailão,s1bC7aTcDkoe8LAzbalGO
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Planet Hemp,Mantenha o Respeito,scK80Nrz12oGUnQGcPgg1
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Rodriguinho,Vaga Lembrança / Pretexto - Ao Vivo,rRus1tQw1WnLHDpxDJ1SC
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,NGKS,O Lá em Casa,AZntbKaQjQRgbiuZiU2uH
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Novinho da Praça,De Copão Na Mão,jTklgSJi6sfdInLMT5WYq
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Dead Fish,Você,qxpzKPmnYEetfTV7upw1V
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,DBS Gordão Chefe,Qui Nem Judeu,R58QvBYID3mTnOqtlW5bv
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,MC Menor da VG,Tudo Na Sua Mão,oo4I7S2jUqqsgW5KlZUYS
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Orquestra e Coro Cid (Flabanda),Hino do Corinthians (Campeão dos Campeões),6Ok31cNBf2M0HuRPdTl7i
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Mc Livinho,Irmã Gostosa,B3gD0HJTvH8zHVajBjoWK
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Almir Guineto,Conselho,Mzyn2oAuugeBOfcQo4R70
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,Soweto,Derê,2TvsJTuBVTGcvx059g0hJ
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,DJ Pernambuco,Vem de Bum,aP23FbogAM0e9nI8SIV4u
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Kalan.FrFr,Right Wit It,3362urespwVm9Q7Uif1V8
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,RJMrLA,Hoes Come Easy,tVwKHwJ5OfNGIyAuM8HLL
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,03 Greedo,Rude,A8KuRrV72ZP4MneZRCsSm
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Suga Free,Why U Bullshittin'?,zb1zBmkrPF6VW8RhlSYA1
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Mustard,All 4s (feat. Greedo),c9gVhu8J6Vlc1Gu4fxwS5
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,1takejay,Hello,BbTfV6NXacNelIcVLXu9t
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Brenton Wood,Me And You,HTFY66ZttBULqR1108Zmy
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Smokey Robinson,The Agony And The Ecstasy,xJEOq9DAWkPYvLzY7eIk5
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,The Temprees,Love...Can Be So Wonderful,lRD5UGnUCaon5g5cHbkCC
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,DJ Quik,Pitch In OnA Party,N7qu71GFoEzp7KK10Y7m3
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Vinny West,No Face No Case,ZIc9JjtVQadMkew71IhLf
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Ralfi Pagan,Make It with You,3UfvHTeL1PP8fQSeHbxXG
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Frostydasnowmann,Oh My Gawd (OMG),NYISeIy8lsfbE24RU4nAA
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Drakeo the Ruler,Out The Slums (feat. 03 Greedo),Qi9SeAw0uPxuQx88u4eoI
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,YG,Ride With Me,amEGukf72WmlPCXujlRgl
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Billy Stewart,Sitting In The Park - Single Version,m9UWD6ChNt4V0ZYOBwzMe
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Patti Drew,Tell Him,VZtkNntW57HvblvTBlABe
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,The Fuzz,I Love You for All Seasons,3DQO1cC5RzTWRxJLzJCgy
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Don Julian & The Larks,I Want You Back - Remastered,ZWoj485L6n4QRN0ahm5iY
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Barbara Mason,Yes. I'm Ready,gZpW5pTZkimGG98loFSl2
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,The Elgins,Darling Baby - Mono,6EcsKLusAz7ydla0ENGkg
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Kamaiyah,Fuck It up (feat. Yg),rr19p6NPfg8oUazZQnkS8
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Kokane,I Luv It (feat. Kokane, Sir Dogg & Snoopy Collins),nbH85acNzcX2WrjAHUVd3
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Shakur Luciano,Hennessy and Moscato,0EJsLlXQjNj29MaC2E01B
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,El Chicano,Sabor A Mi,MkNn0vF9GKABRBcOllTy7
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Radiobase,Bless the Bottle (feat. Cali Stackz),p9ovGoDiYKgOFmFMDgdOI
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Bobby Moore & The Rhythm Aces,Searching For My Love,5tK0tPifZLhXpNSVAS0sl
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Rosie & The Originals,Angel Baby,1keN33KR0rS5jwKi4JNLE
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,The Notations,I'm Still Here,PwNnHOiEsR93ZHJL1FSHk
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Mike Sherm,Asshole,aD0Es1eyfVqpYZKJm9WkC
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Malo,Suavecito,QoFWpXoaUyT44VmR98wLl
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Rucci,Light It Up,rVebGdYQGQdMEp77echuP
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Chico & Coolwadda,High Come Down,gc19xZ8SvONdW6ZVHlYSO
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,The Intruders,Sad Girl,eAZTu3kRk98Exu0n92YMC
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Saul Viera El Gavilancillo,Querido Amigo,HcWV4Qisuyosy3v1PeHlm
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,War,Don't Let No One Get You Down,xKmEPA0Ni2yUbhSXVbNQj
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Mary Wells,The One Who Really Loves You - Single Version,M732X5J2BE6M8VIHHfxMx
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Shoreline Mafia,Boot It Up,sF9WD3MnaoHQjJD2sL75D
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,The Delfonics,Break Your Promise - Remastered,k2cegIpd6Nc2WpO6xaSIc
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Dom Kennedy,When I Come Around,y4gIF4tD785sjnCFAtqRu
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Pete Wingfield,18 With A Bullet,2pojhQ3QWI4vzAvDVCHDQ
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Sunbelt,Spin It,RbCDRzP5UaE4ZDUvqlq3E
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Joe Moses,One Time (feat. RJMrLA),jBDIF75tLEjmJolTvdonV
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Little Anthony & The Imperials,I'm On The Outside (Looking In),kMZdaCLHWqECFKOatBPXF
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Joe Bataan,My Cloud,CcKjHSfALxxdzWt64G9Gv
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,NB Ridaz,Pretty Girl,BgFkKXIxv96EALb7NrnhQ
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,The Royal Chessman,Beggin' You,89I2t4hCod149f84P2lYj
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Devour,Bout Me,Ir5FkO3BvsHanJKiraJW1
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,James & Bobby Purify,I'm Your Puppet,z71EfouOWMI4HHZHEjnkr
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,The Escorts,Look Over Your Shoulder,DqAjRljAIOJJq8kT12Dv1
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Too $hort,Gettin' It,K5dQsYdSdo2LKdepxbYAd
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Tierra,Together,lwHRyx3Sxl07UoVp2dcUM
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,The Impressions,I'm So Proud,bq9YHKExHdNzMCublodNs
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,ManMan Savage,She A Freak (feat. Ohgeesy & 03 Greedo),gWmZ7eZULHN15xgiwHdsW
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Rich Rocka,We Run LA (feat. Doc Hollywood),IDKkclCmCsJxHJLtD9RMW
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Barbara Lewis,Hello Stranger,DtdrabT66jmGZDXmE4ISx
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,YG,I'm Good,KJ7btrsyVPy2VJXBElxq6
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Azjah,Time for It,XbHTAmnCUpm24jCaXoYRD
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Tony Allen,Nite Owl,FsEGMk5pEtrChLU8etKBZ
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,LilCadipge,Get That Check Right,hdqpu8PMPpDElAqGoX6ZV
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Barbara Lynn,You'll Lose A Good Thing,CEREcGR5WaLt40YzTQ62e
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Donnie Elbert,What Can I Do,Qe7CY3FlIpwENvffjHJ61
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,MC Breed,Ain't No Future In Yo' Frontin',0ReeHCY0FQUyuAUyPJdnk
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Mack 10,Backyard Boogie,Bbd5inN2znpGQkxZbqmmU
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Mary Jane Girls,Candy Man,STCPBRYYnsGlzmhNktVou
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Zapp,So Ruff, So Tuff,k0Jp5IYHtBeSNKUEOqE0i
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Lil Pete,It Ain't Shit,vRjR10C2dZgs2Y6MFESqH
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Nipsey Hussle,I Don't Give a Fucc,VxKmRzxl6XIHiCL2dgnVB
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,The Sapphires,Who Do You Love,kR2BCzArduYNuJdtezM8L
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Los Nuevos Rebeldes,Luto En El Cielo,2XOpOtn7qO0oVFgLuNHcV
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,The Love Unlimited Orchestra,I Belong To You,MBElS4eYvaBwsu9UyKyLJ
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Red Store Bums,Tumbleweed,3pFyRJAX80UK68OBkKGgT
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Vaughan Mason,Feel My Love,YBkvX49JKn9hZYGuRFmxW
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Lighter Shade Of Brown,On A Sunday Afternoon,cM25iyn6zKOfnywTNtvyb
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Lil Rob,Summer Nights,fVCBBlHif6zfqXAEHKJy8
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Pure Luxury,Not Yo Nigga,gl67chZCLB50gis74TXV1
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,T-Dre,Lost,LLHvfvE21JQFD9ZKVCbd0
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Saviii 3rd,Another Day,cZWO9Sj8ci92hno2Xs4Uc
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,1takejay,Pass the Henny,KWcD7bv0kwFcBS6tk9jig
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Linda Jones,Hypnotized,1XLXWcDdkKxvhvsk302QB
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Los Dinamicos Del Norte,La Rubia Y La Morena,aqsQyxUdXNQPvgWe6gqON
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Arley Perez,El Encargo,JuEtqHaugC5fadPkkRfwq
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Thee Lakesiders,Parachute,9WvXcG52xjJ6n1y8frcNl
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Arsenal Efectivo,Vida Peligrosa,UdC2swdiEBCsP5mLyESWG
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Debbie Deb,Funky Little Beat,EZH9iTS81N24MFhrWyYMY
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Peso Da Goon,DoughHunt,4EtbBqSuCRXMJBXm6R4GE
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Lovelites,How Can I Tell My Mom and Dad,HCMxcxsVcaFrjAb9efSJ4
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Tha Eastsidaz,G'd Up,zIXpzuCC7FM4kECt2eEzu
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,The Moments,Love On A Two Way Street,gImbBWvXQWQ9ZDSQUWvNI
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Brenda And The Tabulations,Dry Your Eyes,CatqCpXRX3MGdLNgHoFAM
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Antbeatz,Batter Up,mJ6ZCsLaZqGbi4LFhSLNI
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,The Whispers,As I Sit Here,ucvsFr0To215PYFNWs6Wx
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Shep And The Limelites,Daddy's Home,Vr3XMnJyu60xBUUchWUrI
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,SOB X RBE,Anti,BVC9lRwjgKrWwDxgFAKA8
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Berlin,The Metro,Mp0s4jN8X7J74Qt6sgDXl
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Dramarama,Anything, Anything [I'll Give You] [Live at the China Club],8DDI7sV7bF4vZXhqnDhWH
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Duse Beatz,Uchies,5uZ4GpEOKHz9Z2RCDGuLs
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Thee Midniters,Dreaming Casually,QHlzEmen6tBNSUh5wbxh3
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Ahruh,Show It,HSfXQXGItHyIZGgsa9qd0
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,Aaron Neville,Tell It Like It Is,6BjgQodHebiX5QGpBAjyQ
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Elvy The God,Code Purple,vPxr4Ld73jcUAmkKzKnUU
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Spenzo,Wife Er,97nFPGdrdELprSm6eiPWr
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,El Hitta,Aww Yea,gEIRzEFE8xYZXMtkBa42r
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,King Louie,Live And Die In Chicago,upTWC3MUnRnBlNdjRygQr
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Grupo Vanguardia,Sin Sangre en Las Venas - En vivo,F4a8E5DAnalrKHAJkYA7F
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,TrenchMobb,All Types,MXqX3deQwaGQDiswmKOWs
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Stunt Taylor,Fefe On The Block,s9hBKw37JvYV9KYiR9oef
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,El Nuevo Ejemplo,El Abandonado - En vivo,yobZ0WZw001zFukd5OsF0
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Welcome 2 Chiraq,I'm Da Man,xrpLR4nycjSIGAhSbVvuQ
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,DJ Spinn,Bounce N Break Yo Back,mI20kUdIyOaAhtgeonE4g
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Grupo Dos Banderas,El Vago,X1hGFQHuYJU2SxuAtI0rM
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,L'A Tone,Come Up,4d4A01dJJw5lXCE5ErATs
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Phor,Chi-Town,55p5lw166LX6IkKxzh2Fm
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Lud Foe,Cuttin Up,6KGEWYjuVgGjbGPrxp1tx
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,G Herbo,I Like,dixqholn3UPyI5nSxkJ9G
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Various Artists,Love''s Gonna Last,Q0Y1eV723A8YJGr1qhU0l
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Traxman,Get Down Lil' Momma,gqKLO4Y6mp2cLqmuYX6Gx
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Young Pappy,Killa,1gj9t5gqjQrAiqixfUXdS
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,DJ Rashad,Juke Dat Juke Dat,vrmAvc4WcVbDe1fmPRtUT
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Taysav,Midnight (Feat. Elvy The God),BDwPndxLc5kJpdKIQ7mi2
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,DJ Lucky L,I Fell in Love,iMG6QsNvXaXBXiBGFPgiO
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Chief Keef,Text (feat. C. Mula),abCRWLqZwkaPhBMVdzEbE
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Jason Waver,Love Ambition,jx79ejetJt0w0FO4Kx3U7
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Project Youngin,Spaz Out,JRTprsMNHki3qnZEniBlO
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Lil Bibby,You Ain't Gang,fNkxgImVNczSgpF7OVdIS
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,El Hitla,Aww Yeah,jlXNVcZur0HtqJnLmxQK9
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Katie Got Bandz,Make Me Rich,7XJQ28uA6DIQwVGykSZ0o
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,LaToya London,More,V1Us6xbzTCC0EPPgJ69gZ
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,FBG Duck,Slide,t35Gl89MBdzXZYhz2owdG
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Sicko Mobb,Fiesta REMIX,YHXkvQR5rj35HxJGPxcnX
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Lil Durk,Bang Bros,GlIlfwSYBNNbK6nu9HeRC
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,T. L. Williams,Gettin Mo Money Than You,OOGNqt4TIJbZ65CDRlUCp
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Boss Baka,Drugs R Us,EqdnjBLEbJk7mqCePI38N
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,King Von,WAR With US,FNoFfeNpGkCCSoX9NFsrW
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Cdot Honcho,Old Chicago,kBG0bkCrkwWICwTUXPHth
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Fly Boy Gang,OHH WEE,0HlU4QKlZ5eKgjvyiHCJp
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Ex Okays,Involvement,9aMOOYX1xcJfMIp0oWr92
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Southside,Who Run It (Remix),ZZsvbuTbdD3mMEIxlEbKT
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Mike James,Imagine This,rdjD694pGEJlG7Q6ERchc
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Only The Family,Crazy Story (feat. King Von),i0eJv1DzuyhaYnro4wTKg
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Cajmere,Percolator - Reworked '10,g7wZC14D8TLhRHHIvxBvj
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Bump J,I Want It All,2oM9fimbfumZeuJUws6hX
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Jay "Slique" Adams,Your Body,jebRuZFI7WwclJxirbHQi
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Crucial Conflict,Ride The Rodeo,yPZQqjp9XgjiUTSJLpF3X
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,JS,Love Angel,4pn2KFZjPZBNLhffJOY7R
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Bobby Hutton,Twenty Years Later,after So Many Years,6R4F3Kwt10XFuInqfDf2c
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Polo G,The Come Up,x4UTuG7Jx2ZzWdBJbhMnW
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Steve Goodman,Go Cubs Go,bwLJXvQyP8IXropz0X0hy
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Drilla,51 Dead Opps,jz083slHdDbd2cHrHXLi0
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,DJ Day One,Phone,tUQzPr9pLhrUy6OcSm8za
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Carmichael,Rock It,5HC0GDDzFoBafBjADKDaz
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,AM Taxi,Fighting in Cars,fKUgVDV3AbL4bSPtgkpid
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Lina,Smooth,RFG2gBO1lKSTil1ILitdR
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Los Ahijados del Barranco,El Humo Es Color Morado,cNPbvqgo8zhTShtNajgwb
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,JBro Bugatti,They Know,hOsyzTzWOe077yz4fdvFi
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Shonn Hinton,I'm Gooche,yyo2EioHSCakcuBUpDueN
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Phillippe,What I'm Trying 2 Say,453WgCNEDat0pnQ9S1OmU
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Famous Dex,Hoes Mad,u8kqieXwWHMnetFOk8rjg
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Twista,Adrenaline Rush,yBocB472ltALbHjm4qYYC
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Nicolas Bearde,Can We Pretend,Vw0uQII7eKX4uUPRuP6yh
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,King K.O,Take Notes,FsQajoUMm9993f6F6xTKe
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Lil Mouse,Back and Forth,KTBndV2OLbxy6wTcQobZU
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Ty Money,Yes or No (feat. Bump J),LrT8MTS1hC2zA9OlWPzsr
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Edai 600,600 Dead Opps,49RGT1ZudsMkGxP73kCpz
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,The Isley Brothers,I Once Had Your Love (And I Can't Let Go),z23m8y8AP0juC071yPI2Y
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Rooga,Member,tUx6T7tFgzbwX0xQSN070
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Lil Zay Osama,What's My Plan,ZIwIOH5lG2A3eCYidzwzA
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Twista & The Speedknot Mobstaz,Legit Ballers,jOKMuUvb3smmZnyqYKKVa
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Loggins & Messina,Pathway to Glory,j9VPhydiWL60b5C0ffbzY
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,One Way,Something In The Past,7ESd2Q4VrGCXxCLX1Ohj6
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Jojo,Have It All,ezsLpf3lV1TcDAF3RfOYD
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,King L,Val Venis,pTVIbmq7FHpiwWy46cBll
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,The O'Jays,I Want You Here With Me,EkLSFVmsXd2c0GZSPpCFI
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Rondonumbanine,Play for Keeps (feat. La Capone),ccps4WlASrRe1qPHZ9tDt
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Lucky Boys Confusion,Broken,o1KoF7PWNqOMYKapOyGT8
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Speaker Knockerz,Freak Hoe,sghEq6gM4Ugadwa12H7Sa
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Reality,Yolanda - Club Mix,auKJC7E0UN96e3kQuEaT1
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,K'Jon,On The Ocean,tRna9FSqMrh2LJwqIykHA
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Do Or Die,Still Po' Pimpin',MP7Ql7f0sbqzrnOFkkWwR
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Montana of 300,Ice Cream Truck,AsLwfhLMlcFLvwdlTfd83
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Xtreme,Shorty, Shorty,0N3gwqiuFlHa7FBCiK1Nl
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Gucci Mane,I Think I Love Her,9bnCzrtKoNITRpwcuZl46
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,600 Breezy,Don't Get Smoked (Bonus Track),RTp02JYFRLvmKggTQsQay
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Girl K,Dog Year Lungs,hlepzMXBurdwcw0Er1wzc
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Mother's Finest,I Can't Believe,ZbeESmKjl5XmQJw7JIAqE
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Tee Grizzley,3rd Person,zb1Sx2MUU4MJ7gAB3lnI6
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Kindred The Family Soul,Stars,tjt1ZEVVKrih3he8zKWgE
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Wooski,Computers,TFGywm9rAJhtSPtg1oKZ2
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,R. Kelly,Number One Hit,Pa2IqOeTky6EzUFCw2Sbe
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,F.L.Y. (Fast Life Yungstaz),Swag Surfin',ItzU5pBrFmRUudfr5RkJP
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Moneybagg Yo,Yesterday,x5YzKRX3a6bLqjWJyufaD
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Steve Poindexter,Work That Muthafucker,NYNY2uydifnZzVQLEH5dy
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Vic Mensa,Rowdy (feat. G Herbo),JjRAZ76LYFN0Ww73WVzlr
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,The Jacksons,Good Times,AJBFdQE0Tqn65nYhsM06n
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,This Is Indiana,This Is Indiana,u6yehO6pOPW3WuwcdTBKR
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Lil Reese,Traffic,WpGt7fhdIDd5ej7xyzbe8
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,3 PIECE,Your Body's Callin',yLdUjPnWjK4azgtcmTE58
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Bodeans,Good Things,pU7xdjTwZyDW1XoZpV5Dl
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Alicia Myers,If You Play Your Cards Right,R5BXkIlYZm2fMCKr2hmkn
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,Sports Boyfriend,Fear of God,AjKBGM6wBdyioJa03Zyn6

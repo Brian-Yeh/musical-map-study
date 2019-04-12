@@ -1,0 +1,101 @@
+location,playlist_id,artist,title,song_id
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Alu Mix","Le Encanta",:2cX3Om7xlCQxKRYo1ofvOM
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Uzielito Mix","Niña Buena",:0M9vPH1vUOhK8TVVFQzX2f
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Michael G","Tibiri Tabara - feat. Uzielito Mix",:2Ulyr7Y5DFPnH7Qo3qxvFL
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Cheo Andujar","Dia Tras Dia",:6EJadbufi05YD8vQb98Poq
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Sir Speedy","Como Mi Nena No Hay (feat. Master Joe y O.G. Black)",:733FRL9y0I7Pm1QZBeMm6X
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Pablito Mix","Ay Pablito Qué Rico! (feat. Mawe)",:6v7445IeNm2rwJIeEoIGz1
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Stiv","Fin de Semana",:6DLw8XuzlhReXiM2ZUI7m7
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"DJ Antena","De Tin Marin",:5S4pezCIx9zIz1xRVcdOOP
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"RD Maravilla","El Goloso",:68QtlyBrzD98s4phcL1fx2
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Big Metra","Desnudate",:4BXXTruUHBXHQoSbvTDQR4
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Grupo Polo Montañes","Un Sueño Y Nada Mas",:2bVisOYbfWI29XxWEdTKSX
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Jamsha","Soltero",:64oTW6tbhpS4c3p2sUwWeC
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Byakko","Pena De Amor (feat. Sonyc, Robbie, & & Jirvis)",:04Z1kXHqFMUlllVnGOM9I7
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Grupo Controversia","Almas Gemelas",:2QMhGGf1lgvq6ZdO19yEnZ
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Los Estramboticos","La Herida",:0vQfzyjQFHQ208JCNjcE5H
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"DJ Cobra Monterrey","Sueltate el Dembow",:6lW3Zxh9wBch3cNrTMicSq
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Septeto Acarey","Eres Mi Sueño",:5ZA9ItQp7DyG6pPkSsq3Bn
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Mafu Crew","Slow Bow",:6WjFV9P2MAebV1c2Inp6tK
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"La Castañeda","Cenit",:6hLo5Dg74PGHjSbcP6tNOr
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Maskatesta","Tu Que Pediras",:284Ztj2XGMvoWKILVJGasd
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"El Predicador","Lola",:0ZQEvvPjwHeASV8reFI1At
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Salon Victoria","Si Tu Boquito Fuera",:662E0RMa6XGHqctB0F4SpW
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Los De Abajo","Skapate",:0mGNPivC5BpTowR3NF45bD
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"La Tremenda Korte","Tanto amor me marea",:4jGSfblxObklndcGJprEoa
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"DLD","Por Siempre",:6FLSb8CJwrcfXfzfD4ySji
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Panteon Rococo","Arréglame el Alma - En Vivo",:7wL7mQUpStsapIkNuy0d2Z
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Liran' Roll","Yo Quiero Ser",:1dU383l2TLND7OfsFzSbrE
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"She's A Tease","Why?",:1QyPYtnOVwmprWCjVgPo1Q
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Tex Tex","Te Vas A Acordar De Mi",:1kaLpH5uG4l7RbLKYU7bF5
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Liquits","Desde Que",:4QLfVqOrpBOJra53EhlEX0
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Los Caligaris","Entre Vos y Yo",:3H7wULYr0I5lTucP1hS3Wt
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Reggaeton bachata Hit","Tu Pones La Hora Y Yo Te Caigo",:6ram1WqaIPZvAcnJDMfhZk
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Eloy","Dembowholic",:65WjBIcNE1IhzbQ07WyU8l
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Tijuana No!","Pobre De Ti",:0j14D2Jp4i9zg9KKm9aSBk
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"La Gusana Ciega","Yes Sir, I Can Boogie",:5IwpFZxC7TlYBwVpXqks8n
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Danny Daniel","Vete Ya - Vuelvo a Empezar",:2l8EHAhOP5vlEvQRDbYVUt
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Enjambre","Manía Cardiaca",:7rhKh1Ool2Yel5JXmiemZB
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Maldita Vecindad Y Los Hijos Del 5to. Patio","Solín",:4OnOwfpbZCwHnFNDqgjOuS
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Triciclo Circus Band","Adiós adiós",:0ykwpOJjcAa6qKkK8P9TLF
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Maria Daniela Y Su Sonido Lasser","Pobre Estúpida",:0Vu0aOYDeVPLe4dcVrvRvx
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Alnz G","Todo El Fin",:5a5elpJpYrugFlVgbpNHUs
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Diablos Locos","Si No La Tengo",:5BSYu3CEg0L9sDBNXOwKTk
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Tino El Pingüino","Fractúbela",:5BNZcuyCkcBNIhF2DmQlWf
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Galy Galiano","Quien Entiende Este Amor",:5MVbhLRhOLCifhbjwVyZPX
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"El Haragán y Compañía","El No Lo Mato",:2hntX3w48OucbEqoLoDnPZ
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"$6 Million Dollar Weirdo","Horror Amor",:2UjcMFyEhvunXzblOdWh85
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"DJ Pedro Fuentes","Sucia",:38dh5S5WL7U7haWDtFG6Mu
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"J-King y Maximan","Bambua",:6c0JTabkOhxiIrl9J3Xuy6
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Eddie Santiago","Cada Vez Otra Vez",:7j3KTmge5VaTBQyHOV4gDw
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Heavy Nopal","No Tengo Tiempo",:5xOW6mtZzHEtnLfekkg5fO
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Kenny y los Eléctricos","No Huyas De Mi",:6UBl1NDlUjc4vU3tXr3oQz
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Luciano DJ","Intro Teléfono Perreo Rkt - feat. Mister Remix",:6wGH5DubI46XGN7JoSUOZ6
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Inspector","Y Que",:5YRhQ7h8w2cMCY2teyjax6
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Café Tacvba","Las batallas",:4HTQcxErjqv1Up3ZOoJ1di
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Simpson Ahuevo","Mextasis",:0TphPWmHsAPXhqz5xqVSfI
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Cumbias Poblanas","Las Amo a Las Dos",:0jhtqu6qU7UU4qEfQuv634
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Camilo Séptimo","No Confíes En Mí",:2C4ry4RRCEUGm6PJX3yY8x
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Odisseo","Días De Fuego",:0llXG2KrSGVjW3fVJrrmcE
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"La Banda Baston","No Me Porto Bien",:6xygm1WDRIBDVjHFOYSygg
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Charlie Monttana","Vaquero Rockanrolero",:6imxKxbwy0GI2nU5tfIs27
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"La Lupita","Paquita Disco",:4CJaBuM4AhPM7jJNnKZqc3
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Fobia","El Diablo",:51PKgx0ep9pIKJxJvTBnqx
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Cumbia Sonidera","El Baile De San Juan - G. La Chomba",:4hK2rfRJloj1iOeUriA9Yn
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Ronald El Killa","Bandida",:44x3n7BvCwcKw6ANKHP3dd
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Barrio Pobre","Toda la Noche",:5AdH7YPhpK5zUz5Buz08zF
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Los Daniels","Quisiera Saber",:7ETuZtnJJ1brMNiPpd2LFg
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Mr. Grillo","Bajo la Luna - Hagamos el Amor",:5ZmcmyNb0C7q6FnKfk4MgN
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Hello Seahorse!","Bestia",:3cKV87i0a26fITE8Ku1Zwi
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Sonideros de MEX USA","Tus Jefes No Me Quieren",:1Aj0gpdepO9Esy7yH2gvej
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Hansel","¿Qué Pasó?",:4rU0PHummLWtI4Y1IhP7WQ
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Mandy","Que Paso Ayer",:1uw8IYZgMOYjmcPjtEwCrI
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Cumbias Epcm","Amor a Primera Vista (Cumbia Ecuatoriana)",:1bAKqVOcR0VmoGaQwPnzCa
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Victimas Del Doctor Cerebro","El Esqueleto",:1Z05BEFLTKxdp9xSjUnPGX
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Yiyo Sarante","Corazon de Acero",:4dLBiOu6BXGaEL8ByICR6Q
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Rostros Ocultos","El Final",:39ELDQVDsgBmo5gbTuru9U
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Liran' Roll","Quien Te Cantara",:6h4YWETL6DAEKpeSr0CaGu
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Timbiriche","Amor Primero",:6SPr50YRsnKPrb5UnJ9VTA
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"The Guadaloops","Nunca es Tarde",:3H3qGQ4XzVRm8xlRPDnM3I
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Karatula","Al Final Lloré",:1U8O8ZjjM4b7ROyOPQonDj
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Comisario Pantera","No Es Por Ti",:26PUtHbbVfcRnoGmnWxVTy
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Mœnia","Dejame Entrar",:3c1JleEU920IOWJCdqRW0n
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Karly y Yoe","Parties de Escuela",:355xHIQqiFgob4Yy6wF7vz
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Cuca","La Balada",:1uGfA3nwqg6bd7IzE7K0Rp
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Nigga","Dejala",:0WUTVzd7Liz1YYl40Mq56A
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Monocordio","Siempre Te Busqué",:7a75CWRq82AGSHdL5Qw515
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Sekta Core","Fantasma de la Rana",:4k8A9pwl4R562JnNnRSjnL
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Quiero Club","Minutos de Aire",:5NMZE12L2aUiiHDjgzeYGI
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Nortec Collective Presents: Bostich+Fussible","Tijuana Sound Machine",:2QD7y440mt5uvoDeMPHQai
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Grupo Cañaveral De Humberto Pabón","Vuelvo A Sentir",:7mjrsSbmQfubagRLXUTVWR
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Kinky","¿A Dónde Van Los Muertos?",:7Kqu2qzklldYONlvrojo0t
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Zoé","Soñé",:4oMaBqivBDg7ID3EHtydeX
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Ultrasonicas","Que Grosero",:5bNA2LQPTzZoye58HtZjsp
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Zona Rika","Voy Pa' Allá",:4K7tsUqnU0oevgHszISemt
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"División Minúscula","Las Luces De Esta Ciudad",:0QicAPpjTCYJcG8cwimbrM
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Hildemaro","Desde El Fondo De Mi Corazon",:5IM5EJb4UVzLu552ZtgEry
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Plastilina Mosh","Pervert Pop Song",:1dkGPPewLZjer3U2pQGIOK
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Bengala","Miente",:1gA2JKymFK2wqvNKbiZmjl
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Caifanes","Los Dioses Ocultos",:3aYLIO4htUZCAygXUbbc3Q
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Lng Sht","Romcom",:5Jgo5cDlZaz2JlZgHEgbgN
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"La Montra","Donde Están las Atrevidas - Toma Toma Toma",:0OetABPUScaS7hXcUAfhoT

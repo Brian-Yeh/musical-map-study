@@ -1,0 +1,1301 @@
+location,playlist_id,artist,title,song_id
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Alu Mix","Le Encanta",cX3Om7xlCQxKRYo1ofvOM
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Uzielito Mix","Perreo Que Te Vuelve Loca",8eFISo4m37yTdLeJzVdqn
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Cheo Andujar","Dia Tras Dia",EJadbufi05YD8vQb98Poq
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Michael G","Tibiri Tabara - feat. Uzielito Mix",Ulyr7Y5DFPnH7Qo3qxvFL
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Sir Speedy","Como Mi Nena No Hay (feat. Master Joe y O.G. Black)",33FRL9y0I7Pm1QZBeMm6X
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Stiv","Fin de Semana",DLw8XuzlhReXiM2ZUI7m7
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Pablito Mix","Ay Pablito Qué Rico! (feat. Mawe)",v7445IeNm2rwJIeEoIGz1
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"DJ Antena","De Tin Marin",S4pezCIx9zIz1xRVcdOOP
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"RD Maravilla","El Goloso",8QtlyBrzD98s4phcL1fx2
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Jamsha","En 20 Uñas (feat. Don Chezina)",J8u0TbIYsn2Ezm6AMc4r6
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Grupo Polo Montañes","Un Sueño Y Nada Mas",bVisOYbfWI29XxWEdTKSX
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Byakko","Pena De Amor (feat. Sonyc, Robbie, & & Jirvis)",4Z1kXHqFMUlllVnGOM9I7
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Grupo Controversia","Almas Gemelas",QMhGGf1lgvq6ZdO19yEnZ
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Big Metra","Desnudate",BXXTruUHBXHQoSbvTDQR4
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Los Estramboticos","La Herida",vQfzyjQFHQ208JCNjcE5H
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"DJ Cobra Monterrey","Sueltate el Dembow",lW3Zxh9wBch3cNrTMicSq
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Mafu Crew","Slow Bow",WjFV9P2MAebV1c2Inp6tK
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Septeto Acarey","Eres Mi Sueño",ZA9ItQp7DyG6pPkSsq3Bn
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"El Predicador","Lola",ZQEvvPjwHeASV8reFI1At
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"La Castañeda","Cenit",hLo5Dg74PGHjSbcP6tNOr
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Maskatesta","Tu Que Pediras",84Ztj2XGMvoWKILVJGasd
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Salon Victoria","Si Tu Boquito Fuera",62E0RMa6XGHqctB0F4SpW
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Panteon Rococo","Arréglame el Alma - En Vivo",wL7mQUpStsapIkNuy0d2Z
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"DLD","Por Siempre",FLSb8CJwrcfXfzfD4ySji
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Los De Abajo","Skapate",mGNPivC5BpTowR3NF45bD
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"La Tremenda Korte","Tanto amor me marea",jGSfblxObklndcGJprEoa
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Eloy","Dembowholic",5WjBIcNE1IhzbQ07WyU8l
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"J-King y Maximan","Bambua",c0JTabkOhxiIrl9J3Xuy6
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"$6 Million Dollar Weirdo","Horror Amor",UjcMFyEhvunXzblOdWh85
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Los Caligaris","Kilómetros",Jr2cHZaIe1rmdVlc5efIy
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Liran' Roll","Yo Quiero Ser",dU383l2TLND7OfsFzSbrE
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Tex Tex","Te Vas A Acordar De Mi",kaLpH5uG4l7RbLKYU7bF5
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Maria Daniela Y Su Sonido Lasser","Pobre Estúpida",Vu0aOYDeVPLe4dcVrvRvx
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"La Gusana Ciega","Yes Sir, I Can Boogie",IwpFZxC7TlYBwVpXqks8n
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Liquits","Desde Que",QLfVqOrpBOJra53EhlEX0
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"She's A Tease","Why?",QyPYtnOVwmprWCjVgPo1Q
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Triciclo Circus Band","Adiós adiós",ykwpOJjcAa6qKkK8P9TLF
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Tijuana No!","Pobre De Ti",j14D2Jp4i9zg9KKm9aSBk
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Enjambre","Manía Cardiaca",rhKh1Ool2Yel5JXmiemZB
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Camilo Séptimo","No Confíes En Mí",C4ry4RRCEUGm6PJX3yY8x
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Luciano DJ","Intro Teléfono Perreo Rkt - feat. Mister Remix",wGH5DubI46XGN7JoSUOZ6
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Maldita Vecindad Y Los Hijos Del 5to. Patio","Solín",OnOwfpbZCwHnFNDqgjOuS
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"El Haragán y Compañía","El No Lo Mato",hntX3w48OucbEqoLoDnPZ
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Danny Daniel","Vete Ya - Vuelvo a Empezar",l8EHAhOP5vlEvQRDbYVUt
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Inspector","Y Que",YRhQ7h8w2cMCY2teyjax6
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Diablos Locos","Si No La Tengo",BSYu3CEg0L9sDBNXOwKTk
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Galy Galiano","Quien Entiende Este Amor",MVbhLRhOLCifhbjwVyZPX
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"La Banda Baston","No Me Porto Bien",xygm1WDRIBDVjHFOYSygg
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"La Lupita","Paquita Disco",CJaBuM4AhPM7jJNnKZqc3
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Tino El Pingüino","Fractúbela",BNZcuyCkcBNIhF2DmQlWf
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Simpson Ahuevo","Mextasis",TphPWmHsAPXhqz5xqVSfI
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Kenny y los Eléctricos","No Huyas De Mi",UBl1NDlUjc4vU3tXr3oQz
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Alnz G","Todo El Fin",a5elpJpYrugFlVgbpNHUs
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Cumbias Poblanas","Las Amo a Las Dos",jhtqu6qU7UU4qEfQuv634
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Café Tacvba","Las batallas",HTQcxErjqv1Up3ZOoJ1di
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Eddie Santiago","Cada Vez Otra Vez",j3KTmge5VaTBQyHOV4gDw
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Mr. Grillo","Bajo la Luna - Hagamos el Amor",ZmcmyNb0C7q6FnKfk4MgN
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Heavy Nopal","No Tengo Tiempo",xOW6mtZzHEtnLfekkg5fO
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"DJ Pedro Fuentes","Sucia",8dh5S5WL7U7haWDtFG6Mu
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Odisseo","Mentía",HwqIhBbdRsZaorK9qzYxE
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Charlie Monttana","Vaquero Rockanrolero",imxKxbwy0GI2nU5tfIs27
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Cumbia Sonidera","El Baile De San Juan - G. La Chomba",hK2rfRJloj1iOeUriA9Yn
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Hansel","¿Qué Pasó?",rU0PHummLWtI4Y1IhP7WQ
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Ronald El Killa","Bandida",4x3n7BvCwcKw6ANKHP3dd
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Timbiriche","Amor Primero",SPr50YRsnKPrb5UnJ9VTA
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Zona Rika","Voy Pa' Allá",K7tsUqnU0oevgHszISemt
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Los Daniels","Quisiera Saber",ETuZtnJJ1brMNiPpd2LFg
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Hello Seahorse!","Bestia",cKV87i0a26fITE8Ku1Zwi
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Mœnia","Dejame Entrar",c1JleEU920IOWJCdqRW0n
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Quiero Club","Let Da Music",pfDPQjEnsaaNxfMd4Kn3X
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Mandy","Que Paso Ayer",uw8IYZgMOYjmcPjtEwCrI
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Rostros Ocultos","El Final",9ELDQVDsgBmo5gbTuru9U
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Comisario Pantera","No Es Por Ti",6PUtHbbVfcRnoGmnWxVTy
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Cumbias Epcm","Amor a Primera Vista (Cumbia Ecuatoriana)",bAKqVOcR0VmoGaQwPnzCa
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Fobia","El Diablo",1PKgx0ep9pIKJxJvTBnqx
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"The Guadaloops","Nunca es Tarde",H3qGQ4XzVRm8xlRPDnM3I
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Monocordio","Siempre Te Busqué",a75CWRq82AGSHdL5Qw515
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Barrio Pobre","Toda la Noche",AdH7YPhpK5zUz5Buz08zF
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Sekta Core","Fantasma de la Rana",k8A9pwl4R562JnNnRSjnL
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Victimas Del Doctor Cerebro","El Esqueleto",Z05BEFLTKxdp9xSjUnPGX
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Omega","Ando en la Versace - Live Edition",aGEMSGrivvX2hWenKYTUe
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Nortec Collective Presents: Bostich+Fussible","Tijuana Sound Machine",QD7y440mt5uvoDeMPHQai
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Nfasis","Como Shakira",kYvE2fb9OXZ5f7I9ShUwr
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Liran' Roll","Quien Te Cantara",h4YWETL6DAEKpeSr0CaGu
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"La Montra","Donde Están las Atrevidas - Toma Toma Toma",OetABPUScaS7hXcUAfhoT
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Cuca","La Balada",uGfA3nwqg6bd7IzE7K0Rp
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Grupo Cañaveral De Humberto Pabón","Vuelvo A Sentir",mjrsSbmQfubagRLXUTVWR
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Super Yei","Me Llama Todavia (feat. Towy)",JhoIpQU13WQnC9VlHvlba
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Lng Sht","Romcom",Jgo5cDlZaz2JlZgHEgbgN
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Ultrasonicas","Que Grosero",bNA2LQPTzZoye58HtZjsp
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Macka B","Step Up",cbqh8woSu03Vj8s1PCK9C
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Zoé","Soñé",oMaBqivBDg7ID3EHtydeX
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Hildemaro","Desde El Fondo De Mi Corazon",IM5EJb4UVzLu552ZtgEry
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Ely Guerra","Quiéreme Mucho",1tX8W9SSVju5DqlGcoAxy
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Kinky","¿A Dónde Van Los Muertos?",Kqu2qzklldYONlvrojo0t
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Neón","Juegos de Amor",K0iKwKRqZcfT492oLOvSl
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Onda Vaselina","Un Pie Tras Otro Pie",uqxzjz5ehO69HMD7YUWMV
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Emmanuel Del Real","16 De Febrero",SY9VFGNeOrFYepm4WzbR5
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Plan B","Me La Explota Feat. Yankee",cH8koRSDXBsvfEbeKcs9N
+Mexico City MX,5SHk94ZLUYckc8ZQBF4vqv,"Karatula","Al Final Lloré",U8O8ZjjM4b7ROyOPQonDj
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Santaferia","Tomando Alcohol",MYP3aoAnQboUrNQ12dcFR
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"La Combo Tortuga","Te Vuelvo a Ver",NItmgHAUnsICEWIY5DQmj
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Sonora 5 Estrellas","Supermandoneao",NdwQ9WlP2fOTc2etE0YDK
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Luis Lambis","Ya Te Olvidé",Q1xQLuG7ztqA0FdojOCPj
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Guachupé","Todo va lento",nPwgG62uGq8fPMc5OmptN
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"La Gran Magia Tropical","Furia Loca",qQ5S7epEa2ExyE0nSmXWt
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Forest","Andamos De Pana - Remix",wwnBngbXBTeMlauFJ3dAF
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Villa Cariño","Para dormir contigo otra vez",MarqoT4wE5uNITGuEZams
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Noche de Brujas","Oyeme",zsbeQtP0KZ9hXabeCHqo2
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Grupo Alegria","Mujeres y Cerveza",Lfp553u5K9VDEpdIgGtpJ
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Los Charros De Lumaco","Las Flores de Tu Florero",uO0NyK4WLuzfTGzc49X3x
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Garras de Amor","Báilalo",kXjQNAuP4dBb8gb1xO39E
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Shamanes Crew","Espartaco",IJfOtDmZ8mb56Zzv0icgI
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Joe Vasconcellos","Las Seis",6Q1u9KJUMcun4UWv0b7ik
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Amar Azul","No Quiero Dormir",p34HFPU10LkEekwkUKMzS
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"La Rosa","Si Yo Fuera El",yMBR5y3KIYNIprrlc0jT8
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Fran C","Jarabe",Y1mZWh75YeCRwWT6lKgTD
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Los Vasquez","Miénteme una Vez",ZyKs32GmHqUgEMB4phZtF
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Dash Y Cangri","Un Chance",kp5CzGjsCI2Vcalfcn6CG
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Maria Jose Quintanilla","Fue Dificil",ntuD3ofO39wHlPqu27p0M
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Chancho En Piedra","Locura Espacial",FauDhvAuanceOTIGQZAl4
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Tiro De Gracia","Melaza - Remaster 2004",gSofvTtSnqskFhBQIzaU9
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Glup!","Freebola",Qp77m1Ai0jnuD7ojdYzr9
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Sol y Lluvia","En un Largo Tour",tAsEaXdXgCiwUdBZ77Dwq
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Tomo Como Rey","Los Que Toman Como Rey",7BCrNIUKHgywCuYAIdNtz
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Denise Rosenthal","Lucha En Equilibrio",XXRbcWjc6jQhAS6MxyYmu
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Juanafé","Tengo Luquita",EYGVS7euI1GTiYkKBOSfk
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Chico Trujillo","Y Si No Fuera - Live",xpzjqb00GNVfCsgfP3igG
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Yiordano Ignacio","Mambo Para Los Presos",4yYVlxDi7orbwheBXqIPt
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Luis Jara","La Última Tentación",L0jz4UDyzqkxVFHZ8rVyt
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Jordan","Y Qué Pasó...?",yVGDR9w1srAuQAuUjEShj
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Los Jaivas","Sube a Nacer Conmigo Hermano",fvBHLNI8Ssmzll6uXdaOr
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"El Bloque 8","Te Veo en Línea",FddoqOIEVpCSWinKYNjlP
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Megapuesta","Quédate Aquí",4pZISz60vXLxF8qndud8b
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Makiza","La Rosa De Los Vientos",ItEUMz1CKL5CJxmnBAADO
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"La Banda Tropikal de Vallenar","Las Dos Camisas",pfD9cp1evigTGungCt8wP
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"La Pozze Latina","Chica Eléctrica",rHdsAq6qtSTdwJW4luqyW
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Moral Distraida","Hacerlo de Día",nApFXPoSanA4n7j563Ind
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Los Rancheros de Río Maule","De Paisano a Paisano",Efl38yKPpMdl5mxFTrvpE
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Sonora Malecón","Melosa",Pss9knIWhZDWlGXmnDI0S
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"La Transa","Mi estúpida canción de amor",lk4t6kIBMpMQRidOkrAEs
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"La Rue Morgue","Blues A Dos Mujeres",W7c7B526zf3zAF3tptnyG
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"area3","Mala Fama",hszztxn5tSeOQ8hyDiYOE
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Movimiento Original","Tren",3lwMmW9oroeFxJIHBPxnA
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Amerikan Sound","Haciendo el Amor",MW7ZOIkzWaELXisBAmeGD
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Chystemc","I Love You a Lo Vío (feat. Movimiento Original)",bdkF0rHjyjnIeqBjQAdR0
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Cami","Abrázame",I8LCDxPanFo2hfv0oObPK
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Vian Yovi","No Te Creas Tan Importante",GbarrXJOH93GRwgpY6CeX
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Illapu","Vuelvo Para Vivir",jTR4TGDcbo10Bt66yWOz2
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Chorizo Salvaje","Bailemos cumbia",YWd4Zgrx3bUvgJ8MxihBV
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Pablo Chill-E","Flyte",YqTzC9YYQmiT5nDZgl01q
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Sondelvalle","Maracuyá con Mango",9VAHjQ5hhomyillTA4luR
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Sonora Barón","Cumbia Ideal",zGOBy6o8TxiPPlXfCN7qP
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Los Miserables","El Crack",UUtewTLgASbX6afOBHAeQ
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Alegrìa","El Teléfono",fAYTdGHbIZWQHFv4IcBkJ
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Nicole","Dame Luz",dSWYkGqX9hv9xLdKYR2vk
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Los Tres","He Barrido el Sol",fbP8sQu1rEgT6RakeidoS
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Los Vikings 5","Boquita De Caramelo - Edit / 2005 Digital Remaster",gIqMEGT1Ov7q47H5MDF7n
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Los Charros de Luchito y Rafael","Cumbia Ranchera Nº 2 - Megamix",SB1rK0QCyjaNyk5Cmq6TN
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"De Saloon","Te mueres",YqBGtBmj9jhTGFgf2rF7a
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Los Prisioneros","La Voz De Los '80",CW0syeJFZHUmvwsMwT7Xz
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Jorge González","Mi Casa En El Árbol",SeRpWDWkDDbqNWAFCS5Ng
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Hordatoj","Era de Verdad",Oo4ZMQZm9n76OlHOTT6cv
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Los Tetas","Corazón De Sandía",ip3MFKPt3q8ct6tjxU9XC
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Peregrinos del Amor","Si Tú No Vuelves",sTyKzIOyE6gZRTGs3R0fr
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Princesa Alba","Summer Love",yoKcUTNl4fdpQs0m1U376
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Ceaese","Te Quiero Ver",Xfz4YNwwIcFRyfW3QQZVp
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Zalo Reyes","Mi Prisionera",Nd9BaGDYeTmrYlWzlKJVT
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Javiera Parra","Humedad",1JlWe6b281dzhGZVZS0Tc
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Cidtronyck","Nuevo Comienzo (feat. Portavoz)",drA4it4HPdsCBY0zYQDkz
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Apache","God Level 3",kE4g5dHVUeLdzPukt1VTF
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Francisca Valenzuela","Afortunada",oGcLhbdlhz7EOwIqcLTcJ
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Kevin Martes 13","Su Corte",BscZ2HLq6kgQwBmRmO8mq
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Macha Y El Bloque Depresivo","Continentales",ukiijvsJuB58dFxW1tVDT
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Power Peralta","Pegate",tuI94vyEirC0j1TWwUVRS
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Gianluca","Amor Platonico",v5yVTLOkqoI5lAwI5FZms
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Jordan","Dos Hombres y un Destino",hdjTCVHIJDOPnkjRAKjtX
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Utopiko","M.O (feat. Movimiento Original)",Auy0hP2poMVxU4Pf86ibq
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Sexual Democracia","Macondo",2OuR1BddFnEBRQlH9hfLl
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Gervasio","Con una Pala y un Sombrero",nfJhA7Ug7Tj5NTCq2mJId
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"La Noche","Quiero ser libre",29BK1xnXw5yiHf027MYOe
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Jonas Sanche","Días Grises (feat. Ceaese & Yaero)",Tt9GtDZ4uj7ufPAbzt2xq
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Lucybell","Cuando Respiro En Tu Boca",EhButiJbrrRbO3qguSKkg
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Upa!","Cuando Vuelvas - Remaster 2002",GzijvxUMVSpsu6RPML33K
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Combo Ginebra","Pasto seco",1dLj7DdLxfX2zzNYGJmc9
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Saiko","Limito Con El Sol - Remaster 2003",UistPN3U0Y7RUSqjyEHdw
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"La Floripondio","Bailando Como Mono",GOBsKucPG5Bh8qzStmrQ6
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Polimá Westcoast","Esto No Es una Canción de Amor",9VysevcIIxfwAZ6JcggfN
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Supernova","Tu y Yo",1s5A5DeCRdF2ENhGHBi9b
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Stailok","Justice",bVmmafdRNsgoEUTIzTK3h
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Grupo Red","Amor de Adolescentes",ksna7ji7FVlKDpq6FUHSE
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Potencia","Cuando Estamos Juntos",i1qRsvRcqpCmv9ZTLmU0d
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Portavoz","El Otro Chile",VfaP0NPBmNsF0MgMGPWcP
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Gonzalo Yañez","Volvemos A Caer",raQvozRPmxl6QtrHthKd8
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Duran The Coach","Bebe y Fuma (feat. Ele A El Dominio, Jon Z)",HTo8Qn6K6xgmMoy3Ls0uu
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Liricistas","Estilo Libre",05l6Owh3UzgxhP7J3k2fg
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Juan Antonio Labra","Mueve Mueve",nZdqyfJ6EB5BwatSMKy0u
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Organización X","Mozo",61r7cKe9jxaImXinA02p1
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Luanko","Witrapaiñ (Estamos De Pie) [feat. Portavoz & Cidtronyck]",m6kxDnfOPhhHu6uEF72Fp
+Santiago CL,1YKDzk8dulhTk8BfLjZlGS,"Inti-Illimani","Samba Lando",ra9LRRW3Sk6rEgaV0GbAm
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Liga Independente das Escolas de Samba","G.R.C.E.S. Vai-vai - Quilombo do Futuro - Ao vivo",07TIe7bH0sSggpPhieIua
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Nando e MC Luanzinho","Vraa Vraa - Vai Tchuca",KFCzlHEGjm6lW9y03xnQx
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Dj Guuga","Elas Tão Pedindo Obrigado",cFuasq4TRwYh3kRRWZIfk
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Leschea","Fulton St.",xIHePHJbOEtnzlwAOoCtz
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Trilha Sonora do Gueto","Um Pião de Vida Loka",12C6IYOKvgi2G9a1mAPd2
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Kapela","Zika Sai Pra Lá",4KT4vJVHWTTZP46nmJv3U
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc PP da VS","Areia Branquinha",VfNRhmIPJaVhUhwy8F6G6
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Dj Henrique de ferraz","Leitada",JvscDmxWMgM8rRk24Ov2D
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"RZO","O Trem",FpVLn9ne4NDGo83yRTAIi
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Hariel","Tira de Giro",kBXnEn4GnZkRw47ELSbLP
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Brisola","Ta Duro Dorme",QhJBRJ2LmfVTCJNwRziLL
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"509-E","Saudades Mil",9zU8jvVMf5GEvpFqBF1Ya
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc IG","7 Dias",6pfQEQ4TOvfsFsx5FuE4D
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Rodolfinho","Um Velho Ditado",jzzCGx1RcoOde4FXYUPt6
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Neguinho do Kaxeta","Vida Longa Aos Bons de Coração",tRc5mLKiyVMVfGRBjEl0d
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Talibã","011 É o Ddd",XxCrC4JUUy9RNVfjDW9MG
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Vou pro Sereno","Agora Viu Que Perdeu e Chora (feat. Reinaldo) - Ao Vivo",Ayrd8prgnUYU4ErMgflBV
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc 7 Belo","12 Não É Mais Baile Agora É Rave",pddiZ7R9gTyqJNRBlyEbA
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Consciência Humana","Lembranças",yViudNjrI9luiW3BVmb7z
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Somos Nós A Justiça","Se Tu Lutas Tu Conquistas",PB7UDGE3Gsap2XTRlLept
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Alê","A Entrega",g0CKnvvswm3r29F1oyaCV
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Ndee Naldinho","O 5° Vigia",ZhYU1cx9sSF8pO0pNZVb7
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Racionais MC's","Fim de Semana no Parque",hkLnjLwFQtSa1I0IZ7mzZ
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Circulando De Fulo","Aguas Mansas",MlfBvAGNla4vwMIlu9M13
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"DJ Naldinho","O Golpe",yU39gdcTgWqhQ3hk1fsLP
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Davi","Bailão",nQQzwQCWr9tveX49I71Ml
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Nando","Estrala Sorrisinho",v2iyJNLp8oacAGK3OUd2r
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Dexter","Eu Sô Função",G9bkmb5SZTsLJ6vj0JLII
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Kitinho","Medley dos Fluxos",IHMMG6snRBmonpoVfTUTD
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Jhojhow","Foguetão",zmXrVvVhmsbdYbpVCQpEp
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Sabotage","Um Bom Lugar",sQPek0zBGZUTK4Eh2opvH
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Turma do Pagode","Segue sua Vida / Paixão Verdadeira - Ao Vivo",rsmW7EpksWcEAVyINfaoW
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Thaíde","Sr. Tempo Bom",QHmlQiT4VUz0w5jjMQwGy
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Perera DJ","Quarteto Fodástico",pU1CpdWAAfMQgOljmb1MW
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Kelvinho","Avisa Lá 2",B2S6tvhnlOKQOdC5yOmfF
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Arraia","Suave Suavão",aDY2fuWs42aKgaMcUAbcf
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Murilo MT","De Copão na Mão Sarrando a Sua Filha",2TcLlWdm2NQLRgDCWQQwR
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Kevin","Cavalinho",40qyRZz87d7go4Xuzfzrd
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Filosofia Reggae","Sentimento Bom",vyKzl0o1lem1sHg5wXgSD
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Art Popular","Sem Abuso - Ao Vivo",yDjFcO9qsgnSKD5Cpo6jg
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Dede","Partiu Guarujá",vIQ4HWviBtBvSb5nxf1lC
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Menor Mr","Sonho de um Favelado",NHxhlfg2ueydSqWahv1by
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Maneirinho","É Tudo Puta",x82ck25gCbMhOjzPriTO3
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Rafa Original","Vai Maldita vs Toma Tapa Na Cara",6FT0PccFMgpopHQoaVf2b
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Magal","Pretinha",5fke2viI2w76dWJ4v959t
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Dynho Alves","Tapa No Vento",QDm2f94FyAboDQW6O5Iss
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Grupo Fundo De Quintal","A Amizade",wPYSsMTy44fcY8eFXFBhE
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Nego da Marcone","Taco Taco o Saco: Na Simplicidade",YmywfAfh8sYs0nbZZAoun
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Criolo","Grajauex",D5sRscjhPXgpphwIdrDEP
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"AO Cubo","Naquela Sala",XJ6XyjRCW4XiWL9YmOwi8
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Zapi","Brincar de Hit",gWsrPmBfYwOAzy9bPHkKF
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Edi Rock","That's My Way",M7bbRsVNB8iWQaX8Sbfln
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Marcelo D2","FEBRE DO RATO}",MsmBnJyNTNTD85wbXRf5X
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Don Juan","Nois Tá Bolando um Plano",FHmZoyY94SR0sMnW1elze
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Planta E Raiz","Com Certeza",lnQYHdFC4TwGVC0LSTu8q
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC MM","Mandelinha",3LzbNqN9FsjTMzaNhnumt
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Maneva","Seja Para Mim - Ao Vivo Em São Paulo",RuScevud12uKYhhJkYTJ7
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC V7","Abandonei a Gabriela",hBJItQ4UzU7daLNHefFdd
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Pixote","Franqueza / Tão Inocente / Tudo por Você",JHmOcoeEFfCNMyQ5tfZAS
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Reinaldo","Problema Emocional - Ao Vivo",Hy5lPOTjFLWUh3LLupyw6
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Emicida","A Cada Vento (feat. Rael) - Ao Vivo",PfR5Cm2WcxZMCEej8Muo8
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Vitinho Avassalador","Medley das Favela",uuJ7Furyg3cBga9t0V240
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Rincon Sapiência","Ponta de Lança (Verso Livre)",Y8dSlRPhYGN96MoPCFj8c
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Denny","Eu Vi Essa Mina Crescer",3qW16dpBaH1hRzEHYGGlg
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Zeca Pagodinho","Ogum - Ao Vivo",korsnkzzZfWGbKxuVO1tI
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Samprazer","Dominó - Ao Vivo",ggkHZbFGmofl9743xx6JO
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Grupo Sensação","Coral de Anjos",NQ9kBo6RYwjr867eDOENU
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Ruzika","Chaveando as Quebradas",9BLjeSYcGtHKIbkz8gw3q
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Gomes","Toma na Tcheka Vara",NhURyuIRBR9mjL9mEq19l
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"LUCK MUZIK","Festa Da Piscina",ObvyWafpN2UW9TJsEpHVZ
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mv Bill","Estilo Vagabundo",hn7hzXAbrOjUXN8XNwy5M
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Charlie Brown Jr.","Vícios E Virtudes - Ao Vivo",oBXDZlUkqX8BU88YXhzfy
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"DJ Bruninho Beat","BEAT DO MEGAZORD",8IenImVNcKEM1K83FkXxg
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Arlindo Cruz","Meu Lugar",0ejYprsOG1G7RwuOcRyxo
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Sampa Crew","Eterno Amor",nxRHGSdTr6lwc2QCrRAEv
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Theuzyn","Ela Tira o Pau da Tcheca Pra Botar Na Boca",tWel5tN28HtZR3Uqzo5W6
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Leléto","Jogando o bundão",pq7NBjhWQGAxWmVbNVz7h
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"CPM 22","Regina Let's Go!",zn5OFYwx705WTvYejsRxl
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Neguinho do ITR","Beibe do Biruleibe Leibe",ytfGVGhNy7snMYELejMuh
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Menor da VG","Fogo Na Inveja 3",cocv1grIssVhtNPCKmBRR
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Grupo Clareou","Só Penso no Lar - Ao Vivo",YZRxL0l3XDFEF5R2tINJ8
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Alceu Valença","Anunciação - Jopin Remix",as4sx815Vny1IaKFeAw30
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Magal","Ilhabela",6pHbXh7rrzR0zm1MY4lEo
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Samba Enredo","Gritos de Arquibancada e Incentivo ao Corinthians",fy2QSqDX9WN23Xib74toT
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Hollywood","Tipo Rave Balança o Popô",IlDjZbhFO0ZjLf5HHR5m7
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Péricles","Final De Tarde",1owCysJTu0HlCDFSASYJw
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Big Up","Xangô",8uvCEgl63qsQIokBgOarp
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Inimigos Da HP","Toca Um Samba Aí - Live From Tom Brasil,Săo Paulo,Brazil/2006",pRARVvN63WVglVlf4NGs1
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mr Bim","Vou Te Fazer Só uma Pergunta",JqfxHoQljxXEu7Hu7xQq5
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mato Seco","Navegantes da Ilusão",o4Ge3i62AkGiRQaTZ2ZWw
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Exaltasamba","Tchau e Bença - Live From Brazil / 2007",oXFfHuBuasMQ9lnPSRvGU
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Rael","Rouxinol",Trpe6kyfSj3LEpJY0X690
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Novinho da Praça","De Copão Na Mão",jTklgSJi6sfdInLMT5WYq
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Livinho","Irmã Gostosa",B3gD0HJTvH8zHVajBjoWK
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"NGKS","O Lá em Casa",AZntbKaQjQRgbiuZiU2uH
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"MC Fabinho da Osk","Toma Karen",qFg2j9IjTwEKlG7ubIwm5
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Planet Hemp","Mantenha o Respeito",scK80Nrz12oGUnQGcPgg1
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"DBS Gordão Chefe","Qui Nem Judeu",R58QvBYID3mTnOqtlW5bv
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Mc Pedrinho","Toma Tapa Na Cara",KlVQR7qyaFkQZFj3wBqpQ
+São Paulo BR,6QOjOvLDWKVNCW9H1J9vCY,"Rappin' Hood","Rap Du Bom",GDVcl6uasdEJVMko6Gvyh
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"RJMrLA","Hoes Come Easy",tVwKHwJ5OfNGIyAuM8HLL
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Suga Free","Why U Bullshittin'?",zb1zBmkrPF6VW8RhlSYA1
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"03 Greedo","Rude",A8KuRrV72ZP4MneZRCsSm
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Kalan.FrFr","Right Wit It",3362urespwVm9Q7Uif1V8
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Mustard","All 4s (feat. Greedo)",c9gVhu8J6Vlc1Gu4fxwS5
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"1takejay","To Da Neck",Sg6Rju24GFZl4NEZAKucp
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Brenton Wood","Baby You Got It",hphy8rtxpYshs3UzDZTzN
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Ralfi Pagan","Make It with You",3UfvHTeL1PP8fQSeHbxXG
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"DJ Quik","Pitch In OnA Party",N7qu71GFoEzp7KK10Y7m3
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Smokey Robinson","The Agony And The Ecstasy",xJEOq9DAWkPYvLzY7eIk5
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"The Temprees","Love...Can Be So Wonderful",lRD5UGnUCaon5g5cHbkCC
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"The Fuzz","I Love You for All Seasons",3DQO1cC5RzTWRxJLzJCgy
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Don Julian & The Larks","I Want You Back - Remastered",ZWoj485L6n4QRN0ahm5iY
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Drakeo the Ruler","Out The Slums (feat. 03 Greedo)",Qi9SeAw0uPxuQx88u4eoI
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Vinny West","No Face No Case",ZIc9JjtVQadMkew71IhLf
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Patti Drew","Tell Him",VZtkNntW57HvblvTBlABe
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Barbara Mason","Yes. I'm Ready",gZpW5pTZkimGG98loFSl2
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Billy Stewart","Sitting In The Park - Single Version",m9UWD6ChNt4V0ZYOBwzMe
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Frostydasnowmann","Oh My Gawd (OMG)",NYISeIy8lsfbE24RU4nAA
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"El Chicano","Sabor A Mi",MkNn0vF9GKABRBcOllTy7
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Radiobase","Bless the Bottle (feat. Cali Stackz)",p9ovGoDiYKgOFmFMDgdOI
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"YG","Ride With Me",amEGukf72WmlPCXujlRgl
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Kokane","I Luv It (feat. Kokane, Sir Dogg & Snoopy Collins)",nbH85acNzcX2WrjAHUVd3
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"The Elgins","Darling Baby - Mono",6EcsKLusAz7ydla0ENGkg
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Kamaiyah","Fuck It up (feat. Yg)",rr19p6NPfg8oUazZQnkS8
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Saul Viera El Gavilancillo","Querido Amigo",HcWV4Qisuyosy3v1PeHlm
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Bobby Moore & The Rhythm Aces","Searching For My Love",5tK0tPifZLhXpNSVAS0sl
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Shakur Luciano","Hennessy and Moscato",0EJsLlXQjNj29MaC2E01B
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Rosie & The Originals","Angel Baby",1keN33KR0rS5jwKi4JNLE
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"LilCadipge","Get That Check Right",hdqpu8PMPpDElAqGoX6ZV
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Dom Kennedy","When I Come Around",y4gIF4tD785sjnCFAtqRu
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Mike Sherm","Hot Nigga",P1XtHEPUFa7vLYFssqTOc
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Rucci","Light It Up",rVebGdYQGQdMEp77echuP
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Rich Rocka","We Run LA (feat. Doc Hollywood)",IDKkclCmCsJxHJLtD9RMW
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"The Notations","I'm Still Here",PwNnHOiEsR93ZHJL1FSHk
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"War","Don't Let No One Get You Down",xKmEPA0Ni2yUbhSXVbNQj
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Mary Wells","The One Who Really Loves You - Single Version",M732X5J2BE6M8VIHHfxMx
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Shoreline Mafia","Boot It Up",sF9WD3MnaoHQjJD2sL75D
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Joe Bataan","My Cloud",CcKjHSfALxxdzWt64G9Gv
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Sunbelt","Spin It",RbCDRzP5UaE4ZDUvqlq3E
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"The Delfonics","Break Your Promise - Remastered",k2cegIpd6Nc2WpO6xaSIc
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Chico & Coolwadda","High Come Down",gc19xZ8SvONdW6ZVHlYSO
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"The Intruders","Sad Girl",eAZTu3kRk98Exu0n92YMC
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Too $hort","Gettin' It",K5dQsYdSdo2LKdepxbYAd
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Joe Moses","Gang Bang (feat. YG)",epF1ono9wgFKxy32PPur8
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Pete Wingfield","18 With A Bullet",2pojhQ3QWI4vzAvDVCHDQ
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"The Royal Chessman","Beggin' You",89I2t4hCod149f84P2lYj
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Tony Allen","Nite Owl",FsEGMk5pEtrChLU8etKBZ
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"NB Ridaz","Pretty Girl",BgFkKXIxv96EALb7NrnhQ
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"ManMan Savage","She A Freak (feat. Ohgeesy & 03 Greedo)",gWmZ7eZULHN15xgiwHdsW
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Little Anthony & The Imperials","I'm On The Outside (Looking In)",kMZdaCLHWqECFKOatBPXF
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"James & Bobby Purify","I'm Your Puppet",z71EfouOWMI4HHZHEjnkr
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Devour","Bout Me",Ir5FkO3BvsHanJKiraJW1
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Tierra","Together",lwHRyx3Sxl07UoVp2dcUM
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Vintage Worship","We Turn to Jesus (Live) [feat. Brenton Brown]",USgwRhslf9jFzFfSczq0a
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"The Love Unlimited Orchestra","I Belong To You",MBElS4eYvaBwsu9UyKyLJ
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Arley Perez","El Encargo",JuEtqHaugC5fadPkkRfwq
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Barbara Lynn","You'll Lose A Good Thing",CEREcGR5WaLt40YzTQ62e
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Red Store Bums","So-So",E1Sk9JNbUrl2aCw5gPAED
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Lovelites","This Love Is Real",IY2jRDpxAATY582sBSXZy
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"The Impressions","I'm So Proud",bq9YHKExHdNzMCublodNs
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Donnie Elbert","What Can I Do",Qe7CY3FlIpwENvffjHJ61
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Brenda And The Tabulations","Dry Your Eyes",CatqCpXRX3MGdLNgHoFAM
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Mary Jane Girls","Candy Man",STCPBRYYnsGlzmhNktVou
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Barbara Lewis","Hello Stranger",DtdrabT66jmGZDXmE4ISx
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Mack 10","Backyard Boogie",Bbd5inN2znpGQkxZbqmmU
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Zapp","So Ruff, So Tuff",k0Jp5IYHtBeSNKUEOqE0i
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Lil Pete","It Ain't Shit",vRjR10C2dZgs2Y6MFESqH
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Lighter Shade Of Brown","On A Sunday Afternoon",cM25iyn6zKOfnywTNtvyb
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"YG","I'm Good",KJ7btrsyVPy2VJXBElxq6
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"MC Breed","Ain't No Future In Yo' Frontin'",0ReeHCY0FQUyuAUyPJdnk
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Nipsey Hussle","I Don't Give a Fucc",VxKmRzxl6XIHiCL2dgnVB
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Tha Eastsidaz","G'd Up",zIXpzuCC7FM4kECt2eEzu
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Los Nuevos Rebeldes","Luto En El Cielo",2XOpOtn7qO0oVFgLuNHcV
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"The Persuaders","Thin Line Between Love And Hate",uDRZi9MOTtkuNUHMfREib
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Thee Midniters","Dreaming Casually",QHlzEmen6tBNSUh5wbxh3
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Thee Lakesiders","Parachute",9WvXcG52xjJ6n1y8frcNl
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Lil Rob","Summer Nights",fVCBBlHif6zfqXAEHKJy8
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Linda Jones","Hypnotized",1XLXWcDdkKxvhvsk302QB
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Debbie Deb","Funky Little Beat",EZH9iTS81N24MFhrWyYMY
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"1takejay","Tax Season",krtx2maHSAbmQTjKTHb9x
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Los Dinamicos Del Norte","La Rubia Y La Morena",aqsQyxUdXNQPvgWe6gqON
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"The Escorts","Look Over Your Shoulder",DqAjRljAIOJJq8kT12Dv1
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"T-Dre","Lost",LLHvfvE21JQFD9ZKVCbd0
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"The Whispers","As I Sit Here",ucvsFr0To215PYFNWs6Wx
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Azjah","Time for It",XbHTAmnCUpm24jCaXoYRD
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Peso Da Goon","Back on Bullshit",rLHNSsFRsKekqYryvH4rn
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"The Red Pears","Forever",By74ojwAV64nFmhPYo8BB
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Los Dos Grandes De La Sierra","Chevrolet Cuatro por Cuatro",K8fmjSkNpJzCyaCmY5DMS
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Vaughan Mason","Feel My Love",YBkvX49JKn9hZYGuRFmxW
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Arsenal Efectivo","Platicame De Ti",e7vV4s0ex45qsLcmXcnP4
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"The Sapphires","Who Do You Love",kR2BCzArduYNuJdtezM8L
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Material Issue","Valerie Loves Me",tqASnM026iYJFzcb2fwa8
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Trish Toledo","Do You Love",gqPT9UVIR8hQVEV0tIE3P
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Ahruh","Show It",HSfXQXGItHyIZGgsa9qd0
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Snoop Dogg","Ain't No Fun (If the Homies Cant Have None) (feat. Nate Dogg, Warren G & Kurupt)",rLpAOk5KVNcqEMK3m6Lje
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Los De Guamuchil","El Gallito (En Vivo)",FkMX7onipYjOFWFPCg1bt
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Hi-C","I'm Not Your Puppet",1HnXIFI3P3t9xpW1UjD8h
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Berlin","The Metro",Mp0s4jN8X7J74Qt6sgDXl
+Los Angeles California US,53JqQphsAHvDGGVZErKmW5,"Saviii 3rd","Another Day",cZWO9Sj8ci92hno2Xs4Uc
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Elvy The God","Rolling Stone",y8RKH3ZEO7csik66gtkqt
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Spenzo","Wife Er",97nFPGdrdELprSm6eiPWr
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"King Louie","Live And Die In Chicago",upTWC3MUnRnBlNdjRygQr
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"El Hitta","Aww Yea",gEIRzEFE8xYZXMtkBa42r
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Project Youngin","No Telling",k2wQQvTlNbijsdZLEB9dt
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"TrenchMobb","All Types",MXqX3deQwaGQDiswmKOWs
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"L'A Tone","Come Up",4d4A01dJJw5lXCE5ErATs
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Stunt Taylor","Fefe On The Block",s9hBKw37JvYV9KYiR9oef
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Grupo Vanguardia","El Rambo",9G4sN1bQHgj4X2nzA2E6B
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"El Nuevo Ejemplo","Los Dos Compadres - En vivo",AlwQsAKQLNHoq0xSw8aC0
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"DJ Lucky L","Iam da Man (feat. lud foe)",FAGMcPXIhUUWeGi7kE7m7
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Various Artists","Love''s Gonna Last",Q0Y1eV723A8YJGr1qhU0l
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"G Herbo","I Like",dixqholn3UPyI5nSxkJ9G
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Lud Foe","Cuttin Up",6KGEWYjuVgGjbGPrxp1tx
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"DJ Spinn","Bounce N Break Yo Back",mI20kUdIyOaAhtgeonE4g
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Grupo Dos Banderas","El Vago",X1hGFQHuYJU2SxuAtI0rM
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Jason Waver","Love Ambition",jx79ejetJt0w0FO4Kx3U7
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Phor","Chi-Town",55p5lw166LX6IkKxzh2Fm
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Young Pappy","Killa",1gj9t5gqjQrAiqixfUXdS
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"DJ Rashad","Juke Dat Juke Dat",vrmAvc4WcVbDe1fmPRtUT
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"FleeJay","Intro",htStn5AmnmHKf6Fbz4mb6
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Chief Keef","Text (feat. C. Mula)",abCRWLqZwkaPhBMVdzEbE
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Lil Bibby","You Ain't Gang",fNkxgImVNczSgpF7OVdIS
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"LaToya London","More",V1Us6xbzTCC0EPPgJ69gZ
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Katie Got Bandz","Make Me Rich",7XJQ28uA6DIQwVGykSZ0o
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"FBG Duck","Slide",t35Gl89MBdzXZYhz2owdG
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"T. L. Williams","Gettin Mo Money Than You",OOGNqt4TIJbZ65CDRlUCp
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Taysav","Midnight (Feat. Elvy The God)",BDwPndxLc5kJpdKIQ7mi2
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Sicko Mobb","Fiesta REMIX",YHXkvQR5rj35HxJGPxcnX
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Jay "Slique" Adams","Your Body",jebRuZFI7WwclJxirbHQi
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Lil Durk","Bang Bros",GlIlfwSYBNNbK6nu9HeRC
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"El Hitla","Aww Yeah",jlXNVcZur0HtqJnLmxQK9
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"King Von","WAR With US",FNoFfeNpGkCCSoX9NFsrW
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Bobby Hutton","Twenty Years Later,after So Many Years",6R4F3Kwt10XFuInqfDf2c
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Cdot Honcho","Old Chicago",kBG0bkCrkwWICwTUXPHth
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Bump J","I Want It All",2oM9fimbfumZeuJUws6hX
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Fly Boy Gang","OHH WEE",0HlU4QKlZ5eKgjvyiHCJp
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Only The Family","Crazy Story (feat. King Von)",i0eJv1DzuyhaYnro4wTKg
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Southside","Who Run It (Remix)",ZZsvbuTbdD3mMEIxlEbKT
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Nicolas Bearde","Can We Pretend",Vw0uQII7eKX4uUPRuP6yh
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Carmichael","Rock It",5HC0GDDzFoBafBjADKDaz
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Crucial Conflict","Ghetto Queen",ixK6X5aIigJSFHLKATaii
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"JS","Love Angel",4pn2KFZjPZBNLhffJOY7R
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Cajmere","Percolator - Reworked '10",g7wZC14D8TLhRHHIvxBvj
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Polo G","The Come Up",x4UTuG7Jx2ZzWdBJbhMnW
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Steve Goodman","Go Cubs Go",bwLJXvQyP8IXropz0X0hy
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"JBro Bugatti","They Know",hOsyzTzWOe077yz4fdvFi
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Drilla","51 Dead Opps",jz083slHdDbd2cHrHXLi0
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Twista","Overdose",KYvqycZF1f9CPxaSkGGMx
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"P.Rico","Hang with Me",FGzpki7QDsZUC5UOECQNS
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"One Way","Guess You Didn't Know",3Zpm58po7mJzmE1pGJmR8
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Shonn Hinton","I'm Gooche",yyo2EioHSCakcuBUpDueN
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Lina","Smooth",RFG2gBO1lKSTil1ILitdR
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Mother's Finest","I Can't Believe",ZbeESmKjl5XmQJw7JIAqE
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Xtreme","No Me Digas Que No",AHhyUZZcKp62F0AjWJgAF
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Escuela de Rancho","El Ausente (En Vivo) - En Vivo",wImjJwB1VmIz9QleAa2Ko
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Jojo","Have It All",ezsLpf3lV1TcDAF3RfOYD
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"The Isley Brothers","I Once Had Your Love (And I Can't Let Go)",z23m8y8AP0juC071yPI2Y
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Qari","What I Want",7m8tRKQMGxtglN5EzAJt0
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"K'Jon","On The Ocean",tRna9FSqMrh2LJwqIykHA
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"The O'Jays","I Want You Here With Me",EkLSFVmsXd2c0GZSPpCFI
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Famous Dex","Hoes Mad",u8kqieXwWHMnetFOk8rjg
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Ty Money","Yes or No (feat. Bump J)",LrT8MTS1hC2zA9OlWPzsr
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"DJ Day One","Phone",tUQzPr9pLhrUy6OcSm8za
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Ty Doc","No Smoke (feat. eLVy the God)",qSmrJaRSq79C0ScwrL3Qy
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Rondonumbanine","Play for Keeps (feat. La Capone)",ccps4WlASrRe1qPHZ9tDt
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Lil Mouse","Back and Forth",KTBndV2OLbxy6wTcQobZU
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Loggins & Messina","Pathway to Glory",j9VPhydiWL60b5C0ffbzY
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Manwolves","Internet Child (feat. Ruby Laporta)",zqCHOxtZKKXBIMUVaCDfo
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Reality","Yolanda - Club Mix",auKJC7E0UN96e3kQuEaT1
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Lil Zay Osama","What's My Plan",ZIwIOH5lG2A3eCYidzwzA
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"King L","Val Venis",pTVIbmq7FHpiwWy46cBll
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Speaker Knockerz","Dap You Up",qTBAODxjsKCQClRjMthEj
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Lucky Boys Confusion","Fred Astaire",j41Y0EuJlZyHtmbNT6zHb
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Rooga","Member",tUx6T7tFgzbwX0xQSN070
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Do Or Die","Still Po' Pimpin'",MP7Ql7f0sbqzrnOFkkWwR
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"The Ebonys","Life In The Country",Oy7q2lzIGmKbaqgbO1e6p
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Smiles","Envy Us",wLUfDZMs7j6fM4LpqaBbh
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Twista & The Speedknot Mobstaz","Legit Ballers",jOKMuUvb3smmZnyqYKKVa
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"King K.O","Take Notes",FsQajoUMm9993f6F6xTKe
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"LUCKI","Politics",UqGkTpqb5klwtfEsIpcmp
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Lil Reese","Traffic",WpGt7fhdIDd5ej7xyzbe8
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"R. Kelly","Number One Hit",Pa2IqOeTky6EzUFCw2Sbe
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"600 Breezy","Don't Get Smoked (Bonus Track)",RTp02JYFRLvmKggTQsQay
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Montana of 300","Ice Cream Truck",AsLwfhLMlcFLvwdlTfd83
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Gerald Levert","Didn't We",CvKQ2LIan3hvUaBmhSYbx
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Kindred The Family Soul","Stars",tjt1ZEVVKrih3he8zKWgE
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Alicia Myers","If You Play Your Cards Right",R5BXkIlYZm2fMCKr2hmkn
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Fredo Santana","My Lil' Niggaz",LYlOHvm7oAsCQIXQMjUgU
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Wooski","Computers",TFGywm9rAJhtSPtg1oKZ2
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"EL HITLA","Burn One",d2204kSVZZuEbQ1QV3DCr
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Vic Mensa","Rowdy (feat. G Herbo)",JjRAZ76LYFN0Ww73WVzlr
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Edai 600","600 Dead Opps",49RGT1ZudsMkGxP73kCpz
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"3 PIECE","Your Body's Callin'",yLdUjPnWjK4azgtcmTE58
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"DLOW","The DLOW Shuffle",fZGjZONY1tfJKhiemOON0
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Rico Recklezz","No Talking",nnfcDRWy5reeQreoE7WfI
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"The Jacksons","Good Times",AJBFdQE0Tqn65nYhsM06n
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Beach Bunny","6 Weeks",X53IH5PPrunRXsFBNqbgX
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Memo600","Exposing Me (feat. King Von) - Remix",9XSqdlw5hvJcTCM6JfLMF
+Chicago Illinois US,6UhIdjRWhofrYI32vzVuh9,"Tee Grizzley","WhatYo City Like",RkfxJwAp8x0M6bzVbe2Bh
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Ninho","Sourire",DkF5PzztACcDGdLWVFiyJ
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Facteur X","Pom Pom Pom",lmxFKHbcdmlGyEoZLqPYY
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Mystik","Le fruit défendu",SteThTPwFkssBFVBLfKc4
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Rohff","Qui est l'exemple ?",7pB3BxEgaSZIbJ4uQflS8
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Gage","Pense à moi",qN73X60U6A2IodLyIzTfM
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Matt","R&B 2 Rue",4GZDmP7Nl1KwrCk3baYng
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"113","Au summum",dfahYnct5aULxIVSQ6sv7
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Wallen","Celle Qui A Dit Non",NLZJcCIIUtDOWo2tPrHuB
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Booba","Destinée",zz7ZKea2q50B7KnDAfJiI
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Mafia K'1 Fry","Pour ceux",JjnCqQwWlgIz5ty1ByAbO
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Landy","Vaisseau mère",lI96MqIfdtZONTPWkSDBM
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Sadek","Andale (feat. Gradur)",zLMWD22TUiKZ3L6FPjiCL
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Yaro","Refait",RPgrQkmF7Qpj3XvSyVQ5Z
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Seth Gueko","Paris street",82bPcbi8BlmZKqsoDeTX7
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Jacky & Ben-J des Neg'Marrons","Le bilan",hElE1DmCfpoFVjczvfB5U
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Nuttea","Trop peu de temps",wSQ7cp76cipp6CvvQKhSr
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Assia","Elle est à toi",kqcuCxwH2wySUtEh7E9Eh
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Mokobé","C'est dans la joie (feat. Patson) - Avec intro",maMdKqhsQ6WuDF2sPV2L5
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"MZ","Fonceder",kH79UpcssAzN6eDIjxYBi
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"M. Pokora","Elle Me Contrôle",7kV1kvGUacbiRpf1VsQWe
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Leto","Avon Barksdale (feat. Ninho)",hKRZ9BVMCgrCoqSTGo1ZI
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Comar","Le son du quartier",uBStT5GRhqwUDkANmd1Jx
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Kery James","Banlieusards",yFCrb2x6KTwZjY90Z7iIP
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Many","Columbo",RQzuzgQiqoW5Qdy1DjjfT
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"L'Impératrice","Erreur 404",vP9T20M1JAuurEjYu80Bt
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"The Servant","Orchestra",D0deKeVfYyNos4M4Spmo2
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"AM La Scampia","Mes potos",EiN7BARZXwFDOjH7PWiRQ
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Fanny J","Ancrée à ton port - album 1",iOwkEhzWPddMPOE006XWl
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Abou Debeing","Petit de la tess",GOxKDcr5DLVaABfytEKty
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Mosimann","Anymore",oF71eV4S2WBkG2E9y6LRH
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Lunatic","Le son qui met la pression",3FlJNtIl4CLFmTfEtWZtA
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Fat Larry's Band","Act Like You Know - Radio Mix",JvB0PgC594c8b7BV0r348
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Ménélik","Bye Bye - Refugee Camp Band Remix",YLqn80B9AoFnUFUBG1JId
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Daniel Levi","L'envie d'aimer",TNGfsGVd73QadekqZs3VG
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Diam's","Dj",D0dgZLZWkaWG25NBuxOfS
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Niro","Naïf",P1kCbZVQRGnFkYEbTF2QO
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Teri Moise","Les poèmes de Michelle",1ZhThhYhykTkJ6065qg0B
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Diva Faune","Get Up (feat. Léa Paci) - French Edit",Bw6NXAODvyJiNraHlG91Z
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"13 Block","GTI Freestyle",78JKXAQKZxNc5sntJslT6
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Bash","Attachiante",2VjG9sKLyRTQ2aL7RflO0
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"DA Uzi","Mal aimé",QNifUFU9srbZyQlpVF1M6
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Doc Gyneco","Dans ma rue - High for the Chronic !",DTl0VOkyprQN95ljYlHDj
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"SAÏK","Sweet Sweet",akzAuF9eoxArRBjzrj7AV
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Dinos","Namek",Zxja2USwpNPvh4iM0aSuq
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Martin Solveig","Rejection - Edit Version",hpO0cEKJhGMYElikH83F0
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Pep's","Liberta",ReUVJkNB6bjwagl1g5YqF
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"YL","Nyx",Jtx6cC9o9QbwsaaIhNm3t
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Slaï","Flamme - Radio Edit",UtoiQC20KmUEEyW4gg5eo
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"-M-","Logique est ton écho",I4pyyi7kAd1JV0zOh1JaQ
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Elams","Faut que ça s'arrête",hl6on7YNKaSx2gCDNppFJ
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Bon Entendeur","Entrevue Séduction (feat. Pierre Niney)",7bsX0becPLtW4eUwGBU6o
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Jack Jango","Boom Boom",66ZsXMma7YhRgbTDWlIa2
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Nessbeal","A chaque jour suffit sa peine",Rf1L0UWxTHp4Vr5jGLGQS
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Elephanz","Maryland",VXhNd2IzaR9ZtndCUq7hu
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Medine","Grand Paris",jCnQf9BhMMnIvq8ETzFry
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Pompis","Jiggle",fLxCppEnsjkulViYECmvW
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Al Hudson And The Partners","You Can Do It",yUe3Ix5dLkqpPJpPOJnms
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Kaaris","Bouchon De Liège",oPa1RJ2FrPwEcbnBhEtPQ
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Dehmo","Bâtard",Zpa75DZinRxZ5VuJI9Yho
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Larusso","Tu m'oublieras",16O2jmafiModH0RgonGqf
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Voyou","À nos jeunesses",dy12uyNvfTqsbRdN8yIi2
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Kalash","Taken",Aw8wuBqL655R8pxtEchPa
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Indochine","Song for a Dream - Radio Edit",W8kx6KrjzlQN3J1SvxKPV
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Heuss L'enfoiré","BX Land #2",xVKOliChDlhag7XcfQFGk
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Suprême NTM","That's My People",sv9plOLJQocFU3d0DolZP
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Jahyanai","Dweet So",pt4Wd2Lyj2aEuJ3stHKJ2
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"L5","Toutes les femmes de ta vie",PkVPI5Qj87BCyNBUQ2pJB
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Marvin","Le coup de soleil",3nnbO7tyb7x0ZTYgStfnl
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Daniel Balavoine","Quand on arrive en ville - Remastered in 2009",izwKrQvhuctFsF0gn4sxA
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Rémy","Comme à l'ancienne",kN85zd8D5OUws2UZe52K6
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Sefyu","Molotov 4",XZUo8Rds5wEp3UwyXER6J
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Koxie","Garçon",ncSnIMALMma33FRKNFHBz
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Le Club","Balotelli",wtQmYr22gbYUukX8MA5UK
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"SNIPER","Gravé dans la roche",LZ90308GB1Tp05STjabeC
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Youssoupha","Polaroid experience",Ig3AJ5WZJYdUvG3rboua0
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"La Synesia","CRCLR",5KwCE4eBJMxYhkuuaEFMj
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Téléphone","New York avec toi - Remasterisé en 2015",MzqZDQInpsxboLy33uMct
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Geraldine Hunt","Can't Fake the Feeling - Radio Edit",0lmsJplVohdjGaHUTRpKt
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Dosseh","Putain d'époque",R0XjRFCq631qQRm8xVMrG
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Bosh","OGATLC",y8gVHXaFCw3bvQSXyPPpL
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Kpoint","PartHUUH",AM8MsqFl2qEXp95WJsfd9
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"France Gall","Viens je t'emmène",1TRjDpeYMKPuxTzwTZIkm
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Nekfeu","Reuf",jH9Wz4oFLZDE03nmFunyI
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Bouga","Belsunce Breakdown",sBYtNBryv969UasF3bbsx
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Passi","Le maton me guette",kcF96pmA8PX5ClqyFpEtG
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Badjer","Overdose",IujBwfxxglKDXteVyWrTP
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Cheu-B","Ultimate Trap (feat. Leto, Kodes, Cinco & 100 blaze)",7SgcXWrJrysjzWzToTsbv
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Jul","La classe",T5cEAqAvRee5VAIHSex82
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Bolémvn","Quelle vie",2OIF8H9SMob4lsHWNib1m
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Lartiste","Pas le choix",7mLzPbWGQgUoX6OuVxZZY
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Kamini","Marly-Gomont",2SUjSOr2tsUmOIlYBX04Z
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Dionysos","Song For Jedi",lAOiZHzlY0yGGqO732QYk
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Q.E Favelas","Maman veut pas",C4OmsfEPMnhEIRomV73Bx
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Shaka Ponk","My Name Is Stain",puSO7OcPBKtHkE2isF0qe
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Tom Frager","Lady Melody",EIY4fZQJaM084sa5o5Vku
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Mac Tyer","Un jour peut-être",OMSO78nNWNRkotuOS4nTv
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Naza","À midi",Lb8MWjNifvc1Z5yg73L5C
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Le Aym","Mon cœur bat vite (l'évadé du Nevada)",lWl862wlj4WCgGgUBF8fp
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Rohff - Intouchable","Ca fait plaisir (Avec Intouchable)",jiz5AQA57VwNOJ4bVq7v4
+Paris FR,2sxvQMwzAo9yjbDVBxufmh,"Zaho","C'est chelou",wIoQubsIhvsIBHskw6u0w
+London GB,19wzfxZp8hgp16XrLwc12e,"Blade Brown","12 Summers",xn9eW98S4OAtpCLXkqwWe
+London GB,19wzfxZp8hgp16XrLwc12e,"D-Block Europe","Your Strong",IWH3DRpmSIGhGT6cobkZZ
+London GB,19wzfxZp8hgp16XrLwc12e,"Egypt","In The Morning (Let Your Love Come In) - Original Radio Edit",M5BecF1hOqHevr4BDRi84
+London GB,19wzfxZp8hgp16XrLwc12e,"Sons of Sonix","Full Speed",fSKCUG8ofWEWk1Qi6abHp
+London GB,19wzfxZp8hgp16XrLwc12e,"Ay Em","Reverses (feat. Ard Adz)",pHCRi0hMKF8lxvp4lKELQ
+London GB,19wzfxZp8hgp16XrLwc12e,"Lethal Bizzle","Oi",IrgT8AoXX5FiHPNkxrcak
+London GB,19wzfxZp8hgp16XrLwc12e,"Sticky","Booo! (feat. Ms Dynamite) - Original Dirty Mix",hZ56XbpYbxCOrpNgj6CU6
+London GB,19wzfxZp8hgp16XrLwc12e,"GRM Daily","Bring Em Out (feat. Suspect & Ambush)",62bgxZdAtDlspuqMY1Jxf
+London GB,19wzfxZp8hgp16XrLwc12e,"C. Biz","The Games Mine",ISNZ6C1mFEY8qfCo6Ajiu
+London GB,19wzfxZp8hgp16XrLwc12e,"Asco","Straight Drop X 4",7bREXWmmdy7R2DCES8yCQ
+London GB,19wzfxZp8hgp16XrLwc12e,"Jaheim","Just In Case - Dub-A-Holics Roller's Revival Mix Edit",NTx5zAEsw8ghHqynpTIkP
+London GB,19wzfxZp8hgp16XrLwc12e,"Big Tobz","Baby Girl",FJGG1BcWm5YKKHeRHOpkc
+London GB,19wzfxZp8hgp16XrLwc12e,"Kyze","En Route (Uber)",MBJArVKQBsTJsosW72Aiq
+London GB,19wzfxZp8hgp16XrLwc12e,"10 Below & Kele Le Roc","My Love (So Good) [10 Below Club Mix]",z84XGmcOS2V1cQSXe9IGZ
+London GB,19wzfxZp8hgp16XrLwc12e,"Sia","Little Man - Exemen Works",PxXQz4Im41YdDi0J3kPCv
+London GB,19wzfxZp8hgp16XrLwc12e,"Fredo","It's Like",eslVvaPrsD4CO4EMvakSL
+London GB,19wzfxZp8hgp16XrLwc12e,"So Solid Crew","Envy - They Don't Know Vocal Remix",eSCD3P7W0RXT2iFLHc9tF
+London GB,19wzfxZp8hgp16XrLwc12e,"Ambush Buzzworl","Jumpy",GyGssLzFzuWxj26Xee11m
+London GB,19wzfxZp8hgp16XrLwc12e,"Tion Wayne","Home",wF4BqvqFtI0DEKoS5CcFm
+London GB,19wzfxZp8hgp16XrLwc12e,"Oxide & Neutrino","No Good 4 Me - feat. Megaman, Romeo And Lisa Maffia",oysiJ2yYjVYzrGSmIEzME
+London GB,19wzfxZp8hgp16XrLwc12e,"LD","Part 1 (So Fly)",NiOENrxWGoU6tB9lZm6oe
+London GB,19wzfxZp8hgp16XrLwc12e,"Giggs","Talkin The Hardest",7sJfLJzpJXCcHtKAiC0JR
+London GB,19wzfxZp8hgp16XrLwc12e,"OSH","My Yé Is Different",YuzvHediJ0SJqMYtyRU1c
+London GB,19wzfxZp8hgp16XrLwc12e,"Monsta Boy","“sorry (i Didn’t Know)" (original Radio Edit)",ElsvWNXbo3jXs4OuakQLn
+London GB,19wzfxZp8hgp16XrLwc12e,"Yxng Bane","Intro (Big Wave)",06EvM1S1cNBDRHYyf4Lgc
+London GB,19wzfxZp8hgp16XrLwc12e,"DJ Luck & MC Neat","A Little Bit of Luck",stQUVyIkVtY7KbU8OGnEN
+London GB,19wzfxZp8hgp16XrLwc12e,"The Ra Ra","Elegance",AIrhzTcqKbRfHIpxYCaJ0
+London GB,19wzfxZp8hgp16XrLwc12e,"Kilo Jugg","Mota",2FW25Brdtdz5wGSc2He0j
+London GB,19wzfxZp8hgp16XrLwc12e,"Mis-Teeq","All I Want - Sunship Radio Edit",tWdRXWDUd1gWLthXgk6Dp
+London GB,19wzfxZp8hgp16XrLwc12e,"Cadet","Trendy (feat. Ay Em & Tion Wayne)",tuufLHEFi2hO9rAnSAQyJ
+London GB,19wzfxZp8hgp16XrLwc12e,"Amar","Sometimes It Snows in April - Dreem House Dub Radio Edit",nIWuSwR8iIyew22d6mICJ
+London GB,19wzfxZp8hgp16XrLwc12e,"Baseman","Bad Habits",IL7H1Y2yUzldYqFi8RDB5
+London GB,19wzfxZp8hgp16XrLwc12e,"Ghetts","London",piL2igLwZGYmjgkJMQwcr
+London GB,19wzfxZp8hgp16XrLwc12e,"MJ Cole","Crazy Love",HfooVSTxGJAMSl2KMrmCV
+London GB,19wzfxZp8hgp16XrLwc12e,"Artful Dodger","Re-Rewind",VqSg7nsmUNJKHZYufNZFo
+London GB,19wzfxZp8hgp16XrLwc12e,"Shola Ama","Imagine - Asylum Remix",tHr952isDUWtoYBa68RUb
+London GB,19wzfxZp8hgp16XrLwc12e,"Architechs","Body Groove - Mix Mc Version",6UNoQz1kXeBZeqmQbFpYe
+London GB,19wzfxZp8hgp16XrLwc12e,"Lonyo","Garage Girls - Sunship Radio Edit",P5Rntc1SI0IGeqlrWJQCq
+London GB,19wzfxZp8hgp16XrLwc12e,"DigDat","AirForce - Remix",2ENZqPXfNJZwobe8r5wqt
+London GB,19wzfxZp8hgp16XrLwc12e,"T MULLA","Link Up",bXywahxWlHzc0FBEurHDQ
+London GB,19wzfxZp8hgp16XrLwc12e,"Gabrielle","Sunshine - Wookie Main Mix",q1hpdlf8ncJUhKLyjHoHB
+London GB,19wzfxZp8hgp16XrLwc12e,"Fumez The Engineer","Same Grind",SDn4OQeEGnYgLow6MbDoX
+London GB,19wzfxZp8hgp16XrLwc12e,"Unknown T","Throwback (with Crazy Cousinz)",XsG4fUG2oAA5KVnGJqLw1
+London GB,19wzfxZp8hgp16XrLwc12e,"Headie One","Of Course",FLnfJ4focrSUvYplO5k4D
+London GB,19wzfxZp8hgp16XrLwc12e,"K-Trap","Won't Stop",mY322YpPegtcKjW1D8O3O
+London GB,19wzfxZp8hgp16XrLwc12e,"Pak-Man","Trap",O1SHytDQdquAqCSOaeGFl
+London GB,19wzfxZp8hgp16XrLwc12e,"Young T & Bugsey","En Route",XGEX65pWyLt31jMNjGvmF
+London GB,19wzfxZp8hgp16XrLwc12e,"Mizzy","Sweet One",TAHlvXk2oJVnKBL83QJCm
+London GB,19wzfxZp8hgp16XrLwc12e,"Slim","Touring (feat. Headie One)",1ta5gEtj5jNRPzP9Lutig
+London GB,19wzfxZp8hgp16XrLwc12e,"Wideboys Feat: Dennis G","Sambuca - Original Mix - Radio Edit",todOcpbt1Kpp4jl5x0r9h
+London GB,19wzfxZp8hgp16XrLwc12e,"ZieZie","Sensei",09xDejvWBG3sBUAfvKUTC
+London GB,19wzfxZp8hgp16XrLwc12e,"Kenny Allstar","Tracksuit Love",zE6QCEdpct5x10dl8ijxh
+London GB,19wzfxZp8hgp16XrLwc12e,"C.S","Lucizz",DFXyGkcAHpDiaInwveBMH
+London GB,19wzfxZp8hgp16XrLwc12e,"The Plug","Tell The Truth (feat. D-Block Europe & Rich The Kid)",131MJFq3tQTIzwMvSkoun
+London GB,19wzfxZp8hgp16XrLwc12e,"Tiggs Da Author","KINSHASA RIDDIM",tFQZBQhsJUydGKbITv3Ms
+London GB,19wzfxZp8hgp16XrLwc12e,"B Young","Juice",aNUrCYZFBbOnvJ0q1CNce
+London GB,19wzfxZp8hgp16XrLwc12e,"Rushy","Trippidy Trap",Lf6EGbqAzddC6dYKpsld5
+London GB,19wzfxZp8hgp16XrLwc12e,"Kano","3 Wheel-ups (feat. Wiley & Giggs)",If9mEuLBP0y46rvN6ca98
+London GB,19wzfxZp8hgp16XrLwc12e,"Sneakbo","Gang",E7GD5rkMfNRDX8Gp5sCQY
+London GB,19wzfxZp8hgp16XrLwc12e,"Yungen","Comfortable (feat. Dappy)",bXcl7JnhraHGIqqilbQxI
+London GB,19wzfxZp8hgp16XrLwc12e,"M Huncho","Council Flat",UsNsAKIErV6Z6X8zbFnD6
+London GB,19wzfxZp8hgp16XrLwc12e,"Roll Deep","When I'm 'Ere",tcyPxd27DWYW3FRSPFddH
+London GB,19wzfxZp8hgp16XrLwc12e,"Loski","Boasy",Zu30GKzNomR8cPTrHmBZF
+London GB,19wzfxZp8hgp16XrLwc12e,"Da Beatfreakz","Pumpy (feat. AJ x Deno, Swarmz & Cadet)",r7kFZo4Ua517FKCW39fo9
+London GB,19wzfxZp8hgp16XrLwc12e,"Wretch 32","Tell Me",Ss0qG9hJD9Vqzj1fsz695
+London GB,19wzfxZp8hgp16XrLwc12e,"Stephen Emmanuel Presents Colours","Hold On - SE22 Mix",X3T1YVWuYjjzXL5LkfwcE
+London GB,19wzfxZp8hgp16XrLwc12e,"Nines","I See You Shining",ong9e9yT1FNTRU6SY99Wl
+London GB,19wzfxZp8hgp16XrLwc12e,"Dappy","All We Know",wffyXJFwiRT7j7rlPUDJR
+London GB,19wzfxZp8hgp16XrLwc12e,"Tina Moore","Never Gonna Let You Go",PxGPmMnKXwcXqmvfwVruo
+London GB,19wzfxZp8hgp16XrLwc12e,"Roy Davis Jr.","Gabriel - Live Garage Mix",cdy1jK0wLr6R2nAo0oIXy
+London GB,19wzfxZp8hgp16XrLwc12e,"AJ Tracey","Nothing But Net",Cwx13S6kYpafhhGSuNlBw
+London GB,19wzfxZp8hgp16XrLwc12e,"Wideboys","Sambuca (The Return) - Radio Mix",1zfZJPP6bIwgCb5hBsr71
+London GB,19wzfxZp8hgp16XrLwc12e,"Tinchy Stryder","Game Over",WMmIo6w85qCwqCUNE77qn
+London GB,19wzfxZp8hgp16XrLwc12e,"K-Ci & JoJo","Tell Me It's Real - Club Asylum Steppers Mix",qvjI9Mo0KQTGz6NB0ZLYQ
+London GB,19wzfxZp8hgp16XrLwc12e,"Cameo","Candy",BzapQ62bPrdKS8sGVQ7UF
+London GB,19wzfxZp8hgp16XrLwc12e,"Zed Bias","Neighbourhood (Radio Mix)",lQk3EUb2YTXs1xVmDiOQm
+London GB,19wzfxZp8hgp16XrLwc12e,"WSTRN","Round Here (feat. Skrapz)",rX6qwJbQLfTc5sVPdzr39
+London GB,19wzfxZp8hgp16XrLwc12e,"Devlin","London City",DIBmvk0dnu9M3TAQxNtMx
+London GB,19wzfxZp8hgp16XrLwc12e,"Yung Fume","Islands",IcuAfrwyqXuwatYX8Sa7n
+London GB,19wzfxZp8hgp16XrLwc12e,"Hypo","First Night",oBmJQ7pfvGY4M7GuwielP
+London GB,19wzfxZp8hgp16XrLwc12e,"Don EE","Bruddah",XNOBp2ZOfyN1lDgQJcK7L
+London GB,19wzfxZp8hgp16XrLwc12e,"The Manor","Ibiza",iAtj6nixccbfcGkr5e0aX
+London GB,19wzfxZp8hgp16XrLwc12e,"JoJo","Baby It's You - w/Bow Wow",CHIy1oqTlQwsf9E2aHy0P
+London GB,19wzfxZp8hgp16XrLwc12e,"NSG","Natural Disaster",AolPpju94sTjISu1eqreX
+London GB,19wzfxZp8hgp16XrLwc12e,"J Hus","Dark Vader",IeXHed9x1xm8fXyrHPnd5
+London GB,19wzfxZp8hgp16XrLwc12e,"Krept & Konan","Get A Stack",Fz9NT6m2Lvf8P4ou4vYFY
+London GB,19wzfxZp8hgp16XrLwc12e,"DJ Pied Piper & The Masters Of Ceremonies","Do You Really Like It? - Radio Edit",Mnw05kNd0j1XDHwtfzofp
+London GB,19wzfxZp8hgp16XrLwc12e,"Stay Flee Get Lizzy","Ay Caramba",mfEHC4z5a7533o7VNOH2c
+London GB,19wzfxZp8hgp16XrLwc12e,"Swarmz","Bally",AvLAAXMtq7IGi48x9TrD7
+London GB,19wzfxZp8hgp16XrLwc12e,"Crazy Cousinz","Feelings (Wifey) [feat. Yungen]",CuMr1KC8oMHIBbyduLqI5
+London GB,19wzfxZp8hgp16XrLwc12e,"Kojey Radical","25 (feat. KZ)",2bBXOZh5wsgldHy2PjiSi
+London GB,19wzfxZp8hgp16XrLwc12e,"Toddla T","Instruction (Gallong Gyal)",4uqbhdWIuExI9rGFJXd9Z
+London GB,19wzfxZp8hgp16XrLwc12e,"Kamille","Emotional (feat. Stefflon Don & Chip) - Remix",ZNGnogLUoEPOseBNAp6so
+London GB,19wzfxZp8hgp16XrLwc12e,"Donae'o","Party Hard",jAI4gzhJUjd5Lj33Cunak
+London GB,19wzfxZp8hgp16XrLwc12e,"Apex","Life I Live",mFtqLwAU0gXzdBgihwRe2
+London GB,19wzfxZp8hgp16XrLwc12e,"Theophilus London","Bebey (feat. Giggs) [SN1 Road Mix]",6b3Yb7y65WuYvwBp7CVRN
+London GB,19wzfxZp8hgp16XrLwc12e,"Jay Silva","One Time",QVA1UojCpF94AuOQRki6A
+London GB,19wzfxZp8hgp16XrLwc12e,"One Acen","EIO (feat. Hardy Caprio)",Xs2HQqDDb00tsaWFYKyXt
+London GB,19wzfxZp8hgp16XrLwc12e,"Meleka","Go (Crazy Cousinz Remix) Radio Edit",p0FS5Vn8oP0yS7VclPs6z
+London GB,19wzfxZp8hgp16XrLwc12e,"Avelino","So Fine",sTgHAn5mxtQXeb1BsLSKC
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Z-Ro","Mo City Don",38VhnERUjSnXmIFGuxonu
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Big Moe","Barre Baby",o59IsZnbJe85uX9xzcp1M
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Los Igualados","Anoche Me Enamore",nzAX6YnCmVv8cMhe8blqW
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Yungstar","Knocking Pictures Off Da Wall (featuring Lil Flex)",cHxOOnaC6UjyMf8P4mpme
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Fat Pat","Tops Drop",OGkB06pBNqk4UKUIadR4X
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Obzesion","Toparme a Mi Ex",H8Iv2S5w0kPQrnC1of8Jo
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Slim Thug","Summertime",xDVwtJNDmrBi4u3f43kqS
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Lil Keke","Southside",kkOuhyWcINZMDh4QGVyMB
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"DJ Screw","Pimp Tha Pen",KegtKX6D86OmNy8xCXsow
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"J-Dawg","First 48 (feat. Slim Thug)",L4KJtL6hjuAsh5XZzZpST
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"E.S.G.","Swangin’ and Bangin’",Ob4c2kpk95aQ05PhtiYj7
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Kiotti","H-Town for Real",uJf1PmpRxFVisDWcIpzD8
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Hawk","You Already Know",Dsx1ZQ3H3GnrkYwCQvPay
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Lil C","Drank Up In My Cup",D6I4ox1TQbmauQhPaJJsV
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Swishahouse","Nov 18th",Y5RC3b7xxSSxDV5N1vJs9
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"DJ DMD","25 Lighters",sOQIl6EdVEBUr0UhpnGh2
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Screwston","House Party",KfMpfPllyVl4VElPu9Ru3
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"D.E.A. Dead End Alliance","Heart of a Hustler",mTPsGRds5KveIIYTeMDgF
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"ABN","Rain",w82HB9FEvykpSUB1BOfUH
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Yung Al","Jungle Freestyle",zTlwZx7kh2JrDBRE3BJFQ
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Notable","Mis Errores",iCXe0vi2ujFwF4uzSCp3K
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Mista Madd","Down South",4zmSCm9mRrkaDurQUN2ju
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Estruendo","Alas Rotas",Uo1qjtEQHhk7dxbkVAUUN
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Slim Thug feat. Paul Wall, Chamillioanire","Houston",1mYalLD8up0CZD8SOZ6p8
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Kevin Fowler","Hard Man to Love",hTVjihLZcyCWIkT3MEC2L
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Lil' O","Back Back",19cZyZyQK29YAb9IZGW02
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Propain","2 Rounds (feat. Rich Homie Quan)",nLuXkEb4ot4FpzoFNo9zE
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Big Pokey","Ball N' Parlay",IGlwLIKAw4nZzC2zyhpLN
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Grupo Equilibrio","El Corvette",7QAdUH1HQMgmNqb50Lxtw
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Inkieto","Un Rompecabezas",g6CrNp9tHxzjVK481NBDr
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Ram Herrera","Amor Querido",Dod4VT1f76b5sekRUXGPN
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Trae Tha Truth","Grey Cassette (Bun B, Lil Keke)",lxEbwI3vMakLnQoDTCgjw
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Paul Wall & Chamillionaire","N Luv Wit My Money",XTZfOP3sZuDYVzPU89Adn
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Siggno","Ya No Me Importa",f9iiJV4M4FmPbIGtxwoeM
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"La Materia","MI Novia",sT2CTBe0AJ0nXn3ZZ4Rg0
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Paul Wall","Swangin in the Rain",BOULL5EJP2eC74ZE0lNav
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Lil' Flip","I Can Do Dat",myPmGUKJJKtASZSVaim8w
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Pat Green","Take Me Out To A Dancehall",MJAcAAYwcSvTkecG03FtM
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"3rd Degree","I'd Rather Bang Screw - Big H.A.W.K. Big Cease & Kyle Lee",WjnQQPq9Vanute72aZeaH
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Cody Johnson","Texas Kind Of Way",EDt7cxNUAVK0QlGjPo1dZ
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Randy Rogers Band","In My Arms Instead",hFSl2YfBUCY7RgZ8OhwCO
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Solido","Me Enamoro Mas De Ti",27yvKyuB1XJaNoV2XNOCR
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Foe G4ng","Texas",CL773rb5h3iaToQyWUw9D
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Pimp C","Knockin Doors Down",DcmMHy3mvNC4K9tx5M3Nk
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Flatland Cavalry","Traveler’s Song",3ZQQa7FnfggPBfYQVpa9a
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Robert Earl Keen","Corpus Christi Bay",Sp3o2wUIIaphf4s4TcV81
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Parker McCollum","Galveston Bay",eUagnbOw9MjesonPWNkNQ
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Roger Creager","Long way to Mexico",oW0pJTTGXk2Q0ChlxSfy2
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Zenzio","Bajo La Luna",lKAe5pMOThajX1pbGxGY0
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Honeybrowne","Texas Angel",wVkovdZKbcgwjwjUvQAAj
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Josh Abbott Band","My Texas (feat. Pat Green)",K2R5ECfzYqSyBLHXywRo5
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Wade Bowen","Who I Am",R04Mu4CANunY7VQdhBLU9
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"UGK","Diamonds & Wood",z8tZ7BZ1GzFIlaPt5qWKx
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"David Lee Garza","Que Tristeza",qmdg6HC0NBmlKDsZwVr6R
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Gary Stewart","An Empty Glass",bTpje8OIa5KsiMl8Pe2Nb
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Bun B","Draped Up",oJYNhYWONVv8wh78LZmd2
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Street Military","Gasta Get Paid",bO9JNgoxofOKbW0CV8c7m
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Jay Pérez","Lo Que Yo Tengo",7YM8eY4U7AKeJSQUc2OqF
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Bart Crow","Wear My Ring",3lnXxETBx3eRxFG30F3v1
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Sauce Twinz","2 Legited 2 Quited",RDLMekhYhXJJOp8UYN2b3
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Mazz","Que Me Lleven Canciones - Live",ENiSfLRXQNAfvNJ7GZrE1
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"South Park Mexican","High So High",EV73dmNsiz8QnJnX1gmkr
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"La Tropa F","Lágrimas",iKnCeOWsfBTZxLAtqm2xn
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"La Leyenda","Ay! Amor",e19HbztLDfkmCIGLldcYv
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Randy Rogers","'Til It Does",cUR2tZlH6fAlNpIjZ9RlQ
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Jaime Y Los Chamacos","Como Te Llamas Paloma",lyouvzXgNG40YtpDaSF6d
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Cory Morrow","21 Days",giySMOHPQMb1nD3s5OCTs
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Gary Hobbs","Maldito Amor",ahf0PSKlkJ0rYSNCJpsPI
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Stoney LaRue","Feet Don't Touch the Ground",jlKg466AQEoBSPJ8y8wyY
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Zamorales","Como Quisiera Decirle",alaD2rg5OlpOKwJBZgV0h
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Jon Wolfe","Play Me Something I Can Drink To",a4DeFv6SM7w7NAFSrdDPL
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Koe Wetzel","Love",F9ckjDpL3J6wvI68Nb8PB
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Kyle Park","Leavin' Stephenville",rjYrDlPztF9WLBCTsoKlK
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Ghost Magneto","I'm the One",wgWuPBcu3lxGG5FhplhFX
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Esteban Gabriel","Noche de Desmadre",sTjY3KgI4zsabA6XYRxxG
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Aaron Watson","That Look",O6i7SEWrQw0azh0xpOwaj
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Guerilla Maab","Rise",w8wxK1MpfWrCePjKPqupf
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Estrella","La Unica Estrella",gMOEN2bJLzB0m8t60X648
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Josh Ward","Change My Mind",EOR2DM2Ryuw0SGxvJcZf0
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Jason Boland & The Stragglers","Somewhere Down in Texas",kRlt3v0NI6OLhyMkZZAee
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Turnpike Troubadours","Wrecked",9QYGruWwuNp5EZ7ZCo7iJ
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Pollie Pop","Southside - Screwed & Chopped",hKYpRe9qUEYkVBNqZZmYd
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Randall King","Mirror, Mirror",HH3IOe7C8XHMlk8kcJigk
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Iman","Uno, Dos, Y Tres",5yagVkwjwa72Y22trwR0A
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Mike Ryan","The Rewrite",W3DDO8csBRUTdNITJgpag
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Michael Salgado","Palomita Blanca",lDMZAwtuSEUB0Sxkn7qrQ
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Cross Canadian Ragweed","17",ooQIGKHYJ9aKVsUynDpSN
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"DJ Drobitussin","November 18th (Screwed and Chopped)",hIRmVl11AzV71QblDwiGk
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Jimmy Gonzalez Y Grupo Mazz","Jimmy's and Jay's Mazz Medley: Vuelvo, Ven Devórame Otra Vez, Qué Esperabas featuring Jay Perez",yyuvKMFwBzIw8xu9rq6Dv
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Beatking","Throw Dat Ahh (feat. DJ Chose)",ZzX9TQk40O0CrFGWoGVMu
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Slim Thug, Boss Hogg Outlawz","Ride On 4's",FbiU7FjIue3FSHBeBN0eS
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Hold On Hollywood","The Chase",jh0o0UF4QGW5mpcRfuBrA
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"William Clark Green","Creek Don't Rise",dNQi8MaLrbMF2ibAYwUqS
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Albert Zamora","Prieta Casada",eHCUL6N4UqUQP9Fn37pQd
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Grupo Pegasso","Me Desperte Llorando",NFxOKrlVqvsDECxulvEtE
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"DJ Storm & Lil' Keke","Down South Freestyle Flow",Kwcd7De1iuxJvqt0wxofe
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Brandon Rhyder","Freeze Frame Time",oWWdhk7N9M9UyVP1lKCg3
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Six Market Blvd.","14 Miles From Home",TSXaIf62MeAtdExEPxDqz
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"Charlie Robison","New year's day",o6sSAGtypSJgErN0IOKYm
+Houston Texas US,7ihMjetICZGO8wxr65fJmx,"La Fiebre","Borracho De Besos",GlgoQzc7S1BmIp9TXktdJ
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"La Poderosa Sonora Master","Mientes tan Bien",9p60r5XNRVtslyp0EqLpj
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"El Viejo Marquez","Me Muero De Amor",ci4OlJdTMqIc4n5jyaZVY
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"DJ Kbz","Dime Quién",dMNgN4jh8dzBfBOIJxWg7
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"TropiCumbia","Lo Intentamos",YBaUMLjMqYjfXibDZsHmS
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Tu Combo Kabrón","Culpables",ZFUbUbR4NrhHzOmPwRoCT
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"La Delio Valdez","Negra, Ron y Velas",qs1Zs4BY3BJe7ycmoYyZG
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Indio Solari y los Fundamentalistas del Aire Acondicionado","El Callejón de los Milagros",KAEdRme7EioqZPD2dQlj1
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Mario Luis","Hoja En Blanco",vmhnmTgtxR8V9EfxBCR16
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Dalila","Muero por Ti",4iP0452WTzhP7rCbfzEoW
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Los Cadiz","Te Voy a Amar",UsKcpJX67R2iRMz0wWU7h
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Patricio Rey y sus Redonditos de Ricota","Nuestro Amo Juega al Esclavo",xt7T3rqNolRjO0AUWqBiD
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"El Gordo Luis","Cinco Minutos",mDq3mPvdpwE8zAXpRXE0b
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Tambó Tambó","Querida",qb9RnVRPiR4CoSPGlmu4D
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Jimmy Y Su Combo Negro","La Pollera de Jimmy",JMpgXpB4lGwRa8SCo9ADD
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Los Leales","Vuelve Mi Amor",YQExirdEk4Xh525kr4SHW
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Los Del Maranaho","Te Tengo que Olvidar",V1Lh57Dlkf6aQrRC3tAO7
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Luis Ornelas","Tu Retrato",BNqsiWac9PqqLMFxe39Ab
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Los del Fuego","Sobreviviendo",VEloqLjRlIH5mUrtIFYwB
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Los Palmeras","Cumbia Sobre el Mar",m6havHCZHEHBOG6E10nF5
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Siete Lunas","Loco Corazón",GQH90kOQYJjxJjyRGEShE
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Fer Palacio","Desconocidox",P7pNxhdHK74t8KfxxKWnQ
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Luis Ornelas y su Grupo","Linda Muchachita",qnKcktT0PO4AUk9FRkgdI
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Callejeros","Sed",31GRlgtbKSCjzFixplhAv
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"La Nueva Luna","Te Vas a Arrepentir",Rb1YFwlxt1AgMaqbOpZzf
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"La Renga","El Ojo del Huracán",i2jx1BRrRBfxWxbuGzfe1
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Leo Mattioli","Conmigo Te Gustó",3DJZnMU894sjYBDx6HHO8
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Almafuerte","Toro y Pampa - En Vivo",3c4oelxnp0cVeFZZ4L4QL
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Grupo Trinidad","Conmigo Te Gustó",pJsUL6ZtbPjSqgvhT09eC
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"El Kaio","Te de Campana",0Os75qhBHalGkKnXVopkQ
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Rocío Quiroz","Amor de la Salada",DJ28HP4muUfKBxhrIbGmG
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"DJ Pirata","Rehuso",YMlgQen7a01ZvGsYNFwqk
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"LOUTA","SOMOS TAN INTENSOS",LTS9XjUZXVDr0DY0b8AQA
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Los Lamas","Primer amor",DPOVaGYFBiQXvsZR2xpb2
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Los Charros","Te extraño",SGsYigLaGXaCH2jM2JwlZ
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Los Piojos","Te Diría",xU2qVN1U9onp1BBQ6cZfj
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Daniel Agostini","Boquita de caramelo - Una copita mas - Porque yo - Otra noche de amor",bbiYD16r1RoaMftRXWesK
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Militantes del Climax","Hit Hot",wKlw2I4LbwcUbrNyKMvTs
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Ciro y los Persas","Luz de Marfil - En Vivo en River 2018",3GMAqPjN7f6OePdX3reiS
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Axel Caram","Secretox - Remix",sJ77B9bngjYc9qAtgz1OC
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Rodrigo","Amor de Alquiler",CUTRdjoxE6vUHCWc8rhKL
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Marilina Bertoldi","La Casa de A",xtphuj19xftkTUHDZ4sFH
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Grupo Sombras","Pega la Vuelta",1seuwibGTQsUod6oScKtR
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Koli Arce Y Su Quinteto Imperial","Mujer Endemoniada",rcRAdwVtuD9FVcl7cVRfm
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"La Repandilla","Muero por Ti",aoXw1OBlKyXeAhj19fiL7
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Aclamado Amistad","Te Sorprenderás",MNuc8E8kopQSqAZPJSrjY
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Ulises Bueno","Ahora Mírame",EOTkRt48d1Eu31V2o4mNw
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Las Pastillas del Abuelo","Historias",6sTL7B35PaGGaE5tpYHR2
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"FPR","Q Va",jWza5dIZTz59HgLQTdzMO
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Karina","Corazon Mentiroso",2vjZJEWFst8vhW4k9saOv
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Onda Sabanera","Pobre Corazón",iEcfSRugRGr90nGcUz1t5
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Tomy DJ","Amanecex",H0T1wCbFQYg56XWwmy2o3
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Sonora Skandalo","Solo Quedate en Silencio",Br7Hwr3M7V5Nr1ykC3uJj
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Viru Kumbieron","Me Vas a Extrañar",KOxcKaiZSFYIcHnr8PIKB
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Don Osvaldo","Misterios",yqtsZ0LcBRM5gv1kSMQIt
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Lo' Pibitos","Anda Corriendo el Rumor",ASQ0QJkQJqD1RgDrLvJQX
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Divididos","El 38",TKA7AOxNJk89Qp5iwzxzr
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Damas Gratis","Su Majestad",uXbXsV8npksQdJy5K1KZZ
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Banda XXI","Cuando me Enamoro",cAPaxRoHX5DPpdV8MQcS8
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"La 25","Chico Común",FxMlzkBfekU3gNliu571t
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Blaster DJ","La Probadita",wk4QwDhUYxVMD7A815LRg
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Cumbia MexiColombiana","Hablame de Amor",utPJ2rYSr6pDxc1jRXg2G
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Los Chakales","Vete de mi lado",hqnOMlbOoiMlYp1hgeg6O
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Riff","No Obstante Lo Cual",DzdvXn3QNAWR05GY2m6AZ
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Viejas Locas","Lo Artesanal - Remix",G69Rca1fS52ypIOp5KJBX
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"La Sonora Master","Lo Intentamos",fLtlYvGTB8oa0eVs0CT1R
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Kevo DJ","Taki Taki",cjrkjoyVcqw2dwCGIHGGO
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Los Totora","Márchate ahora",voxukrHBXctzxdSbCycey
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"CA7RIEL","Vibra Alta",rAHLyUZvhdcJqT3I5XbPr
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Sebastian Mendoza","Suplente",o4HSNQaIFCtPjvt7XYQmF
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Los del bohio","No te ví crecer",vWgHYcjVUoppPgBBPcpvK
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Daniel Cardozo","Inventame",Ea6SMCRQqN8cpSMpgeqpJ
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Bebe DJ","Ppp",OqIqxv7wikjEzUVSl3tbo
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"DJ Yayo","Puro Acordeon Mix",sa4eHjgsGYZPkKLYqwQe3
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Surditto DJ","Sensualidad - Remix",2Lrz0X98yXdrvlCaRZIL1
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"El Kuelgue","Por Ahora",wszmCHeHNQNVBnBSAyl9X
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Hermetica","Olvidalo y Volvera por Más",El4q5wk5Z5WN3vRTfsKvd
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Simba Musical","Graysi",jeIkO6uO4AYqAHD54VihY
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Dj Lauuh","Me Voy",O0wOcuotS3fDut8gJC0Y5
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Jeites","Desvío",EKDybquHHUKPc6XpulBKa
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"El Pepo","Nunca Es Suficiente",M8J1Y0be0Sfexkcni9wnR
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Salta La Banca","Seremos",AtNtseGriGF4sUXaVxBwq
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Jean Carlos","Quiereme",749jULVf3n93RHzAIpmTi
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"DJ Alex","Piensas en Mi",xPXbhs93ZOYmxzPmX2qPv
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Fedu DJ","Asesina",hH4xzuutrEzijPFKksrgt
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Lia Crucet","La Güera Salomé",ztaqx3ChIDhqmZepSoJkB
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Miguel Alejandro","En septiembre fuiste mia",ZEg8E3mddYWsQXdcOniLI
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Uriel Lozano","Un Perfecto Idiota",lFQ2KafdmnMPxOocVZxoc
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Combo Supremo","Tus Ojos no Lloran",ic4l97g9eDoTKA5eSsHHp
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Sumo","No Tan Distintos",dG3znpT3NJjfRRvPc77xe
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"La K'onga","La Cabaña",cTKuxpHcPzDFRbbhE2WxP
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"El Soldado","Angel de los Perdedores",WE7vQVhCBf8E9COHIK7uP
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Miguel Angel","Dios Me Libre",3d6otdre4G9uC2IOTV5MV
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Los Perez García","Magdalena",FgrJJyC7s6bjH6sUsRC3p
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Los Angeles Colombianos","Cosas del Amor",q6PckWRCc3AuPM2JZuj2i
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Los Caballeros De La Quema","Sapo de Otro Pozo",g0mhq4ZDQE3cTd1XLcYVf
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Agapornis","La Llave",v78qANb9b176fgEzR2eaW
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Pappo","Rock and Roll y Fiebre",SsOtB41HPvZdEFjtLUhop
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Skay Beilinson","Oda a la Sin Nombre",iZI1vKI4dTBofmpav5nV3
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Commanche","Tonta",babcBOEm3FZMHzRL8z0rU
+Buenos Aires AR,1iyu1s4szp3ASCNSbGerzQ,"Gilda","No Es Mi Despedida",LxHE5QyoMy2fNQQbeY4i5
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Mr. Pookie","Crook for Life",kGDLjDIu0CAXydC1L6O3g
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Koe Wetzel","Tell It All Town",GsNYeGGsV4nz3IqRLAMjK
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Parker McCollum","High Above The Water",88eXU0ypAeWJebnN1OpTU
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Big Tuck","Southside Da Realist - Original",sFxWkeAzMw1DD8ANl2qpw
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Kody West","Green",r30TgNKEifODd4mpubWOx
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Read Southall Band","Clean Slate",mNiX78NHQOmsEhI4uqv1O
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Six Market Blvd.","14 Miles From Home",TSXaIf62MeAtdExEPxDqz
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Flatland Cavalry","Missing You",Sx22WASoyuCUbK72Fs78y
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Sam Riggs","Hold on and Let Go",M9u0JbGEaCzFDOGE5tCUw
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Mike Ryan","Dancing All Around It",IbZ8KbXhuee2F1eohrNmx
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Stoney LaRue","Feet Don't Touch the Ground",jlKg466AQEoBSPJ8y8wyY
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Bart Crow","Wear My Ring",3lnXxETBx3eRxFG30F3v1
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Seven Miles South","Texas Rain",4HenXWHfLUlsRsLPiBd0k
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Kolton Moore & the Clever Few","Dear Mom",DDVNfXxsHAlvg4nace2Ze
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Casey Donahew","Stockyards",9Yb6w8DywcHViQUsd85Go
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Wade Bowen","Who I Am",R04Mu4CANunY7VQdhBLU9
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Josh Abbott Band","She's Like Texas",k0ahlHosIWblaaIsEqJ8M
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Dolly Shine","Should've Known",HYmSpsl3EyKSWttauGT2P
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Cross Canadian Ragweed","17",ooQIGKHYJ9aKVsUynDpSN
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Brandon Rhyder","Freeze Frame Time",oWWdhk7N9M9UyVP1lKCg3
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"William Clark Green","She Likes the Beatles",8iGqJQPZcTYNx6bdR5YWC
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Randall King","Mirror, Mirror",HH3IOe7C8XHMlk8kcJigk
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Shotgun Rider","It Won't Matter Anyway",UTb3htVtQWEYndKrBYMBS
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"La Fiera de Ojinaga","Como una Fiera",rFI3guWwBbbiO5BfYnHh6
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Louisiana Ca$h","From Louisiana (feat. Info, Quick & Moneybagz)",CWiRKm8Wr35UNV8pB7xYw
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"MO3","Hold Ya Tongue",RQZrVrIcpgR5y8S8cCfuV
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Treal Lee","Throwed Off (F*** Everybody)",mH0ETsPmj0qOAOj3tsGmq
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Randy Rogers Band","Kiss Me In The Dark",bZKIfJVpW8HktEafRnRP2
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Zane Williams","Little Too Late",rj1jiNzy1CXpWIt1u9w4a
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Jason Boland & The Stragglers","Somewhere Down in Texas",kRlt3v0NI6OLhyMkZZAee
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Kolby Cooper","Every Single Kiss",UGnIq5oeMkckBMX6D1Ktj
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Whiskey Myers","Lonely East TX Nights",lcVmjJq1IrGYxpVLB0oKk
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Giovannie and the Hired Guns","Another Time",61JRfPhVDfw5CxUhVkGBL
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"ABN","Rain",w82HB9FEvykpSUB1BOfUH
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Shane Smith & the Saints","All I See Is You",6fHLVEQBcyC8VjnmdDF3q
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Randy Rogers","'Til It Does",cUR2tZlH6fAlNpIjZ9RlQ
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Cory Morrow","Lonesome",Ca9qN2UcEgenWa5px1HyR
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Z-Ro","Can't Leave Drank Alone",uAmSjg1c8JLzkWlZS2yWQ
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Turnpike Troubadours","Whole Damn Town",BXe9ZWHc05Ejzo51NuQVG
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Trapboy Freddy","6 Pick (feat. Go Yayo, G$ Lil Ronnie, Slezzy Bezzy, Yella Beezy & Lil Cj Kasino)",bdMFHzChvnCcGwiNg05PB
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Erick Willis","That Makes Two of Us (feat. Tori Vasquez)",wUNFpruCPkRV9hzkL3uaC
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Pat Green","Carry On",HieRfsSSwQA1JUtfmRNgo
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Cody Johnson","Texas Kind Of Way",EDt7cxNUAVK0QlGjPo1dZ
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Keith Frank","Haterz (feat. Lil Boosie)",8Wqhzvb0cNm1BaMStzKXw
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Go Yayo","No Visa",rOvVCbw8HvUkuEo1QC4eb
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"LilCJ Kasino","Dirty Game",GSSsgJRwwSROJsfKq4sI7
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Charlie Robison","Loving County",1oeMgPmaEEXYugo6p8SsX
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"La Reunion Nortena","Entonces Juguemos",e1JeuDz0OF31RlxBxzIUg
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Wayne Toups","Take My Hand",jz9pzisivCijrIXvyt6PK
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Josh Ward","Change My Mind",EOR2DM2Ryuw0SGxvJcZf0
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Dalton Domino","Corners",PLo5mFrdQS1Og9dnCtuFh
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Judson Cole Band","Battles",3reyIjRb6ZsSdSzufVGo2
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Chris Colston","Gone",Jooqwzd0SUUXNlKFSkwey
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Ryan Wilcox","Mexican Wind",LmdPmUuYJhIKxkTzVGLqP
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Boosie Badazz","Loose as a Goose (feat. Foxx & Mouse)",ozzaJ4ER65Utsk3wA58fB
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Johnny Cooper","Texas to You",RUSp82ZofLziZkUVh1x2s
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"La Alianza Norteña","Ya Me Enteré",I5ndd1quStmdUjRhdL1tA
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"The Damn Quails","Fool's Gold",TMUdD9vE4DoqDYi7VXStt
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Sean McConnell","Novocaine",Xiem1z8NCBd0MKaFR2nt1
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Jon Wolfe","Play Me Something I Can Drink To",a4DeFv6SM7w7NAFSrdDPL
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"LIL Josh & Ernest","Jigga Juice - featuring Hurricane Chris & Diamond",K2eVQCNkjytRrljOFBLHm
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Thieving Birds","Too Young",un9niuesU7Nfls37QCyO4
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"No Justice","The Toast",c0Owva3bDhjaOJtNXhCN1
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Roger Creager","The Everclear Song",H2VJLVLiXlLStv4McVSZG
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Eli Young Band","Oklahoma Girl",BIIVWkv7nRdYKCNxQUbfh
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Jason Boland","When I'm Stoned",2xpxaQUNHLvVn887yhnNK
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Ryan Beaver","Under the Neons",85JwqpIFL5Uy0BcCtXDJX
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Big Moe","Just A Dog",hUXBzW8zP2koWrxG5fNeL
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Curtis Grimes","From Where I'm Standing",sbMXKt8HI1YhMDdWOsNWi
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Kyle Park","Leavin' Stephenville",rjYrDlPztF9WLBCTsoKlK
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Micky & The Motorcars","One In A Lifetime Girl",q1CSbohATYihY0nc89SP6
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"DERYL DODD","Things Are Fixin' to Get Real Good",rSowJBIhylvfBeure8SGh
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Red Shahan","Men & Coyotes",MmfngQYkwmkGA6WmbVcsD
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Aaron Watson","That Look",O6i7SEWrQw0azh0xpOwaj
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Bleu Edmondson","$50 Dollars and a Flask of Crown",IfdDiOJitysgex3qEL0bn
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Level","Dumb Dick (feat. Ms. Trill)",bngdHLbrOmgQJwrFTZ08i
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Webbie","Whats Happenin'",eBcqZ3EJgamC3oFb1K3XD
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Chris Kleiber","One Nightstand",kP3V2XAQWfTBLZgGthaSx
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Lil Keke","Chunk Up the Deuce (feat. U.G.K. & Paul Wall)",i0n3xtjuVFLp646joI9XS
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"BWill","Every Diss (feat. Boosie Badazz & Big Poppa)",5E9VWD1SbMrhEABPrkK1v
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Kevin Fowler","Hard Man to Love",hTVjihLZcyCWIkT3MEC2L
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Shea Abshier & the Nighthowlers","Kickapoo Redemption",H9L3hxdEcw1sorYkOMLkY
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"La Energia Nortena","El Amor De Mi Vida",9yJiimH7jCdxNKOJ8MJd9
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Conjunto Rio Grande","Gracias Por Existir",X5vLbBadh3PfQT14b0U6U
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"UGK","Gravy",Iu9Zwu9jrwWIG5RTDYLMW
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Dorrough Music","Beat up the Block",uxcgmgkriQPHK0zQwOMGQ
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Pimp C","Knockin Doors Down",DcmMHy3mvNC4K9tx5M3Nk
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Young Dolph","Foreva",3nOXuK95DPOiO62Ixgzza
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"La Maquinaria Norteña","Amo",zWCJpPYHIe3KBr2ORuebn
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"John Baumann","Midland",zZRlIbks0tvikltJsVG6c
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Yella Beezy","Why They Mad",BSmFdJibi06a831uIeGNA
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"The Great Divide","Yesterday Road",Cf0eIhwQOeSJx7HIC9wPe
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Triston Marez","Where Rivers Are Red and Cowboys Are Blue",GnaE2PSranNKCOr3Ti7IF
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Choppa","Choppa Style",0fr7aJFdGsPgA66bxfRPG
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Gary Stewart","An Empty Glass",bTpje8OIa5KsiMl8Pe2Nb
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Honeybrowne","Texas Angel",wVkovdZKbcgwjwjUvQAAj
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Mista","Expose 1 (feat. Wne & Guss)",6OVcSrKSEECgd7ZOVVAxI
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Reckless Kelly","Nobody's Girl",RVGMThEV528jPZdfcRhL0
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Cottonwood Crows","Back to You",2t1nlGWImmnCNrLRoCsVS
+Dallas Texas US,5thq4HQaIBxOK1vE9bu2nj,"Chad Cooke Band","Whatever It Takes",X8JtTEdbQvPWVsNgXEkv1
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"R8 en la Casa","Baja Pa'ca",l4tTXM2zXhUUjMBeUYSga
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Darren Tate","Let The Light Shine In - Radio Edit",lUTpyQPk5p14cu3MCZ1Lv
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"84","Esquinas de Madrid",5qw140Yo81dJkqv4pgvla
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Ters","Ters (Gira Que Gira)",nzUpIzP7a4JS2QYHrUN3T
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Modo Avión","Frío Corazón",ZEZCq7YIgLlsz2P9sRPBP
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Carolina Durante","Cayetano",fxZQ0PPz6IOQEYfXojAfK
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Matasvandals","Silencio a Gritos",NuRUPdqAcWAOx1zACoCFv
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Sinsinati","Indios y Vaqueros",sULhmo3y4gwEo2BATqdEs
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Pereza","Madrid",EIh5ErBtGcTLrhuQvbsYM
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Charlie Hijos Bastardos","Un Mundo de Ocio",saueC23DksEdRza5OaQbD
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Club del Río","Remedios",abHsOmCZeW14rvGI5utCE
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"La Maravillosa Orquesta del Alcohol","1932",qSYymHEX6i0hHof9EjqWW
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Diván du don","Vuelo",e0PwEGe79HnekZ2sonCpK
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Hakuna Group Music","Pasión De Dios",qN24L7ArjdGJZvelYfRWF
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Novedades Carminha","Verbena",KznlkE5Vo2WNPSaBVjV8w
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Recycled J","Patito Feo (Skit)",rFYC2kEuTqNNNPWLV1Pl0
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Sidecars","La tormenta - Acústico",m7lXgCcQD8DwZWTUZBBOF
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"LOS NIKIS","El Imperio Contraataca",EzVGEyUB9HAXT1cQHwhqf
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Xoel López","Madrid",AMelJwI2gDTEFCtNt7hgQ
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"IZAL","Eco",hsul6oJHjJ7wbV9lky88A
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Ivan Ferreiro","Turnedo",41hgOF71B92Jpg4IU6kyx
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Juancho Marqués","Nos Vamos a Comer el Mundo",4vB5VGDLpBecqgWOLVNI4
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Leiva","Eme",f5euRVG7Oth2RZkIalIDB
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Taburete","El Fin",GhXPpse3pWbl7B7u21D7u
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Magic Magno","Fuma y quema el mal",rOSiYM2cpKX2ObplMOAPg
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Quique Gonzalez","Salitre",MmGTsPVHDjhM5BJLvkFRL
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Despistaos","Estoy aqui",VQ36fHtQwEjId0Z4K8ovU
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Ojete Calor","Mocatriz",FpRhJ7lOtetHL1zwZSYuP
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Marlon","Mi Macarena",qkhT8lgkdup1LvckGsFyc
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"El Canto Del Loco","Aquellos Años Locos (Bonus Track)",zQPi1daDcELSMkpDGwHsn
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"El Jincho","La Macedonia",l2n3Hqjv25bqYvcYe83Co
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Rochi","Cuando Estoy Contigo",CsNe2FJyx9z9lZz5cR9iN
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Rulo y la contrabanda","32 escaleras (feat. Dani Martín)",JUFwNKko3c3HcGmy3kY6l
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Suite Soprano","Por los Siglos",hdpG0RiF2AZSUwDE5FgIx
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Lori Meyers","Emborracharme",7DveIUUjToBiKJwMnFZiJ
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Delaporte","Ni un Beso",5qiBj6lRhW1FpWaw9uoH4
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Supersubmarina","LN Granada",eTNLIPzgURsXMdgX4cdpJ
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Enrique Urquijo y Los problemas","Aunque Tu No Lo Sepas",VybHZvsshGs8GpOaB0wS1
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Pont Aeri","Flying Free - Original Mix",yqiverYlKEA0ly96HPq01
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Costa","Halloween",8GaEluEMQUFiAHVTAiQoA
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Miss Caffeina","Mira cómo vuelo",q26YkYooQjbNyNXzGcHGP
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Zahara","Hoy la Bestia Cena en Casa - Radio Edit",YNFcufYDvX12bSijAQfHM
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Veintiuno","Dopamina",OCpUm3GvQtKX57tpolcBO
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Cantajuego","El Arca de Noe",VApS6vtT40ppM7fLA4eff
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"La Fuga","P' aqui, p' alla",OeGTfPIF6sURCstaEqf4R
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"LUIS BREA","Mil Razones",ULxFpI5gp5XIVU1dyn4od
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Sidonie","Maravilloso",AKRUMGsw95tvB8SE6LFWb
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Natos y Waor","Speed",z7N7P0iMAFadSomAuxLHR
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Morgan","Sargento de Hierro",pv5scBTTQyqN2NOiEj8oe
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Beltran","Luna Negra",BjOuCJCLpW0a8dkfCIxJ1
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Modestia Aparte","Cosas de la Edad",VtWnkdB4xPBqzSmEwecSy
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Pol 3.14","Bipolar",6UobMGukzzmaCFH8SWYvB
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Varry Brava","Playa",y3baBkHg8XhPXOYeYwWSF
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Pignoise","Nada que perder",YSaKC66FGCWLxM9SoQA1f
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Dinero","Una noche más (con Iván Ferreiro)",lmKPdb5EeffjTAhBJTnTJ
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Niños Mutantes","Errante (Canción Mutante)",GkCKAw2LPirMgiUJMAEMY
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Petit Ribery","Una Vez Mas...",uJyNPyjv0GrSU6aVRzgqe
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Century","Lover Why - 1996 Vocal Dream Mix",X4LJtBwKXMjmaz1hFYs8D
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Aqualords","Children of the Demon - Nico Parisi Mix",6Fp3txAXJIRCGQlU32ejS
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Cariño","Llorando En La Limo",OZbkspK9F4YPS43NxZ47c
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Sticky M.A.","Rockestar",hCiESiwvQaX6JkN7EnGji
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Viva Suecia","A Dónde Ir",nYjvyYo1Npf8Q5asm0tF3
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Fran Perea","Uno mas uno son 7",Af6XfS90PAZaC4Q2AjPtg
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Loquillo Y Los Trogloditas","Feo Fuerte y Formal",4w139jhWNnuQjnlhlzLvi
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"XTM","Fly on the Wings of Love - XTM Remix",8rBhIXdXhPAkG4RaBIq56
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"DePedro","Nubes de papel (feat. IZAL) - En Estudio Uno",PNXXER6KUL9ayBWVqObT9
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Shinova","El Álbum",kiLDuhyoc73OAq7h0TLy9
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Denom","Cuando No Estás Tú",gGMKeZVvxz9MVsZwIKo5M
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Vetusta Morla","Saharabbey Road",kKC32g6Udc9wNHwZcMohb
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Lagarto Amarillo","Dejarse La Piel",S3cG5FYoU7SCi4ztNreBa
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Angel Stanich","Mátame Camión",55qoemxrUayVKURYasFYY
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Second","Nivel Inexperto",5y9AiUtBKSBhxYcqzylAQ
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Andrés Suárez","Ahí Va la Niña",S97fTj264zDbSQ5yWQWqB
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Travis Birds","Coyotes - Versión en Acústico El Embarcadero",WFSHNVtCYni6ktsBy4BsJ
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Molina Molina","Contradicción (feat. Alberto Jiménez)",Ws1YTvj0G2Ssk7965Mxbv
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Israel B","Intro'98",FJUaXuiA652B4np31LqR5
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Porretas","Pongamos Que Hablo de Madrid",BoOihNE3nUqmKUfbYt8hE
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Elio Toffana","Memento",Py4WpgtmS0vvwAdfsaUdb
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Funambulista","Ya Verás",kqpy5UXO6qhJ3KXSYkq0V
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Los Secretos","Pero a tu lado",JOXwHPhtdRU3kYKcf64Gj
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Alice Wonder","Clean Up The Mess",R2OBwkWWGYzdTkLoHwFMv
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Pablo Perea","Voy a Hacer Todo un Hombre de Tí",0emkg41FAEvRBuRj0quCy
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Nena Daconte","En Que Estrella Estara",msphInQ8bBBQGFZkll7FX
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Anna Castillo","Lo Hacemos y Ya Vemos (De "La Llamada")",Oo0ceqCbpwxUPQjl70lNJ
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Celtas Cortos","20 de abril",ifOnwJC0oH7cfbJQbUye1
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Joaquín Sabina","Motivos De Un Sentimiento (Version Banda)",fH0xY2CuEbPpusDqwS2WL
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Sunvalley","5 de la Tarde",QVTuPbLeKTBWVKfHGRCOC
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Platero Y Tu","Cigarrito",Gt5oL4aEufZvJy9KjEkxi
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Love of Lesbian","Lucha De Gigantes",ozbWlTQASs311dSO5R6vp
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Cruz Cafuné","Coquito la Pieza",MK6pVyk4dexZGlR7NokJr
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Los Piratas","Promesas Que no valen nada",7f6dBsGwi5V9OOXI1KYe7
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Lupas","Pirata",iVe3gmo1RaRpxyzUuaM18
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Rosendo","Flojos de pantalón",xEQItoulehU1apBfxqkM1
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"The Parrots","Soy Peor",kO3Stp8I4ssrEDPMzA7YC
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Nikone","Sin Prisa",LuccEv4YdpWldk4B5SAUt
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Pol Granch","Je L´aime a Mourir",I6w77A4VJOvKL1rpyxdVW
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Maldita Nerea","Cosas Que Suenan A...",yptV8t4OH935km6IZWt1l
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"DELLAFUENTE","Ya No Te Veo",lOLQ52wY0FmqEKn7LKtQG
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"C. Tangana","Traicionero (feat. Cromo X)",CrVQgYTd2D3uVEuOrQ3zP
+Madrid ES,6c39fJ8cKRZh0tNx0rnn3T,"Fernando Costa","Pa que lo gocen",BMdZsDXxPH6Db3Ug6A2q2
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Son Tentacion","Tu Falta de Querer",AQ5u6zEpcHqwnTuYFesR9
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Hey Hey Camaguey","Rendido ante ti",nFCxXKpie2IJcMosFQZn3
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Combinacion De La Habana","Cuando Te Besé",rlK9hHXYSDXz10LyTzXAC
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Daniela Darcourt","Cuando Se Ama - En Vivo",ymPcXn9NLA5ZdB3IgVy5a
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Reggaeton bachata Hit","Tu Falta de Querer",AIG0mhCGQHYYiTsV12hQr
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"N'Samble","Me Vas A Extrañar",C7yDVVwhkAVxdE51sSqwI
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"You Salsa","Como Se Perdona",rZlPXF9Kx92ySiY237rsN
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"La Caro Band","Amor De Etiqueta",O1EHaqGqQjAqshMGOBfyB
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Charanga Habanera","Muevete",labyOG6GVWH5iD1iwWe8e
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Bembe Orquesta","Entregate",Snu6AJyoSQWrXRF6bPXx6
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Orquesta Zaperoko del Callao","Como tú",GHgwaObVd01InEyD28sI9
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Yahaira Plasencia","Tú",iosPMWqMwHeL6cmE1rrZS
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Orquesta Mangú","Un hombre busca una mujer",ZMDiXPIy06GvHB5uApNr9
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"David Calzado y Charanga Habanera","Lo siento por ti",rVkajGo1i4pW4MS7fz2Ys
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Rumbavana","Voy a conquistar tu amor",vqc5n3PImuikeSaipxmTb
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"David Calzado y su Charanga Habanera","Señora",bzAbrWRp55EPNlcGdbUBU
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Josimar y Su Yambú","Como Mirarte",dN8aYTrOhMdlq6ztIuFl0
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Mar de Copas","Suna",FGBEwbkQtbUHoidy5CNcy
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Karibe Orquesta","Si No Te Hubiera Conocido",u3Mx5byadtgptIybXgLkP
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Gaby Zambrano","Quítame ese hombre",WLBgukJbCZrltGw9GF3lt
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Barbaro Fines y su Mayimbe","El cuchi cuchi",PZA4ZW9ey2tP7aiwQSyh5
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Christian Meier","Esa Sí es una Mujer Feat. Pedro Suárez-Vértiz",h2dCHNucCDY0Eorcl6hro
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Bamboleo","La Tremenda",voqBz6blDvN1c29vadprU
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Pedro Suárez-Vértiz","Cuéntame",6KLnsqCiFEFTEQp2Vaf8R
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Nosequien y los Nosecuantos","Magdalena",ucYESd9fQjA312msAZUlq
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Libido","Como Un Perro",oz9W6TQj2AeDXg8TjRvs0
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Manolito y Su Trabuco","Tu Me Recordarás",FWsQmSjs8www0PjwXDb2f
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"La Novel de Martín Guevara","Evidencias",immcluHBgywcqXoqdTbwh
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Wilmer Cartagena","Infidelidad",K6ZdAN0saZ7q98n6jdqkv
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"DJ Luigi","Sandungueo Infernal",OD7tExtmbLvu429YD1dkh
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Amén","Fin del tiempo",NqyLGFIkFGBPGQaCZ1BOI
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Arena Hash","Y es que sucede así",RUCPYCK0A2JyiJQ1CnNtc
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Rio","Lo Peor de Todo",cnUsQVdrZFNdtIBKZBMb5
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Gran Orquesta Internacional","Me gusta todo de ti",tP3lf9hJXNWRAJooo2A7d
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Carlo Supo","Eres Mi Sueño - Salsa",clLBqIma442MQQ9FMaaCu
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Anna Carina","Quiero Contigo",w3BZJU79LB7PIwZRLloob
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Ezio Oliva","Como Le Hago (Versión Salsa)",aBKqcMlUF9dTgB4FfCqrz
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Cementerio Club","Inmortales",mYHFgxnHqtTZVGmDcvryy
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Los Mojarras","Triciclo Perú",Ahb1lGCvsRSlmThubFzsy
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Grupo 5","El Ritmo de Mi Corazon",RFMVm8ox1fX27BJLFhvLz
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Olaya Sound System","Jacarandá",Q724QL8DNUofPdmPr8vIY
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Cuchillazo","Escribir Todo de Nuevo",54uAZgLcfWlXZwQovgDbG
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"TOURISTA","Requiem",0WplSlFQsUcCEfHWdRFCD
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Frágil","Avenida Larco",cgR1DtC3EnkUQY3q046YX
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Los Conquistadores de la Salsa","Fururu Farara",vXkMAfNUwCtwrNpp9kUBT
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Bareto","Quiero Amanecer",FxnHDy0ew0aDygCSo6vYH
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Barrio Calavera","Este Amor No Es Para Cobardes",MDl65SN68qaARCiz717Q9
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"El Lobo Y La Sociedad Privada","Júrame",jlvQG0RDIj5KgnM2xjlUk
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Temple Sour","Así se Siente",lXUJPk7KGE2FWQk64gxIa
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Zen","Quédate",WbgDeqVRo5C6mzJYIxlHn
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"6 Voltios","Lejos",m9oUTPYgbxmNRY5n13Daq
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Los 4","Amame una Vez Más",7980zgvkuP2LdDpF4UFp6
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Jonathan Moly","Con Él (Versión Salsa)",UcIpEkygNs7ox2xbg7T2D
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"String Karma","Cajamarquina",TV3DDrm1RixW2HT7lQLeC
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"La Mente","Concha Acústica",XdbTe2SdQ4x0rCMzJt4SF
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Leslie Shaw","Loco",B6vX1K00WoomITx17JuVG
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Gian Marco","Sácala a Bailar",5qU7UPwnrWJ4cfnwbrboq
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"La Nueva Invasión","Yo te Quiero Así",B9muro7FnN8HMSfeIceer
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Hnos Yaipen","Mix Juan Gabriel",2Nq9k65VM8U0Ir171Mux3
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Armonia 10","Cervecero",mdkLjfCwdVNZZD8jrtqQJ
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Autocontrol","Por Tu Amor",IvOjXrJCmttHX8cSKFKbs
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Diazepunk","Nid",5n1eTJqD8fcEFXcDMoVPq
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Chabelos","Shakira y sus amigas",nMY2GjQzXKKO4IFFtT4W1
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Deyvis Orosco","No Te Creas Tan Importante",MboEGPYS4N2ryr5V6a6eR
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Los Campesinos de Bambamarca","La Chismosa",VlswEsEPSWQHefPJoTNVd
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"We The Lion","So Fine",pRxr22BAKcvfeFwr6yGFB
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"No Recomendable","Tacos de Princesa",p2FWxVjl6PukdBMVk929o
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Los Ecos","No se puede amar a dos",d0s5Tb6xNDyXSnVuS0Isv
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Hnos Silva","Princesita",gzT4u6TmGK46lJVJdu4G0
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Nicole Favre","Me Gustas",ixq5j0EMXExYkivQL2d9K
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Max Castro","Tu Me Pides Que Te Olvide",H19r12AYTfmJ4TBlXXWRE
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Av. Larco, la película","Al Colegio No Voy Más",jM14jqRiexk1UQrsViwxF
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Campo De Almas.","Tus Alas Caerán",7RPhZOsbbgeSugavCkqtT
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Agua Marina","Tu Traición Se Acabó",DhdFGqUCa6srDwXXNLjJ1
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Daniel Lazo","Si No Es Contigo",qGSJ3DcdAEN0LWOVSWwdC
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Orquesta Candela","Me Vas a Extrañar",cwZXohdMmRbKXhUf8Ar6B
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Maricarmen Marin","Obsesión",ssoWr03PfMCYJuTuLOt7a
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Pelo Madueño","Alma de 80's",9bZ2k0TSk6qf9gzbvPEw5
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Raices","La Orquesta",5XSMGdEKvtcC0ky1SYxxP
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Michel Robles & el Sello","Lo que no fue no será",rLrElJ5B1TdbCvfVgS9l0
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Juan Carlos Alfonso y su Dan Den","Mi Cuerpo - Remasterizado",QK6BWQpARlQccwtPsB5IT
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Salserin","Yo Sin Ti",SSGUtDsmXSmUKi2YAcf7L
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Grupo Guinda","Pedazo de Luna",8uVX7ci3ZgEk7IUy4EfXq
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Juan Carlos Luces","Tengo",MUyUkhRjta3dyI1ZfOPW2
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Malucci","Ice Cream",ibbz1VMbQQTKXVTl4u1jk
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Los Outsaiders","Cadena Perpetua",Hb0jb773oFPpSZDopnOsh
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Corazon Serrano","Díganle",gzrxcSrPtIkzHoQpZwMD0
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Papillon","Cuerpo de sirena",zzo9bs0449KiK9zWU9BYc
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Puro Sentimiento","¡Si saben cómo me pongo pa' qué me invitan!",Q9j2zgLUM3eAfsSDscVG0
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Donny Caballero","Bonita Si E´ (feat. Chelito de Castro)",Hk9AgUFU3ujjlD5Fxvk77
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Los Barraza","Cosas del Amor",8HyL1bahOey1Fe3yBcUZ5
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Kanaku y El Tigre","Bicicleta",x4ieTA3jffObagSu60AzN
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Laguna Pai","Libertad",StXK8JNcdDbiOTLqEjg00
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Mallanep","Donde Esta el Amor",dhHlLROUALi4ZrIfWpGyu
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Cielo Torres","Mas Fuerte",IgGM5CSJ6wsIiUCza8Uta
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Los 5 de Oro","Pa' Que Me Invitan",sWyxKU370dzK6OTC4CmrE
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Marco Antonio Moreno","Recuerdos de julcan",dwIQi2537LAJAh3XJWBaq
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Antologia","Mentiras",uHaskk6RaFScb7lq2qHZG
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Fuera del Resto","Dime Cuantas Veces",b9ja0qUOFsJKM22I0AjaH
+Lima PE,4bAPnXF75Wq8YZ7UiTV3Ty,"Chacalón y la Nueva Crema","Ese Amargo Amor",EWAO463RADpLzRt3h11Vz
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Madmarcc","Broke Shit",fplajc2viVSNdH2mDvuHi
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Bloody Jay","Thug My Way (feat. Boosie Bad Azz)",sfB3us4xt5Lu1I3I0SWrL
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Kilo Ali","Baby, Baby",nFqEQy3q1mxrVxug9hxiT
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Lil Keed","Blicky Blicky",nzn3wUDVdAGW5WZxt4yKO
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Kwony Ca$h","Pray About It",azspbGHPAkUEePxCsXyZx
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Rich Kidz","I See You [Main]",oRfTbvmtTAvx6eI79X4Vy
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Skooly","Marry The Shooter.",0FeHfkiIPIZydsHB4FLxv
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Mal & Quill","Fortnite",C2WjIUGSdDlQD91gWqcSd
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Drivin N Cryin","Honeysuckle Blue",soWxuLc0JR2ZrhqlxlJbT
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Young Nudy","Loaded Baked Potato",7Zycwm6EUtKE271Nms1uf
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Pastor Troy","No Mo Play In GA",6qw4ilmGDS7DAHsXBh9FJ
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"MSA PG","Live Long",iIUs1VrkPXc7eLz05ZKvr
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Charlie Boy Gang","Beef It Up",ZvuziWAIVv7satHe6zbQL
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"YFN Lucci","Wonder Why (feat. Skooly)",crRpkLmunc7oFW2m0F04a
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Raheem the Dream","The Most Beautiful Girl",xMfUsbpXAno3E4J5IckhR
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Young Kavi","Finesse",HEKmuFNjR4NfyzH0bEEl2
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Code G","Stayed Down",cvm4U7StCYbffGHNlppGp
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"A Paid Vision","APV Takeover",ySqTV4t1DXyfG3KSy5wTf
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"T.I.","Do It",YvPWESHazN6QdbEJMp7F4
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Baby D","ATL Hoe",FIiV8vjecL7BjPScHOnYN
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"DG Yola","Ain't Gon Let Up",ny4Y3Iy6d5m6zJYD8ziY7
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"NoCap","Legend",dMzpyiQmDvaADi3wxXL4Z
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"AFTM","Bad for the Money",k4tmFgqOor2BXRVdoJMhe
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Joe Gifted","Water (feat. Fronstreet)",nlSiU4NGcIzWXvDhNtSAe
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Passion","More To Come - Live",2zMLutXNrudtVisjYka57
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"DSGB","Make Em Get That Money Right",XadclnBSY6okDTYhVJCIP
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Rocko","Thumb Thru That Check",CJo8hMDH8jMTuoieI6Yrx
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"D4L","Scotty",a0GRBATlIq4SRbBOPOA8V
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Migos","New Atlanta (feat. Rich Homie Quan, Young Thug, Jermaine Dupri)",rUwtkurKC7i2oXNM7XmR8
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Bankroll Fresh","Poppin Shit",IltUOkryvvEknHSN07N3d
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Corey Smith","Twenty-One",qIHxk3zTvWDo7kYqkuPOH
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Ball Greezy","Nice & Slow (feat. Lil Dred)",XUjRWmImtzsaBwCnkORRZ
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Derez De’Shon","Dark Places",VKegD3ioj3KGiEhQXaCE2
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Peewee Longway","Shootem Up Bang (feat. Young Nudy)",oRtG9p6yINHbo4uxRbP6c
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Yung Mal","GodZilla",Z2KFQfftfvv2Jd6fhuKoa
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Riley Green","Bury Me In Dixie",KFbFqfBxqRtSSwkA874iv
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Flyguy2stackz","UGA Anthem - Remix",8on211JoGGLJBd55ce89S
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Paxquiao","Ride 2 Getha",ynvNhPFBu4gZY71i4peZz
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Goodie Mob","Black Ice (Sky High)",Uu8BPsWQGZk5AiRN3uBwn
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Rylo Rodriguez","Bmf",jWHVDRuS7ruZ7Czl1iAFr
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Yung Booke","H.I.T.V.",ycmcVVsspzOGri7JiPnUI
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Spodee","Sacc",4GCP5IypmYcEjp7PbAGpk
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Young Scooter","Jugg King",6sEtZx6F2InPzybZIn96X
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Youngbloodz","85/Billy Dee Interlude",eYyfFDQJGRhQ55jlbtqrG
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Trouble","Kesha Dem (with Mike WiLL Made-It)",UblxRhZ2RoXdycI10tgia
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Ralo","Lil Cali & Pakistan",SY7UNJYPQxmtSmVNCUDrh
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"DJ Taz","That's Right",Inq5p7LPUNq1W40hvTD7h
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Field Mob","Dead In Your Chevy",NbThH5A2K6JJImWJpjcvD
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"SahBabii","Tonight",WIQhZTPlv5KLZFJIyEk2y
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Lil Gotit","Loco",skY5I3SmCZ4CNHVPM9PEG
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Megan Thee Stallion","Big Ole Freak",YEbLhXRDPTtctnb3ddg8g
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Monica","Commitment",28HtIBLgb4W17mIMe8OdH
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Freaky Blvd","Oh Yeah",PnJIwFNaTGHrbaSDsh1MH
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"North Point InsideOut","Heaven Is Here - Live",ritECufYd1eiWMqscl4jF
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Rylo Rodriguez","The Boot",SINuLZDemZfAMyiCRp9yS
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Mykko Montana","Do It",yORNsKrSxLIV7qqRFySXl
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Money Man","Tryin Me",P8JmpXrhpozZyOVUc2n4W
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Plies","Drip 4 Sale",NBN576EzuHma2VUBUW9iP
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Jeezy","All There",l5lF04xjhTfYSopCXc4FU
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Shawty Lo","They Know (Dey Know)",TQANhh0iV17xMeExcH6qj
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"HoodRich Pablo Juan","We Don't Luv Em",Ay41oJQbfdIrhfNy46PuD
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Lil Baby","A-Town",MuIBOPNO1mWDaEt7qBtYg
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Young Thug","Just Might Be",aUO38r5tnMbnd6PGMfWxs
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Tokyo Jetz","No Problem",gasQQR5ZhOvrGpY0vULWL
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Zaytoven","Mo Reala",B6MWIzXwsTWQpqYzw9bBI
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"8Ball & MJG","Space Age Pimpin'",b8WvjQ6aT3MrqouZHCqsE
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Future","SOME MORE",sT2yQrTJbs0aubnGwuuiw
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"DaBaby","4x (feat. Stunna 4 Vegas)",MNafieQviBWZ8lEtSf8nS
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Camoflauge","Fuck Friends",HYMZaY3lXilo3YLzIzSZT
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Rich Homie Quan","Better Watch What You Sayin",cZqJCZbztAXFTeUlMsoYN
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Juvenile","400 Degreez",nXQHx4yYKsZqrm7y4bj03
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"2FEET","No Freestyle (feat. Young Nudy)",ynnhX3p6t1EZMSELW9MLv
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"DJ Kutt Throat","Sexy Girl Anthem",AQFkj5hDP1EQBMwoLFT6a
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Marlo","Shootin Sh*t Up",IpRN2yhV5wzqmO8oKcLrb
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Lil Jon & The East Side Boyz","Nothins Free featuring Oobie",cA1OzfmAxQij4i4X1QDNn
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Lathun","Freak It",2hwiuel0E57ObJtCEMkIe
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"FREE CHAPEL MUSIC","Here I Am",BLG9IoqmzdznzgW6dlCxG
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Gucci Mane","I Think I Love Her",9bnCzrtKoNITRpwcuZl46
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"The Dirty Guv'nahs","Baby We Were Young",R43tpVyoriRvtr7ldB8Zo
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"U.S.D.A.","Throw This Money",yOOpnwHZ7rVquz9rAKJiV
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"LightSkinKeisha","Believe Dat",hiJeMEYygZkE53slTtjgw
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Hustle Gang","Friends",zyHb6wrRALMIyCZgwLw5u
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"William Murphy","It's Working",cfvKRVBkw0i6usuYwsYSI
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Ludacris","Georgia",Oany7rm9uIi7TLlaBjouD
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Young Dro","We In Da City",kPgn96FXEO9Bnz9QN1Tc0
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"City Girls","Tighten Up",2TXfodRWjRIiOVgoWCAZI
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Moneybagg Yo","No Cutt (feat. Lil Baby)",pQ4sMgskv2XeGCInss0qB
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Lil Donald","#SayItTwice",6s4Mv4nTTRQSdEpwoGwZD
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Stunna 4 Vegas","Animal (feat. DaBaby)",Q6SwrBAWfshnXd5WIchdR
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Marvin Sapp","The Best In Me",B5NWdLAt8GC4WKTPUCrLM
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"B La B","Sunday Morning",Vb1f3PQjtyWeNCNmEZUcD
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Gunna","Almighty (feat. Hoodrich Pablo Juan)",FsnTycveplwrTPRjJwbwr
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Chrisette Michele","A Couple Of Forevers",Vlk8O848wZuu9CLWnAYSb
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Jon Langston","She's so Georgia",Yx8vhhfm0pcw6MwJ5w4xG
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Lil Ru","The Nasty Song",OEKdLpIhPT11FR746kOoQ
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Scotty Atl","Ratchet",vmPW9HkYjkJxeOTGI4i5E
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Honcho Moonk","Fucc Valentines",MmdUfD6WnJV7HG102Cxzq
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Silk","Lose Control",PtwvKN5m8B0HVel2kOdoX
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Moon Taxi","River Water",KCwb4Fve83ttaluavFDv9
+Atlanta Georgia US,2t6uU8AELDRclkCaw1vydr,"Euro Gotit","Posse",Y2mVGL5uIdDTcd3xtTD4c
