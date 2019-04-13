@@ -1,4 +1,5 @@
 # exclude unnecessary files
+data/
 ignore/
 
 # PyCharm files

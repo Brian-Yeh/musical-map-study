@@ -2,75 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a91037cf-54f3-4e7a-80c8-6f3b74f1cd77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/everyplace_list.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/id_map.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/lyrics/2lyrics_for_2019-4-5_14-17-22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/lyrics/3lyrics_for_2019-4-5_14-17-22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/lyrics/lyrics_2019-4-5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/lyrics/lyrics_for_2019-4-5_14-17-22 copy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/lyrics/lyrics_for_2019-4-5_14-17-22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/lyrics/lyrics_with_lang.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/playlists.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/playlists_info.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/song_info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-2-12_13-40-43.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-2-12_13-42-43.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-2-12_13-43-21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-2-14_19-19-4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-2-14_19-24-58.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-2-14_19-27-55.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-2-27_21-18-23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-2-27_21-20-3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-2-27_21-24-55.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-2-6_21-35-46.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-2-6_23-30-28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-3-17_12-31-9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-3-1_11-31-2 copy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-3-1_11-31-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-3-29_17-16-26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-3-29_17-16-41.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-3-29_17-30-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/bad_ids/songs_2019-3-29_17-30-40.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/lyrics_needed_temp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/lyrics_needed_temp0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/songs_2019-2-27_21-20-3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/songs_2019-3-17_12-31-9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/songs_2019-3-1_11-31-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/songs_2019-3-29_23-58-44.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/songs_2019-3-30_0-25-19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/songs/songs_2019-4-5_14-17-22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/world-countries.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../notebooks/Misc.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../notebooks/Text_Analysis-Copy1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../notebooks/Text_Analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../notebooks/id_fix.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../notebooks/map_visualizations.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../report/analyses/analysis_2019-03-17/plots/musical_vs_lyrical_valence.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../report/analyses/analysis_2019-03-17/plots/valence_for_countries_100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../report/analyses/analysis_2019-03-17/plots/valence_for_countries_150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../report/analyses/analysis_2019-03-17/plots/valence_for_countries_50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../report/analyses/analysis_2019-03-17/stats/country_count.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../report/analyses/analysis_2019-03-17/stats/language_stats copy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../report/analyses/analysis_2019-03-17/stats/language_stats.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../report/analyses/analysis_2019-03-17/stats/songs_2019-3-1_11-31-2_unique.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../report/analyses/analysis_2019-03-17/tokenizations/AU_space_tokens_top50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../report/analyses/analysis_2019-03-17/tokenizations/AU_tokens_top50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../report/analyses/analysis_2019-03-17/tokenizations/edmond_oklahoma_US_tokens_top50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../report/analyses/analysis_2019-03-17/tokenizations/york_GB_tokens_top50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../report/figures/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/every_place_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_lyrics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map_playlists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playlist_songs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process_raw_lyrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notebooks/Misc.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../notebooks/Misc.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notebooks/Text_Analysis-Copy1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../notebooks/Text_Analysis-Copy1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_raw_lyrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/process_raw_lyrics.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/process_raw_lyrics.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -418,7 +360,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2509" y="23" width="1289" height="1057" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29810727" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -486,7 +427,7 @@
     <entry file="file://$PROJECT_DIR$/process_raw_lyrics.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
