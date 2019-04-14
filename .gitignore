@@ -1,6 +1,7 @@
 # exclude unnecessary files
 data/
 ignore/
+notebooks/.ipynb_checkpoints/
 
 # PyCharm files
 # User-specific stuff
