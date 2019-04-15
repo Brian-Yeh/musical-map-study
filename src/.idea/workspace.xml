@@ -4,6 +4,8 @@
     <list default="true" id="a91037cf-54f3-4e7a-80c8-6f3b74f1cd77" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/every_place_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/every_place_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map_playlists.py" beforeDir="false" afterPath="$PROJECT_DIR$/map_playlists.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +21,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/map_playlists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="300">
               <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
@@ -31,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/every_place_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="570">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -55,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/process_raw_lyrics.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="330">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -326,9 +328,9 @@
     <list>
       <item itemvalue="Python.every_place" />
       <item itemvalue="Python.get_lyrics" />
-      <item itemvalue="Python.map_playlists" />
       <item itemvalue="Python.playlist_songs" />
       <item itemvalue="Python.process_raw_lyrics" />
+      <item itemvalue="Python.map_playlists" />
     </list>
     <recent_temporary>
       <list>
@@ -376,13 +378,7 @@
     <entry file="file://$PROJECT_DIR$/songs_2019-2-6_21-33-4.txt" />
     <entry file="file://$PROJECT_DIR$/songs_2019-2-6_21-33-55.txt" />
     <entry file="file://$PROJECT_DIR$/everyplace_list.txt" />
-    <entry file="file://$PROJECT_DIR$/playlists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="178" column="28" selection-start-line="178" selection-start-column="28" selection-end-line="178" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/playlists.txt" />
     <entry file="file://$PROJECT_DIR$/songs_2019-2-14_19-27-55.txt" />
     <entry file="file://$PROJECT_DIR$/songs_2019-2-27_21-20-3.txt" />
     <entry file="file://$PROJECT_DIR$/data/songs/songs_2019-2-27_21-20-3.txt" />
@@ -406,6 +402,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/songs/songs_2019-3-29_23-58-44.txt" />
+    <entry file="file://$PROJECT_DIR$/client.py" />
+    <entry file="file://$PROJECT_DIR$/map_playlists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/get_lyrics.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1560">
@@ -418,7 +425,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/process_raw_lyrics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="330">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -443,27 +450,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="53" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/map_playlists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/every_place_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>

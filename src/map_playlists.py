@@ -11,7 +11,7 @@ offset = 200
 
 # playlists = spotify.user_playlists(username, 50, 0)
 
-with open("../data/playlists.txt", "w+") as file:
+with open("../data/playlists/raw_playlists.txt", "w+") as file:
     file.write('name, id\n')
     while True:
         print('offset = ' + str(offset))
@@ -28,6 +28,6 @@ with open("../data/playlists.txt", "w+") as file:
             break
         else:
             offset += 50
-            time.sleep(4)
+            time.sleep(2)
 # results = spotify.search('Radiohead',10,0,'artist',None)
 # print(results)

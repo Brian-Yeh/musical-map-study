@@ -10,7 +10,7 @@ def get_everyplace_list():
     tables = list(soup.find_all('table'))
     cities = tables[1].find_all('tr', {'class': 'datarow'})
 
-    with open("everyplace_list.txt", "a") as file:
+    with open("../data/playlists/everyplace_list.txt", "a") as file:
         file.write('name\n')
         for row in cities:
             row_info = row.find_all('a')
@@ -33,8 +33,8 @@ def join_ids():
 
 
 def main():
-    # get_everyplace_list()
-    join_ids()
+    get_everyplace_list()
+    # join_ids()
 
 
 main()
