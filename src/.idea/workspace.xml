@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a91037cf-54f3-4e7a-80c8-6f3b74f1cd77" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notebooks/Misc.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../notebooks/Misc.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notebooks/Text_Analysis-Copy1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../notebooks/Text_Analysis-Copy1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/process_raw_lyrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/process_raw_lyrics.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -333,11 +324,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.playlist_songs" />
-      <item itemvalue="Python.get_lyrics" />
-      <item itemvalue="Python.process_raw_lyrics" />
       <item itemvalue="Python.every_place" />
+      <item itemvalue="Python.get_lyrics" />
       <item itemvalue="Python.map_playlists" />
+      <item itemvalue="Python.playlist_songs" />
+      <item itemvalue="Python.process_raw_lyrics" />
     </list>
     <recent_temporary>
       <list>
@@ -360,6 +351,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2509" y="23" width="1289" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29810727" />
       <window_info id="Structure" order="1" weight="0.25" />
