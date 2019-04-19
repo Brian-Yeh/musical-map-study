@@ -1,9 +1,14 @@
 import spotipy
 import time
+import json
 from spotipy.oauth2 import SpotifyClientCredentials
 
-client_credentials_manager = SpotifyClientCredentials(client_id='***REMOVED***',
-                                                      client_secret='***REMOVED***')
+key_file = '../keys.json'
+with open(key_file) as f:
+    keys = json.load(f)
+
+client_credentials_manager = SpotifyClientCredentials(client_id=keys['spotify_client_id'],
+                                                      client_secret=keys['spotify_client_secret'])
 spotify = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 username = 'thesoundsofspotify'

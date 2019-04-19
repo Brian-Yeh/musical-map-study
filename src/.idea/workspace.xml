@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a91037cf-54f3-4e7a-80c8-6f3b74f1cd77" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/every_place_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/every_place_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map_playlists.py" beforeDir="false" afterPath="$PROJECT_DIR$/map_playlists.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -152,8 +149,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2509" />
-    <option name="y" value="23" />
+    <option name="x" value="2769" />
+    <option name="y" value="230" />
     <option name="width" value="1289" />
     <option name="height" value="1057" />
   </component>
@@ -163,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,7 +172,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -352,7 +349,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2509" y="23" width="1289" height="1057" extended-state="0" />
+    <frame x="2769" y="230" width="1289" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29810727" />

@@ -4,10 +4,15 @@ import time
 from spotipy.oauth2 import SpotifyClientCredentials
 import datetime
 import pandas as pd
+import json
 from tqdm import tqdm
 
-client_credentials_manager = SpotifyClientCredentials(client_id='***REMOVED***',
-                                                      client_secret='***REMOVED***')
+key_file = '../keys.json'
+with open(key_file) as f:
+    keys = json.load(f)
+
+client_credentials_manager = SpotifyClientCredentials(client_id=keys['spotify_client_id'],
+                                                      client_secret=keys['spotify_client_secret'])
 spotify = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 username = 'thesoundsofspotify'
 now = datetime.datetime.now()
