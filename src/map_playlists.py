@@ -17,7 +17,7 @@ offset = 200
 # playlists = spotify.user_playlists(username, 50, 0)
 
 with open("../data/playlists/raw_playlists.txt", "w+") as file:
-    file.write('name, id\n')
+    file.write('name,id\n')
     while True:
         print('offset = ' + str(offset))
         playlists = spotify.user_playlists(username, 50, offset)

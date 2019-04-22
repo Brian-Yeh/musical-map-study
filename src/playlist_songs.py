@@ -19,9 +19,10 @@ now = datetime.datetime.now()
 playlists = spotify.user_playlists(username, 50, 0)
 script_dir = os.path.dirname(__file__)
 
-def write_file(playlists_df):
-    filename = ("../data/songs/songs_%s-%s-%s_%s-%s-%s.txt"
-                % (now.year, now.month, now.day, now.hour, now.minute, now.second))
+
+def get_playlist_songs(playlists_df):
+    filename = ("../data/songs/songs_%s-%s-%s.txt"
+                % (now.year, now.month, now.day))
     abs_file_path = os.path.join(script_dir, filename)
     print("Writing songs to %s" % abs_file_path)
 
@@ -30,7 +31,7 @@ def write_file(playlists_df):
 
         pbar = tqdm(total=len(playlists_df))
         for index, playlist in playlists_df.iterrows():
-            user_results = spotify.user_playlist(username, playlist['id'])
+            user_results = spotify.user_playlist(username, str(playlist['id']))
             # print(user_results)
             tracks = user_results['tracks']
             # print(user_results['tracks'])
@@ -45,6 +46,7 @@ def write_file(playlists_df):
             time.sleep(.5)
         pbar.close()
 
+
 def write_tracks(file, location, playlist_id, tracks):
     try:
         for i, item in enumerate(tracks['items']):
@@ -57,14 +59,15 @@ def write_tracks(file, location, playlist_id, tracks):
         print(item)
         pass
 
+
 def main():
-    playlists_df = pd.read_csv("../data/playlists.csv", skipinitialspace=True)
+    playlists_df = pd.read_csv("../data/playlists/playlists.csv", skipinitialspace=True)
 
     # offset if needed
     # playlists_df = playlists_df[1933:]
     # print(playlists_df.head())
 
-    write_file(playlists_df)
+    get_playlist_songs(playlists_df)
 
 
 main()
