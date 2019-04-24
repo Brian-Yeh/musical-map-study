@@ -95,7 +95,7 @@ def get_lyrics(row):
 def main():
     now = datetime.datetime.now()
 
-    song_file = 'songs_2019-4-5_14-17-22.txt'
+    song_file = 'songs_2019-4-21.txt'
     all_songs = pd.read_csv('../data/songs/'+song_file)
     all_songs.drop_duplicates(subset=['song_id'], inplace=True)
     all_songs['country'] = all_songs['location'].str[-2:]
@@ -107,7 +107,10 @@ def main():
     # print(len(all_songs))
     lyrics_needed = all_songs[all_songs['lyrics'].isnull()]
 
-    lyrics_needed = lyrics_needed.iloc[31100:31200] # Used in case script is interrupted
+    #################################################
+    # lyrics_needed = lyrics_needed.iloc[31100:31200] # Used in case script is interrupted
+    #################################################
+
     num_needed = len(lyrics_needed)
 
     lyrics_needed.to_csv(path_or_buf='../data/songs/lyrics_needed_temp.txt', index=False, encoding='utf-8')
@@ -119,7 +122,7 @@ def main():
     #
     global pbar
     pbar = tqdm(total=num_needed)
-    lyrics_filename = "data/lyrics/lyrics_for_"+song_file[6:]
+    lyrics_filename = "../data/lyrics/lyrics_for_"+song_file[6:]
     tqdm.pandas()
 
     for chunk in lyrics_needed:
