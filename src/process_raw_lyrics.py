@@ -30,7 +30,7 @@ def stats():
 
 
 def main():
-    lyrics_file = 'lyrics_for_2019-4-5_14-17-22.txt'
+    lyrics_file = 'lyrics_for_2019-5-2.txt'
     raw = pd.read_csv('../data/lyrics/raw/'+lyrics_file)
     raw['lyrics'].astype(str)
 
@@ -43,11 +43,9 @@ def main():
               & (cleaned['lyrics'] != '[Non-Lyrical Vocals]')]
     cleaned.reset_index(drop=True, inplace=True)
 
-
+    # Get language of lyrics and output resulting dataframe to CSV
     cleaned['lang'] = cleaned['lyrics'].progress_apply(get_language)
-    cleaned.to_csv(path_or_buf='../data/lyrics/processed/1'+lyrics_file, header=True, index=False, encoding='utf-8')
-    # print(spotify.audio_features(cleaned.loc[0:50, 'song_id']))
-    # pbar.close()
+    cleaned.to_csv(path_or_buf='../data/lyrics/processed/'+lyrics_file, header=True, index=False, encoding='utf-8')
 
     # Get Audio features by chunks of 50
     i = 0
@@ -63,11 +61,11 @@ def main():
     pbar.close()
 
     # Add lyrics to song_info.txt
-    song_info = pd.read_csv('../data/song_info.txt')
+    song_info = pd.read_csv('../data/lyrics/song_info.txt')
     song_info = pd.concat([song_info, cleaned], axis=0, sort=False, ignore_index=True)
     song_info.drop_duplicates(subset='song_id', inplace=True)
+    song_info.dropna(subset=['lyrics'], inplace=True)
     song_info.to_csv(path_or_buf='../data/lyrics/song_info.txt', index=False, encoding='utf-8')
-
 
 
 main()
