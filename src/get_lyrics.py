@@ -28,13 +28,11 @@ def lyric_wikia(artist, song):
     try:
         return "\""+lyricwikia.get_lyrics(artist, song)+"\""
     except Exception as e:
-        # print(e)
         return ''
 
 
 def genius_lyrics(artist, song):
     song = genius.search_song(song, artist, get_full_info=False)
-    # print(type(song.title))
     if song is None:
         return ''
 
@@ -76,8 +74,6 @@ def get_lyrics(row):
         # print('Found - Genius')
         return lyrics
 
-    # territory = str(row['location'])
-    # territory = territory[-2:]
     if row['country'] in ['TW', 'HK', 'SG', 'MY', 'JP']:
         lyrics = kkbox_lyrics(row['artist'], row['title'], row['country'])
         if lyrics != '':
@@ -88,10 +84,6 @@ def get_lyrics(row):
     return lyrics
 
 
-# print(kkbox_lyrics('David Tao', '天天', 'TW'))
-# print(genius('Kanye West', 'Monster'))
-
-
 def main():
     now = datetime.datetime.now()
 
@@ -99,30 +91,36 @@ def main():
     all_songs = pd.read_csv('../data/songs/'+song_file)
     all_songs.drop_duplicates(subset=['song_id'], inplace=True)
     all_songs['country'] = all_songs['location'].str[-2:]
-    all_songs.drop(columns=['location','playlist_id'], inplace=True)
-    # all_songs = all_songs.iloc[2350:]
+    all_songs.drop(columns=['location', 'playlist_id'], inplace=True)
 
     song_info = pd.read_csv('../data/song_info.txt')
-    all_songs = all_songs.merge(right=song_info[['song_id', 'lyrics']], on='song_id', how='left')
-    # print(len(all_songs))
-    lyrics_needed = all_songs[all_songs['lyrics'].isnull()]
+
+    attempt_all_lyrics = False
+
+    if attempt_all_lyrics:
+        # Get lyrics for entire song_info database
+        all_songs = all_songs.merge(right=song_info[['song_id', 'lyrics']], on='song_id', how='left')
+        lyrics_needed = all_songs[all_songs['lyrics'].isnull()]
+    else:
+        # Get lyrics for just the songs file
+        song_info = song_info.merge(right=all_songs[['song_id', 'lyrics']], on='song_id', how='left')
+        lyrics_needed = song_info[song_info['lyrics'].isnull()]
+
+    num_needed = len(lyrics_needed)
+    lyrics_needed.to_csv(path_or_buf='../data/songs/lyrics_needed_temp.txt', index=False, encoding='utf-8')
+    lyrics_needed = pd.read_csv('../data/songs/lyrics_needed_temp.txt', chunksize=chunk_size)
 
     #################################################
     # lyrics_needed = lyrics_needed.iloc[31100:31200] # Used in case script is interrupted
+    write_header = True    # Set False if running partial songs file (i.e. script was interrupted)
     #################################################
 
-    num_needed = len(lyrics_needed)
-
-    lyrics_needed.to_csv(path_or_buf='../data/songs/lyrics_needed_temp.txt', index=False, encoding='utf-8')
-
-    lyrics_needed = pd.read_csv('../data/songs/lyrics_needed_temp.txt', chunksize=chunk_size)
     count = 0
-    write_header = False
     print("Getting lyrics for " + str(num_needed) + " songs")
-    #
+
     global pbar
     pbar = tqdm(total=num_needed)
-    lyrics_filename = "../data/lyrics/lyrics_for_"+song_file[6:]
+    lyrics_filename = "../data/lyrics/raw/lyrics_for_"+song_file[6:]
     tqdm.pandas()
 
     for chunk in lyrics_needed:
@@ -132,13 +130,7 @@ def main():
                      header=write_header, index=False, encoding='utf-8')
         write_header = False
         count += chunk_size
-        # print('==== %s songs processed ====' % str(count))
     pbar.close()
 
 
 main()
-# df = pd.read_csv('data/lyrics.txt')
-# df.lyrics.astype(str)
-# for index, row in df.iterrows():
-#     if len(str(row['lyrics'])) > 10000:
-#         print(row['artist'] + ', ' + row['title'])
