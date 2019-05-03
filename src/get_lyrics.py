@@ -32,14 +32,17 @@ def lyric_wikia(artist, song):
 
 
 def genius_lyrics(artist, song):
-    song = genius.search_song(song, artist, get_full_info=False)
-    if song is None:
+    try:
+        song = genius.search_song(song, artist, get_full_info=False)
+        if song is None:
+            return ''
+
+        if song.artist == artist:
+            return "\""+song.lyrics+"\""
+
         return ''
-
-    if song.artist == artist:
-        return "\""+song.lyrics+"\""
-
-    return ''
+    except Exception as e:
+        return ''
 
 
 def kkbox_lyrics(artist, song, territory):
@@ -85,35 +88,31 @@ def get_lyrics(row):
 
 
 def main():
-    now = datetime.datetime.now()
-
-    song_file = 'songs_2019-4-21.txt'
-    all_songs = pd.read_csv('../data/songs/'+song_file)
-    all_songs.drop_duplicates(subset=['song_id'], inplace=True)
-    all_songs['country'] = all_songs['location'].str[-2:]
-    all_songs.drop(columns=['location', 'playlist_id'], inplace=True)
-
     song_info = pd.read_csv('../data/song_info.txt')
 
     attempt_all_lyrics = False
 
     if attempt_all_lyrics:
         # Get lyrics for entire song_info database
-        all_songs = all_songs.merge(right=song_info[['song_id', 'lyrics']], on='song_id', how='left')
-        lyrics_needed = all_songs[all_songs['lyrics'].isnull()]
+        lyrics_needed = song_info[song_info['lyrics'].isnull()]
     else:
         # Get lyrics for just the songs file
-        song_info = song_info.merge(right=all_songs[['song_id', 'lyrics']], on='song_id', how='left')
-        lyrics_needed = song_info[song_info['lyrics'].isnull()]
+        song_file = 'songs_2019-5-2.txt'
+        songs = pd.read_csv('../data/songs/' + song_file)
+        songs.drop_duplicates(subset=['song_id'], inplace=True)
+        songs['country'] = songs['location'].str[-2:]
+        songs.drop(columns=['location', 'playlist_id'], inplace=True)
+        songs = songs.merge(right=song_info[['song_id', 'lyrics']], on='song_id', how='left')
+        lyrics_needed = songs[songs['lyrics'].isnull()]
 
+
+    #################################################
+    # lyrics_needed = lyrics_needed.iloc[34700:] # Used in case script is interrupted
+    write_header = True    # Set False if running partial songs file (i.e. script was interrupted)
+    #################################################
     num_needed = len(lyrics_needed)
     lyrics_needed.to_csv(path_or_buf='../data/songs/lyrics_needed_temp.txt', index=False, encoding='utf-8')
     lyrics_needed = pd.read_csv('../data/songs/lyrics_needed_temp.txt', chunksize=chunk_size)
-
-    #################################################
-    # lyrics_needed = lyrics_needed.iloc[31100:31200] # Used in case script is interrupted
-    write_header = True    # Set False if running partial songs file (i.e. script was interrupted)
-    #################################################
 
     count = 0
     print("Getting lyrics for " + str(num_needed) + " songs")
