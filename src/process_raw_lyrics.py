@@ -1,6 +1,7 @@
 import pandas as pd
 import langid
 import json
+import sys
 from tqdm import tqdm
 tqdm.pandas()
 import spotipy
@@ -15,6 +16,7 @@ client_credentials_manager = SpotifyClientCredentials(client_id=keys['spotify_cl
 spotify = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 bad_string = '          \r\n            Lyrics for this song have yet to be released. Please check back once the song has been released.\r\n          \r\n        '
+bad_string_1 = '"Unfortunately, we are not licensed to display the full lyrics for this song at the moment. Hopefully we will be able to in the future. Until then... how about a random page?"'
 chunk_size = 200
 
 
@@ -29,25 +31,26 @@ def stats():
     lang_grouped.to_csv('../data/language_stats.txt', index=False, header=True)
 
 
-def main():
-    lyrics_file = 'lyrics_for_2019-5-2.txt'
-    raw = pd.read_csv('../data/lyrics/raw/'+lyrics_file)
+def process_lyrics(lyrics_file):
+    raw = pd.read_csv('../data/lyrics/raw/' + lyrics_file)
     raw['lyrics'].astype(str)
 
     raw.dropna(subset=['lyrics'], inplace=True)
     cleaned = raw[~raw.lyrics.str.contains(bad_string)]
     cleaned = cleaned[(cleaned['lyrics'] != '')
-              & (cleaned['lyrics'] != 'This music does not contain words')
-              & (cleaned['lyrics'] != 'Instrumental')
-              & (cleaned['lyrics'] != '[Instrumental]')
-              & (cleaned['lyrics'] != '[Non-Lyrical Vocals]')]
+                      & (cleaned['lyrics'] != 'This music does not contain words')
+                      & (cleaned['lyrics'] != 'Instrumental')
+                      & (cleaned['lyrics'] != '[Instrumental]')
+                      & (cleaned['lyrics'] != '\"Instrumental\"')
+                      & (cleaned['lyrics'] != '[Non-Lyrical Vocals]')]
     cleaned.reset_index(drop=True, inplace=True)
 
     # Get language of lyrics and output resulting dataframe to CSV
     cleaned['lang'] = cleaned['lyrics'].progress_apply(get_language)
-    cleaned.to_csv(path_or_buf='../data/lyrics/processed/'+lyrics_file, header=True, index=False, encoding='utf-8')
+    cleaned.to_csv(path_or_buf='../data/lyrics/processed/' + lyrics_file, header=True, index=False, encoding='utf-8')
 
     # Get Audio features by chunks of 50
+    print("\n=== Getting Audio Features ===")
     i = 0
     chunk = 50
     pbar = tqdm(total=len(cleaned))
@@ -57,7 +60,7 @@ def main():
             chunk = len(cleaned) - i + 1
         cleaned.loc[i:i + chunk, 'audio_features'] = spotify.audio_features(cleaned.loc[i:i + chunk, 'song_id'])
         i += 50
-        pbar.update(50)
+        pbar.update(chunk)
     pbar.close()
 
     # Add lyrics to song_info.txt
@@ -68,5 +71,8 @@ def main():
     song_info.to_csv(path_or_buf='../data/lyrics/song_info.txt', index=False, encoding='utf-8')
 
 
-main()
-# stats()
+if __name__ == "__main__":
+    if len(sys.argv) != 2:
+        print("ERROR: Need to provide lyrics file name as argument")
+        exit(1)
+    process_lyrics(sys.argv[1])
