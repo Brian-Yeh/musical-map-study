@@ -4,6 +4,7 @@ import lyricsgenius
 import requests
 import pandas as pd
 from tqdm import tqdm
+import time
 import datetime
 from bs4 import BeautifulSoup
 from kkbox_developer_sdk.auth_flow import KKBOXOAuth
@@ -65,6 +66,7 @@ def get_lyrics(row):
     # print(row['artist'] + ', ' + row['title'] + ' ... ', end="")
     global pbar
     pbar.update(1)
+    time.sleep(0.3)
 
     lyrics = lyric_wikia(row['artist'], row['title'])
     if lyrics != '':
@@ -77,18 +79,19 @@ def get_lyrics(row):
         # print('Found - Genius')
         return lyrics
 
-    if row['country'] in ['TW', 'HK', 'SG', 'MY', 'JP']:
-        lyrics = kkbox_lyrics(row['artist'], row['title'], row['country'])
-        if lyrics != '':
-            # print('Found - KKBOX')
-            return lyrics
+    # Don't need non-english lyrics for now
+    # if row['country'] in ['TW', 'HK', 'SG', 'MY', 'JP']:
+    #     lyrics = kkbox_lyrics(row['artist'], row['title'], row['country'])
+    #     if lyrics != '':
+    #         # print('Found - KKBOX')
+    #         return lyrics
 
     # print('Not Found.')
     return lyrics
 
 
 def main():
-    song_info = pd.read_csv('../data/song_info.txt')
+    song_info = pd.read_csv('../data/lyrics/song_info.txt')
 
     attempt_all_lyrics = False
 
@@ -97,7 +100,7 @@ def main():
         lyrics_needed = song_info[song_info['lyrics'].isnull()]
     else:
         # Get lyrics for just the songs file
-        song_file = 'songs_2019-5-2.txt'
+        song_file = 'songs_2019-5-1.txt'
         songs = pd.read_csv('../data/songs/' + song_file)
         songs.drop_duplicates(subset=['song_id'], inplace=True)
         songs['country'] = songs['location'].str[-2:]
@@ -107,7 +110,7 @@ def main():
 
 
     #################################################
-    # lyrics_needed = lyrics_needed.iloc[34700:] # Used in case script is interrupted
+    # lyrics_needed = lyrics_needed.iloc[7750:] # Used in case script is interrupted
     write_header = True    # Set False if running partial songs file (i.e. script was interrupted)
     #################################################
     num_needed = len(lyrics_needed)
@@ -123,6 +126,7 @@ def main():
     tqdm.pandas()
 
     for chunk in lyrics_needed:
+        time.sleep(3)
         chunk['lyrics'] = chunk.apply(lambda row: get_lyrics(row), axis=1)
         chunk.drop(columns=['country'], inplace=True)
         chunk.to_csv(path_or_buf=lyrics_filename, mode='a',

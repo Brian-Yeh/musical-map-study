@@ -22,20 +22,13 @@ def join_ids():
     ep_csv = pd.read_csv("../data/playlists/everyplace_list.txt")
     assert(len(ep_csv) > 0)
     print(len(ep_csv))
+
     ids_csv = pd.read_csv("../data/playlists/raw_playlists.txt")
     assert (len(ids_csv) > 0)
-    # print(ep_csv['name'].dtype, ids_csv['name'].dtype, ids_csv['id'].dtype)
-    # ids_csv['id'] = ids_csv['id'].astype(str)
+    ids_csv['id'] = ids_csv['id'].astype(str)
+
     final_list = pd.merge(ep_csv, ids_csv.drop_duplicates('name'), how='left', on='name')
     final_list.dropna(inplace=True)
     print(len(final_list))
     print(final_list.head())
     final_list.to_csv("../data/playlists/playlists.csv", index=False, encoding='utf-8')
-
-
-def main():
-    # get_everyplace_list()
-    join_ids()
-
-
-main()

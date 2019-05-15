@@ -3,6 +3,8 @@ keys.json
 data/
 ignore/
 notebooks/.ipynb_checkpoints/
+notebooks/misc_files/
+
 
 # PyCharm files
 # User-specific stuff

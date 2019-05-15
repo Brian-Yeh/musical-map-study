@@ -15,8 +15,15 @@ client_credentials_manager = SpotifyClientCredentials(client_id=keys['spotify_cl
                                                       client_secret=keys['spotify_client_secret'])
 spotify = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
-bad_string = '          \r\n            Lyrics for this song have yet to be released. Please check back once the song has been released.\r\n          \r\n        '
-bad_string_1 = '"Unfortunately, we are not licensed to display the full lyrics for this song at the moment. Hopefully we will be able to in the future. Until then... how about a random page?"'
+bad_strings = ['Lyrics for this song have yet to be released.',
+               'Unfortunately, we are not licensed to display the full lyrics for this song at the moment.',
+               '\[Not transcribed',
+               '\[instrumental',
+               '\[Instrumental',
+               '\[INSTRUMENTAL',
+               '\[Non-Lyrical',
+               'This music does not contain words',
+               '\[No Lyrics']
 chunk_size = 200
 
 
@@ -36,13 +43,13 @@ def process_lyrics(lyrics_file):
     raw['lyrics'].astype(str)
 
     raw.dropna(subset=['lyrics'], inplace=True)
-    cleaned = raw[~raw.lyrics.str.contains(bad_string)]
-    cleaned = cleaned[(cleaned['lyrics'] != '')
-                      & (cleaned['lyrics'] != 'This music does not contain words')
-                      & (cleaned['lyrics'] != 'Instrumental')
-                      & (cleaned['lyrics'] != '[Instrumental]')
-                      & (cleaned['lyrics'] != '\"Instrumental\"')
-                      & (cleaned['lyrics'] != '[Non-Lyrical Vocals]')]
+    raw['lyrics'].astype(str)
+    raw.dropna(subset=['lyrics'], inplace=True)
+    mask = (raw.lyrics.str.contains('|'.join(bad_strings))) & (raw.lyrics.str.len() < 20)
+
+    cleaned = raw[~mask]
+    cleaned = cleaned[(cleaned['lyrics'] != '')]
+    cleaned['lyrics'] = cleaned['lyrics'].str.replace("’", "\'")
     cleaned.reset_index(drop=True, inplace=True)
 
     # Get language of lyrics and output resulting dataframe to CSV
