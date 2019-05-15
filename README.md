@@ -2,7 +2,9 @@
 
 An independent study project involving textual analysis of lyrics from songs in [Spotify's Musical Map](https://insights.spotify.com/us/2016/12/07/musical-map-of-the-world-2-0/). 
 
-├── data                # Not included in repo, can be downloaded from [Google Drive](https://drive.google.com/open?id=1vUhsu3XWXJSoJHwA1KU2bOt9kw6LXPe0)
+Data is not included in this repo but can be downloaded from [Google Drive](https://drive.google.com/open?id=1vUhsu3XWXJSoJHwA1KU2bOt9kw6LXPe0)
+``` bash
+├── data                # Not included in repo, see link above
 │   ├── lyrics          # Stores raw and processed lyrics, the main dataset of lyrics (song_info.txt) is also located here
 │   ├── playlists       # Data containing info for Musical Map playlists
 │   ├── songs           # CSV files that represent all the songs in the Musical Map and their corresponding playlist for a certain week
@@ -15,3 +17,4 @@ An independent study project involving textual analysis of lyrics from songs in 
 │   ├── analyses        # Some analyses for certain weekly datasets
 ├── keys-sample.json    # Spotify client id and secret keys go here, must be renamed to keys.json
 └── README.md
+````
