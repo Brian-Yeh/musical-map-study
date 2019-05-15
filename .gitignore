@@ -1,5 +1,6 @@
 # exclude unnecessary files
 keys.json
+report/*.docx
 data/
 ignore/
 notebooks/.ipynb_checkpoints/
